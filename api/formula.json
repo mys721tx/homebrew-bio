@@ -1,7 +1,7 @@
 [
   {
     "name": "abacas",
-    "full_name": "brewsci/bio/abacas",
+    "full_name": "mys721tx/bio/abacas",
     "oldname": null,
     "aliases": [],
     "versioned_formulae": [],
@@ -42,6 +42,7 @@
     ],
     "recommended_dependencies": [],
     "optional_dependencies": [],
+    "uses_from_macos": [],
     "requirements": [],
     "conflicts_with": [],
     "caveats": null,
@@ -52,7 +53,7 @@
   },
   {
     "name": "abricate",
-    "full_name": "brewsci/bio/abricate",
+    "full_name": "mys721tx/bio/abricate",
     "oldname": null,
     "aliases": [],
     "versioned_formulae": [],
@@ -100,6 +101,7 @@
     ],
     "recommended_dependencies": [],
     "optional_dependencies": [],
+    "uses_from_macos": [],
     "requirements": [],
     "conflicts_with": [],
     "caveats": null,
@@ -110,7 +112,7 @@
   },
   {
     "name": "abyss-explorer",
-    "full_name": "brewsci/bio/abyss-explorer",
+    "full_name": "mys721tx/bio/abyss-explorer",
     "oldname": null,
     "aliases": [],
     "versioned_formulae": [],
@@ -153,6 +155,7 @@
     ],
     "recommended_dependencies": [],
     "optional_dependencies": [],
+    "uses_from_macos": [],
     "requirements": [],
     "conflicts_with": [],
     "caveats": null,
@@ -163,14 +166,14 @@
   },
   {
     "name": "adam",
-    "full_name": "brewsci/bio/adam",
+    "full_name": "mys721tx/bio/adam",
     "oldname": null,
     "aliases": [],
     "versioned_formulae": [],
     "desc": "Genomics analysis platform built on Apache Avro, Apache Spark and Parquet",
     "homepage": "https://github.com/bigdatagenomics/adam",
     "versions": {
-      "stable": "0.29.0",
+      "stable": "0.30.0",
       "devel": null,
       "head": "HEAD",
       "bottle": true
@@ -184,13 +187,13 @@
         "prefix": "/home/linuxbrew/.linuxbrew",
         "root_url": "https://linuxbrew.bintray.com/bottles-bio",
         "files": {
-          "sierra": {
-            "url": "https://linuxbrew.bintray.com/bottles-bio/adam-0.29.0.sierra.bottle.tar.gz",
-            "sha256": "aa77cfc798dec6e26ea21626e2c6e9ab7e4a7aff7356a3008094e39a77634a8e"
+          "mojave": {
+            "url": "https://linuxbrew.bintray.com/bottles-bio/adam-0.30.0.mojave.bottle.tar.gz",
+            "sha256": "e17eae45abcfc7cc75e784c33d488d5251d58259437aefc89b156c35f88be492"
           },
           "x86_64_linux": {
-            "url": "https://linuxbrew.bintray.com/bottles-bio/adam-0.29.0.x86_64_linux.bottle.tar.gz",
-            "sha256": "2c96a3aa6d447d10a1e8550f480f6d7c9e9533dfee94be790b75953f691d8b8a"
+            "url": "https://linuxbrew.bintray.com/bottles-bio/adam-0.30.0.x86_64_linux.bottle.tar.gz",
+            "sha256": "157467bfd7794832da9c3eb0e5a6b2fdc2100379e8e0f2687077973045e25176"
           }
         }
       }
@@ -204,6 +207,7 @@
     ],
     "recommended_dependencies": [],
     "optional_dependencies": [],
+    "uses_from_macos": [],
     "requirements": [],
     "conflicts_with": [],
     "caveats": null,
@@ -214,7 +218,7 @@
   },
   {
     "name": "ale",
-    "full_name": "brewsci/bio/ale",
+    "full_name": "mys721tx/bio/ale",
     "oldname": null,
     "aliases": [],
     "versioned_formulae": [],
@@ -255,6 +259,7 @@
     ],
     "recommended_dependencies": [],
     "optional_dependencies": [],
+    "uses_from_macos": [],
     "requirements": [],
     "conflicts_with": [],
     "caveats": null,
@@ -265,7 +270,7 @@
   },
   {
     "name": "andi",
-    "full_name": "brewsci/bio/andi",
+    "full_name": "mys721tx/bio/andi",
     "oldname": null,
     "aliases": [],
     "versioned_formulae": [],
@@ -311,6 +316,7 @@
     ],
     "recommended_dependencies": [],
     "optional_dependencies": [],
+    "uses_from_macos": [],
     "requirements": [],
     "conflicts_with": [],
     "caveats": null,
@@ -321,7 +327,7 @@
   },
   {
     "name": "any2fasta",
-    "full_name": "brewsci/bio/any2fasta",
+    "full_name": "mys721tx/bio/any2fasta",
     "oldname": null,
     "aliases": [],
     "versioned_formulae": [],
@@ -360,6 +366,7 @@
     "dependencies": [],
     "recommended_dependencies": [],
     "optional_dependencies": [],
+    "uses_from_macos": [],
     "requirements": [],
     "conflicts_with": [],
     "caveats": null,
@@ -370,7 +377,7 @@
   },
   {
     "name": "apbspdb2pqr",
-    "full_name": "brewsci/bio/apbspdb2pqr",
+    "full_name": "mys721tx/bio/apbspdb2pqr",
     "oldname": null,
     "aliases": [],
     "versioned_formulae": [],
@@ -417,6 +424,7 @@
     ],
     "recommended_dependencies": [],
     "optional_dependencies": [],
+    "uses_from_macos": [],
     "requirements": [],
     "conflicts_with": [],
     "caveats": null,
@@ -427,7 +435,7 @@
   },
   {
     "name": "aragorn",
-    "full_name": "brewsci/bio/aragorn",
+    "full_name": "mys721tx/bio/aragorn",
     "oldname": null,
     "aliases": [],
     "versioned_formulae": [],
@@ -466,6 +474,7 @@
     "dependencies": [],
     "recommended_dependencies": [],
     "optional_dependencies": [],
+    "uses_from_macos": [],
     "requirements": [],
     "conflicts_with": [],
     "caveats": null,
@@ -476,14 +485,14 @@
   },
   {
     "name": "arcs",
-    "full_name": "brewsci/bio/arcs",
+    "full_name": "mys721tx/bio/arcs",
     "oldname": null,
     "aliases": [],
     "versioned_formulae": [],
     "desc": "Scaffold genome sequence assemblies using 10x Genomics data",
     "homepage": "https://github.com/bcgsc/arcs",
     "versions": {
-      "stable": "1.1.0",
+      "stable": "1.1.1",
       "devel": null,
       "head": "HEAD",
       "bottle": true
@@ -497,13 +506,13 @@
         "prefix": "/home/linuxbrew/.linuxbrew",
         "root_url": "https://linuxbrew.bintray.com/bottles-bio",
         "files": {
-          "sierra": {
-            "url": "https://linuxbrew.bintray.com/bottles-bio/arcs-1.1.0.sierra.bottle.tar.gz",
-            "sha256": "763acfd8a19d9b0f3f242a3ed5e980f1a55155242f6020a9b78f873e6a3ddede"
+          "catalina": {
+            "url": "https://linuxbrew.bintray.com/bottles-bio/arcs-1.1.1.catalina.bottle.tar.gz",
+            "sha256": "c8075e27fb5d1c6f4cc3091f0480089137d4f6b0570fb7a550d34f2ebbc61b36"
           },
           "x86_64_linux": {
-            "url": "https://linuxbrew.bintray.com/bottles-bio/arcs-1.1.0.x86_64_linux.bottle.tar.gz",
-            "sha256": "22e26ecd9e44654890f83725f1e2e9acef7bd1c35df0130a0bdad062db3a2161"
+            "url": "https://linuxbrew.bintray.com/bottles-bio/arcs-1.1.1.x86_64_linux.bottle.tar.gz",
+            "sha256": "40e0c50ce2615b6f2df8a8e60ffa008af3ab74b68e1bf12c52d1dbb1b4a0f0dc"
           }
         }
       }
@@ -520,6 +529,7 @@
     ],
     "recommended_dependencies": [],
     "optional_dependencies": [],
+    "uses_from_macos": [],
     "requirements": [],
     "conflicts_with": [],
     "caveats": null,
@@ -530,7 +540,7 @@
   },
   {
     "name": "arks",
-    "full_name": "brewsci/bio/arks",
+    "full_name": "mys721tx/bio/arks",
     "oldname": null,
     "aliases": [],
     "versioned_formulae": [],
@@ -576,6 +586,7 @@
     ],
     "recommended_dependencies": [],
     "optional_dependencies": [],
+    "uses_from_macos": [],
     "requirements": [],
     "conflicts_with": [],
     "caveats": null,
@@ -586,7 +597,7 @@
   },
   {
     "name": "art",
-    "full_name": "brewsci/bio/art",
+    "full_name": "mys721tx/bio/art",
     "oldname": null,
     "aliases": [],
     "versioned_formulae": [],
@@ -627,6 +638,7 @@
     ],
     "recommended_dependencies": [],
     "optional_dependencies": [],
+    "uses_from_macos": [],
     "requirements": [],
     "conflicts_with": [],
     "caveats": null,
@@ -637,7 +649,7 @@
   },
   {
     "name": "artemis",
-    "full_name": "brewsci/bio/artemis",
+    "full_name": "mys721tx/bio/artemis",
     "oldname": null,
     "aliases": [],
     "versioned_formulae": [],
@@ -678,6 +690,7 @@
     ],
     "recommended_dependencies": [],
     "optional_dependencies": [],
+    "uses_from_macos": [],
     "requirements": [],
     "conflicts_with": [],
     "caveats": null,
@@ -688,7 +701,7 @@
   },
   {
     "name": "ascp",
-    "full_name": "brewsci/bio/ascp",
+    "full_name": "mys721tx/bio/ascp",
     "oldname": null,
     "aliases": [],
     "versioned_formulae": [],
@@ -729,6 +742,7 @@
     "dependencies": [],
     "recommended_dependencies": [],
     "optional_dependencies": [],
+    "uses_from_macos": [],
     "requirements": [],
     "conflicts_with": [],
     "caveats": "Aspera keys are in $(brew --prefix)/Cellar/ascp/3.7.7/etc\nAspera certificates are in $(brew --prefix)/Cellar/ascp/3.7.7/certs\n",
@@ -739,7 +753,7 @@
   },
   {
     "name": "astral",
-    "full_name": "brewsci/bio/astral",
+    "full_name": "mys721tx/bio/astral",
     "oldname": null,
     "aliases": [],
     "versioned_formulae": [],
@@ -780,6 +794,7 @@
     ],
     "recommended_dependencies": [],
     "optional_dependencies": [],
+    "uses_from_macos": [],
     "requirements": [],
     "conflicts_with": [],
     "caveats": null,
@@ -790,7 +805,7 @@
   },
   {
     "name": "bali-phy",
-    "full_name": "brewsci/bio/bali-phy",
+    "full_name": "mys721tx/bio/bali-phy",
     "oldname": null,
     "aliases": [],
     "versioned_formulae": [],
@@ -836,6 +851,7 @@
     ],
     "recommended_dependencies": [],
     "optional_dependencies": [],
+    "uses_from_macos": [],
     "requirements": [],
     "conflicts_with": [],
     "caveats": null,
@@ -846,7 +862,7 @@
   },
   {
     "name": "bam2fastx",
-    "full_name": "brewsci/bio/bam2fastx",
+    "full_name": "mys721tx/bio/bam2fastx",
     "oldname": null,
     "aliases": [],
     "versioned_formulae": [],
@@ -894,6 +910,7 @@
     ],
     "recommended_dependencies": [],
     "optional_dependencies": [],
+    "uses_from_macos": [],
     "requirements": [],
     "conflicts_with": [],
     "caveats": null,
@@ -904,7 +921,7 @@
   },
   {
     "name": "bamm",
-    "full_name": "brewsci/bio/bamm",
+    "full_name": "mys721tx/bio/bamm",
     "oldname": null,
     "aliases": [],
     "versioned_formulae": [],
@@ -945,6 +962,7 @@
     "dependencies": [],
     "recommended_dependencies": [],
     "optional_dependencies": [],
+    "uses_from_macos": [],
     "requirements": [],
     "conflicts_with": [],
     "caveats": null,
@@ -955,7 +973,7 @@
   },
   {
     "name": "bandage",
-    "full_name": "brewsci/bio/bandage",
+    "full_name": "mys721tx/bio/bandage",
     "oldname": null,
     "aliases": [],
     "versioned_formulae": [],
@@ -996,6 +1014,7 @@
     ],
     "recommended_dependencies": [],
     "optional_dependencies": [],
+    "uses_from_macos": [],
     "requirements": [
       {
         "name": "linux",
@@ -1012,7 +1031,7 @@
   },
   {
     "name": "barrnap",
-    "full_name": "brewsci/bio/barrnap",
+    "full_name": "mys721tx/bio/barrnap",
     "oldname": null,
     "aliases": [],
     "versioned_formulae": [],
@@ -1054,6 +1073,7 @@
     ],
     "recommended_dependencies": [],
     "optional_dependencies": [],
+    "uses_from_macos": [],
     "requirements": [],
     "conflicts_with": [],
     "caveats": null,
@@ -1064,7 +1084,7 @@
   },
   {
     "name": "bazam",
-    "full_name": "brewsci/bio/bazam",
+    "full_name": "mys721tx/bio/bazam",
     "oldname": null,
     "aliases": [],
     "versioned_formulae": [],
@@ -1105,6 +1125,7 @@
     ],
     "recommended_dependencies": [],
     "optional_dependencies": [],
+    "uses_from_macos": [],
     "requirements": [],
     "conflicts_with": [],
     "caveats": null,
@@ -1115,14 +1136,14 @@
   },
   {
     "name": "bbtools",
-    "full_name": "brewsci/bio/bbtools",
+    "full_name": "mys721tx/bio/bbtools",
     "oldname": null,
     "aliases": [],
     "versioned_formulae": [],
     "desc": "Suite of Brian Bushnell's tools for manipulating reads",
     "homepage": "https://jgi.doe.gov/data-and-tools/bbtools/",
     "versions": {
-      "stable": "38.59",
+      "stable": "38.70",
       "devel": null,
       "head": null,
       "bottle": true
@@ -1136,13 +1157,13 @@
         "prefix": "/home/linuxbrew/.linuxbrew",
         "root_url": "https://linuxbrew.bintray.com/bottles-bio",
         "files": {
-          "sierra": {
-            "url": "https://linuxbrew.bintray.com/bottles-bio/bbtools-38.59.sierra.bottle.tar.gz",
-            "sha256": "de114b9cac2dc1c82fdec73d78b5a7253ff1859d1a9a9e1dbbbf38e0ebb499fd"
+          "mojave": {
+            "url": "https://linuxbrew.bintray.com/bottles-bio/bbtools-38.70.mojave.bottle.tar.gz",
+            "sha256": "3436568b7a2c36aa00a6f87665f9beeb82ad721a8bb047006ed09296fa46ea68"
           },
           "x86_64_linux": {
-            "url": "https://linuxbrew.bintray.com/bottles-bio/bbtools-38.59.x86_64_linux.bottle.tar.gz",
-            "sha256": "aec7994d744031765a80c489bc3bf9ad6464c3b36e72201b85779261f4ff9fb1"
+            "url": "https://linuxbrew.bintray.com/bottles-bio/bbtools-38.70.x86_64_linux.bottle.tar.gz",
+            "sha256": "3ee41c32a6c380184637465dc864500207f3d256323b93dd2cd7098bf10a7f3f"
           }
         }
       }
@@ -1156,6 +1177,7 @@
     ],
     "recommended_dependencies": [],
     "optional_dependencies": [],
+    "uses_from_macos": [],
     "requirements": [],
     "conflicts_with": [],
     "caveats": null,
@@ -1166,7 +1188,7 @@
   },
   {
     "name": "bcalm",
-    "full_name": "brewsci/bio/bcalm",
+    "full_name": "mys721tx/bio/bcalm",
     "oldname": null,
     "aliases": [],
     "versioned_formulae": [],
@@ -1209,6 +1231,7 @@
     ],
     "recommended_dependencies": [],
     "optional_dependencies": [],
+    "uses_from_macos": [],
     "requirements": [],
     "conflicts_with": [],
     "caveats": null,
@@ -1219,14 +1242,14 @@
   },
   {
     "name": "beast2",
-    "full_name": "brewsci/bio/beast2",
+    "full_name": "mys721tx/bio/beast2",
     "oldname": null,
     "aliases": [],
     "versioned_formulae": [],
     "desc": "Bayesian evolutionary analysis by sampling trees",
     "homepage": "https://www.beast2.org/",
     "versions": {
-      "stable": "2.5.2",
+      "stable": "2.6.1",
       "devel": null,
       "head": null,
       "bottle": true
@@ -1241,12 +1264,12 @@
         "root_url": "https://linuxbrew.bintray.com/bottles-bio",
         "files": {
           "sierra": {
-            "url": "https://linuxbrew.bintray.com/bottles-bio/beast2-2.5.2.sierra.bottle.tar.gz",
-            "sha256": "0c691344ed296f3dfad345a41452232e5d4171448243a8328ec3eda83464338b"
+            "url": "https://linuxbrew.bintray.com/bottles-bio/beast2-2.6.1.sierra.bottle.tar.gz",
+            "sha256": "d172b12ab67807d7d3f1e61769782b24c47bf912a8ba27c2333311a7e6166f32"
           },
           "x86_64_linux": {
-            "url": "https://linuxbrew.bintray.com/bottles-bio/beast2-2.5.2.x86_64_linux.bottle.tar.gz",
-            "sha256": "0d9d25160218d6650246f3955791603e61d450bcb152d7b15f9c5ce2459e319f"
+            "url": "https://linuxbrew.bintray.com/bottles-bio/beast2-2.6.1.x86_64_linux.bottle.tar.gz",
+            "sha256": "36ebbabeb1f1e7b7f33ee8f6aebb2f438237539ea38e9607390ecf3d49b0391a"
           }
         }
       }
@@ -1262,9 +1285,10 @@
     ],
     "recommended_dependencies": [],
     "optional_dependencies": [],
+    "uses_from_macos": [],
     "requirements": [],
     "conflicts_with": [],
-    "caveats": "This install coexists with BEAST 1.x as all scripts are suffixed with '-2':\n    beast-2 -help\n\nTo use the unprefixed versions, add $(brew --prefix)/Cellar/beast2/2.5.2/libexec/bin to your PATH.\n",
+    "caveats": "This install coexists with BEAST 1.x as all scripts are suffixed with '-2':\n    beast-2 -help\n\nTo use the unprefixed versions, add $(brew --prefix)/Cellar/beast2/2.6.1/libexec/bin to your PATH.\n",
     "installed": [],
     "linked_keg": null,
     "pinned": false,
@@ -1272,7 +1296,7 @@
   },
   {
     "name": "berokka",
-    "full_name": "brewsci/bio/berokka",
+    "full_name": "mys721tx/bio/berokka",
     "oldname": null,
     "aliases": [],
     "versioned_formulae": [],
@@ -1315,6 +1339,7 @@
     ],
     "recommended_dependencies": [],
     "optional_dependencies": [],
+    "uses_from_macos": [],
     "requirements": [],
     "conflicts_with": [],
     "caveats": null,
@@ -1325,7 +1350,7 @@
   },
   {
     "name": "bfc",
-    "full_name": "brewsci/bio/bfc",
+    "full_name": "mys721tx/bio/bfc",
     "oldname": null,
     "aliases": [],
     "versioned_formulae": [],
@@ -1366,6 +1391,7 @@
     ],
     "recommended_dependencies": [],
     "optional_dependencies": [],
+    "uses_from_macos": [],
     "requirements": [],
     "conflicts_with": [],
     "caveats": null,
@@ -1376,7 +1402,7 @@
   },
   {
     "name": "biobloomtools",
-    "full_name": "brewsci/bio/biobloomtools",
+    "full_name": "mys721tx/bio/biobloomtools",
     "oldname": null,
     "aliases": [],
     "versioned_formulae": [],
@@ -1421,6 +1447,7 @@
     ],
     "recommended_dependencies": [],
     "optional_dependencies": [],
+    "uses_from_macos": [],
     "requirements": [],
     "conflicts_with": [],
     "caveats": null,
@@ -1431,7 +1458,7 @@
   },
   {
     "name": "biomake",
-    "full_name": "brewsci/bio/biomake",
+    "full_name": "mys721tx/bio/biomake",
     "oldname": null,
     "aliases": [],
     "versioned_formulae": [],
@@ -1472,6 +1499,7 @@
     ],
     "recommended_dependencies": [],
     "optional_dependencies": [],
+    "uses_from_macos": [],
     "requirements": [],
     "conflicts_with": [],
     "caveats": null,
@@ -1482,7 +1510,7 @@
   },
   {
     "name": "bioperl",
-    "full_name": "brewsci/bio/bioperl",
+    "full_name": "mys721tx/bio/bioperl",
     "oldname": null,
     "aliases": [],
     "versioned_formulae": [],
@@ -1525,6 +1553,7 @@
     ],
     "recommended_dependencies": [],
     "optional_dependencies": [],
+    "uses_from_macos": [],
     "requirements": [],
     "conflicts_with": [],
     "caveats": null,
@@ -1535,7 +1564,7 @@
   },
   {
     "name": "blast-legacy",
-    "full_name": "brewsci/bio/blast-legacy",
+    "full_name": "mys721tx/bio/blast-legacy",
     "oldname": null,
     "aliases": [],
     "versioned_formulae": [],
@@ -1574,6 +1603,7 @@
     "dependencies": [],
     "recommended_dependencies": [],
     "optional_dependencies": [],
+    "uses_from_macos": [],
     "requirements": [],
     "conflicts_with": [],
     "caveats": "Tools 'rpsblast' and 'seedtop' were installed as 'rpsblast.legacy' and 'seedtop.legacy'\nto avoid conflicts with the BLAST+ executables.\n",
@@ -1584,7 +1614,7 @@
   },
   {
     "name": "blat",
-    "full_name": "brewsci/bio/blat",
+    "full_name": "mys721tx/bio/blat",
     "oldname": null,
     "aliases": [],
     "versioned_formulae": [],
@@ -1596,7 +1626,7 @@
       "head": null,
       "bottle": true
     },
-    "revision": 0,
+    "revision": 1,
     "version_scheme": 0,
     "bottle": {
       "stable": {
@@ -1606,12 +1636,12 @@
         "root_url": "https://linuxbrew.bintray.com/bottles-bio",
         "files": {
           "sierra": {
-            "url": "https://linuxbrew.bintray.com/bottles-bio/blat-36.sierra.bottle.tar.gz",
-            "sha256": "3cc1890800350138e4a7d0db4fe9dfef2b5685d07957972f6b522f6eb274cc96"
+            "url": "https://linuxbrew.bintray.com/bottles-bio/blat-36_1.sierra.bottle.tar.gz",
+            "sha256": "176a5d7844d4a0b9609a4677c5937012f18bc8ab5456c6e909ad0ec931a45ad8"
           },
           "x86_64_linux": {
-            "url": "https://linuxbrew.bintray.com/bottles-bio/blat-36.x86_64_linux.bottle.tar.gz",
-            "sha256": "97e2bc6d6fa598620ba8815c37d0cef1c106cea310a4c8e15295138e5ed88a18"
+            "url": "https://linuxbrew.bintray.com/bottles-bio/blat-36_1.x86_64_linux.bottle.tar.gz",
+            "sha256": "8ee3683323642e0e0d3fc1fbd4c7d84b3358a8b74af5833bb6fe1a086690ebbe"
           }
         }
       }
@@ -1620,14 +1650,16 @@
     "bottle_disabled": false,
     "options": [],
     "build_dependencies": [
-      "unzip",
+      "unzip"
+    ],
+    "dependencies": [
       "libpng",
-      "mysql",
+      "mysql@5.7",
       "openssl"
     ],
-    "dependencies": [],
     "recommended_dependencies": [],
     "optional_dependencies": [],
+    "uses_from_macos": [],
     "requirements": [],
     "conflicts_with": [],
     "caveats": null,
@@ -1638,7 +1670,7 @@
   },
   {
     "name": "bonsai",
-    "full_name": "brewsci/bio/bonsai",
+    "full_name": "mys721tx/bio/bonsai",
     "oldname": null,
     "aliases": [],
     "versioned_formulae": [],
@@ -1681,6 +1713,7 @@
     ],
     "recommended_dependencies": [],
     "optional_dependencies": [],
+    "uses_from_macos": [],
     "requirements": [],
     "conflicts_with": [],
     "caveats": null,
@@ -1691,7 +1724,7 @@
   },
   {
     "name": "bowtie",
-    "full_name": "brewsci/bio/bowtie",
+    "full_name": "mys721tx/bio/bowtie",
     "oldname": null,
     "aliases": [],
     "versioned_formulae": [],
@@ -1733,6 +1766,7 @@
     ],
     "recommended_dependencies": [],
     "optional_dependencies": [],
+    "uses_from_macos": [],
     "requirements": [],
     "conflicts_with": [],
     "caveats": null,
@@ -1743,7 +1777,7 @@
   },
   {
     "name": "bracken",
-    "full_name": "brewsci/bio/bracken",
+    "full_name": "mys721tx/bio/bracken",
     "oldname": null,
     "aliases": [],
     "versioned_formulae": [],
@@ -1782,6 +1816,7 @@
     "dependencies": [],
     "recommended_dependencies": [],
     "optional_dependencies": [],
+    "uses_from_macos": [],
     "requirements": [],
     "conflicts_with": [],
     "caveats": null,
@@ -1792,7 +1827,7 @@
   },
   {
     "name": "breseq",
-    "full_name": "brewsci/bio/breseq",
+    "full_name": "mys721tx/bio/breseq",
     "oldname": null,
     "aliases": [],
     "versioned_formulae": [],
@@ -1840,6 +1875,7 @@
     ],
     "recommended_dependencies": [],
     "optional_dependencies": [],
+    "uses_from_macos": [],
     "requirements": [],
     "conflicts_with": [],
     "caveats": null,
@@ -1850,19 +1886,19 @@
   },
   {
     "name": "busco",
-    "full_name": "brewsci/bio/busco",
+    "full_name": "mys721tx/bio/busco",
     "oldname": null,
     "aliases": [],
     "versioned_formulae": [],
     "desc": "Assess genome assembly completeness with single-copy orthologs",
     "homepage": "https://busco.ezlab.org",
     "versions": {
-      "stable": "3.0.2",
+      "stable": "4.0.0",
       "devel": null,
       "head": "HEAD",
       "bottle": true
     },
-    "revision": 2,
+    "revision": 0,
     "version_scheme": 0,
     "bottle": {
       "stable": {
@@ -1871,13 +1907,13 @@
         "prefix": "/home/linuxbrew/.linuxbrew",
         "root_url": "https://linuxbrew.bintray.com/bottles-bio",
         "files": {
-          "sierra": {
-            "url": "https://linuxbrew.bintray.com/bottles-bio/busco-3.0.2_2.sierra.bottle.tar.gz",
-            "sha256": "dcd4dac383b75a661f950b5a5313824e36055ef00a149d8eb10b7dce46c0e4cc"
+          "mojave": {
+            "url": "https://linuxbrew.bintray.com/bottles-bio/busco-4.0.0.mojave.bottle.tar.gz",
+            "sha256": "27563bf86cf13349ac2f877c04241c74f82252a72ad880d0bca6d54da4a579f5"
           },
           "x86_64_linux": {
-            "url": "https://linuxbrew.bintray.com/bottles-bio/busco-3.0.2_2.x86_64_linux.bottle.tar.gz",
-            "sha256": "119c1d4ea6ab45cca36fef4f160623aa1798f7412bf50d53a4148b482051432b"
+            "url": "https://linuxbrew.bintray.com/bottles-bio/busco-4.0.0.x86_64_linux.bottle.tar.gz",
+            "sha256": "2ceb6f7acbc46ba62b673aa534b8f02145f21259948f0f66c583b5701aa65e90"
           }
         }
       }
@@ -1890,13 +1926,17 @@
       "augustus",
       "blast",
       "hmmer",
-      "python"
+      "numpy",
+      "prodigal",
+      "python",
+      "sepp"
     ],
     "recommended_dependencies": [],
     "optional_dependencies": [],
+    "uses_from_macos": [],
     "requirements": [],
     "conflicts_with": [],
-    "caveats": "You probably also want to download lineage datasets to run BUSCO:\n\n  https://busco.ezlab.org\n\nTo generate graphs, also make sure a working R is installed:\n\n  brew cask install r\n\nor alternatively\n\n  brew install r\n",
+    "caveats": "R must be installed to generate graphs.\n  brew install r\n\n",
     "installed": [],
     "linked_keg": null,
     "pinned": false,
@@ -1904,7 +1944,7 @@
   },
   {
     "name": "bwa-mem2",
-    "full_name": "brewsci/bio/bwa-mem2",
+    "full_name": "mys721tx/bio/bwa-mem2",
     "oldname": null,
     "aliases": [],
     "versioned_formulae": [],
@@ -1945,6 +1985,7 @@
     ],
     "recommended_dependencies": [],
     "optional_dependencies": [],
+    "uses_from_macos": [],
     "requirements": [],
     "conflicts_with": [],
     "caveats": null,
@@ -1955,14 +1996,14 @@
   },
   {
     "name": "cannoli",
-    "full_name": "brewsci/bio/cannoli",
+    "full_name": "mys721tx/bio/cannoli",
     "oldname": null,
     "aliases": [],
     "versioned_formulae": [],
     "desc": "Big Data Genomics ADAM Pipe API wrappers for bioinformatics tools",
     "homepage": "https://github.com/bigdatagenomics/cannoli",
     "versions": {
-      "stable": "0.7.0",
+      "stable": "0.8.0",
       "devel": null,
       "head": "HEAD",
       "bottle": true
@@ -1976,13 +2017,13 @@
         "prefix": "/home/linuxbrew/.linuxbrew",
         "root_url": "https://linuxbrew.bintray.com/bottles-bio",
         "files": {
-          "sierra": {
-            "url": "https://linuxbrew.bintray.com/bottles-bio/cannoli-0.7.0.sierra.bottle.tar.gz",
-            "sha256": "3cd2c785579e5ba45ea7111d2c4409089a3090162d5b6bedeae4b63b4d163afb"
+          "mojave": {
+            "url": "https://linuxbrew.bintray.com/bottles-bio/cannoli-0.8.0.mojave.bottle.tar.gz",
+            "sha256": "b04aa87fe838b097d346fb54d1bf38a2d64c922f1a88e17a57bac1157f734b85"
           },
           "x86_64_linux": {
-            "url": "https://linuxbrew.bintray.com/bottles-bio/cannoli-0.7.0.x86_64_linux.bottle.tar.gz",
-            "sha256": "b5a5595141e5d8469d6bd2cd6b6f97a2224389c18d3058378e83c346305d77ed"
+            "url": "https://linuxbrew.bintray.com/bottles-bio/cannoli-0.8.0.x86_64_linux.bottle.tar.gz",
+            "sha256": "0c805989de8a38f9150a8bb79f6d67edf4e455441dc9a3a4f0b8eb957f65e7bd"
           }
         }
       }
@@ -1996,6 +2037,7 @@
     ],
     "recommended_dependencies": [],
     "optional_dependencies": [],
+    "uses_from_macos": [],
     "requirements": [],
     "conflicts_with": [],
     "caveats": null,
@@ -2006,14 +2048,14 @@
   },
   {
     "name": "canu",
-    "full_name": "brewsci/bio/canu",
+    "full_name": "mys721tx/bio/canu",
     "oldname": null,
     "aliases": [],
     "versioned_formulae": [],
     "desc": "Single molecule sequence assembler",
     "homepage": "https://canu.readthedocs.org/en/latest/",
     "versions": {
-      "stable": "1.8",
+      "stable": "1.9",
       "devel": null,
       "head": "HEAD",
       "bottle": true
@@ -2023,17 +2065,17 @@
     "bottle": {
       "stable": {
         "rebuild": 0,
-        "cellar": ":any",
+        "cellar": ":any_skip_relocation",
         "prefix": "/home/linuxbrew/.linuxbrew",
         "root_url": "https://linuxbrew.bintray.com/bottles-bio",
         "files": {
-          "sierra": {
-            "url": "https://linuxbrew.bintray.com/bottles-bio/canu-1.8.sierra.bottle.tar.gz",
-            "sha256": "59f3483787bad2a576927d253a6bb4f3ebed42b4ff39f7974fb52287340b8e0e"
+          "mojave": {
+            "url": "https://linuxbrew.bintray.com/bottles-bio/canu-1.9.mojave.bottle.tar.gz",
+            "sha256": "6042a89505e9c8e553289361dfb2f7d99d3168d4234e97a35e5c91eb38c0820d"
           },
           "x86_64_linux": {
-            "url": "https://linuxbrew.bintray.com/bottles-bio/canu-1.8.x86_64_linux.bottle.tar.gz",
-            "sha256": "b5601d86b86046f9bde3fb509fd33efcd04f81a2c34da2b2502a51c0529026ae"
+            "url": "https://linuxbrew.bintray.com/bottles-bio/canu-1.9.x86_64_linux.bottle.tar.gz",
+            "sha256": "e211e9b9c1c3ba20669050606188b5025042ca9a03e2034f7fe135afc5431fc0"
           }
         }
       }
@@ -2045,6 +2087,7 @@
     "dependencies": [],
     "recommended_dependencies": [],
     "optional_dependencies": [],
+    "uses_from_macos": [],
     "requirements": [],
     "conflicts_with": [],
     "caveats": null,
@@ -2055,7 +2098,7 @@
   },
   {
     "name": "cap3",
-    "full_name": "brewsci/bio/cap3",
+    "full_name": "mys721tx/bio/cap3",
     "oldname": null,
     "aliases": [],
     "versioned_formulae": [],
@@ -2096,6 +2139,7 @@
     "dependencies": [],
     "recommended_dependencies": [],
     "optional_dependencies": [],
+    "uses_from_macos": [],
     "requirements": [],
     "conflicts_with": [],
     "caveats": null,
@@ -2106,7 +2150,7 @@
   },
   {
     "name": "cd-hit",
-    "full_name": "brewsci/bio/cd-hit",
+    "full_name": "mys721tx/bio/cd-hit",
     "oldname": null,
     "aliases": [],
     "versioned_formulae": [],
@@ -2147,6 +2191,7 @@
     ],
     "recommended_dependencies": [],
     "optional_dependencies": [],
+    "uses_from_macos": [],
     "requirements": [],
     "conflicts_with": [],
     "caveats": null,
@@ -2157,7 +2202,7 @@
   },
   {
     "name": "centrifuge",
-    "full_name": "brewsci/bio/centrifuge",
+    "full_name": "mys721tx/bio/centrifuge",
     "oldname": null,
     "aliases": [],
     "versioned_formulae": [],
@@ -2192,6 +2237,7 @@
     "dependencies": [],
     "recommended_dependencies": [],
     "optional_dependencies": [],
+    "uses_from_macos": [],
     "requirements": [
       {
         "name": "linux",
@@ -2208,7 +2254,7 @@
   },
   {
     "name": "circlator",
-    "full_name": "brewsci/bio/circlator",
+    "full_name": "mys721tx/bio/circlator",
     "oldname": null,
     "aliases": [],
     "versioned_formulae": [],
@@ -2255,6 +2301,7 @@
     ],
     "recommended_dependencies": [],
     "optional_dependencies": [],
+    "uses_from_macos": [],
     "requirements": [],
     "conflicts_with": [],
     "caveats": null,
@@ -2265,7 +2312,7 @@
   },
   {
     "name": "circos",
-    "full_name": "brewsci/bio/circos",
+    "full_name": "mys721tx/bio/circos",
     "oldname": null,
     "aliases": [],
     "versioned_formulae": [],
@@ -2310,6 +2357,7 @@
     ],
     "recommended_dependencies": [],
     "optional_dependencies": [],
+    "uses_from_macos": [],
     "requirements": [],
     "conflicts_with": [],
     "caveats": null,
@@ -2320,7 +2368,7 @@
   },
   {
     "name": "clonalframeml",
-    "full_name": "brewsci/bio/clonalframeml",
+    "full_name": "mys721tx/bio/clonalframeml",
     "oldname": null,
     "aliases": [],
     "versioned_formulae": [],
@@ -2359,6 +2407,7 @@
     "dependencies": [],
     "recommended_dependencies": [],
     "optional_dependencies": [],
+    "uses_from_macos": [],
     "requirements": [],
     "conflicts_with": [],
     "caveats": null,
@@ -2369,7 +2418,7 @@
   },
   {
     "name": "clustal-omega",
-    "full_name": "brewsci/bio/clustal-omega",
+    "full_name": "mys721tx/bio/clustal-omega",
     "oldname": null,
     "aliases": [],
     "versioned_formulae": [],
@@ -2410,6 +2459,7 @@
     ],
     "recommended_dependencies": [],
     "optional_dependencies": [],
+    "uses_from_macos": [],
     "requirements": [],
     "conflicts_with": [],
     "caveats": null,
@@ -2420,7 +2470,7 @@
   },
   {
     "name": "clustal-w",
-    "full_name": "brewsci/bio/clustal-w",
+    "full_name": "mys721tx/bio/clustal-w",
     "oldname": null,
     "aliases": [],
     "versioned_formulae": [],
@@ -2459,6 +2509,59 @@
     "dependencies": [],
     "recommended_dependencies": [],
     "optional_dependencies": [],
+    "uses_from_macos": [],
+    "requirements": [],
+    "conflicts_with": [],
+    "caveats": null,
+    "installed": [],
+    "linked_keg": null,
+    "pinned": false,
+    "outdated": false
+  },
+  {
+    "name": "cluster-picker",
+    "full_name": "mys721tx/bio/cluster-picker",
+    "oldname": null,
+    "aliases": [],
+    "versioned_formulae": [],
+    "desc": "Pick/describe HIV clusters in phylogenetic trees",
+    "homepage": "http://hiv.bio.ed.ac.uk/software.html",
+    "versions": {
+      "stable": "1.2.5",
+      "devel": null,
+      "head": null,
+      "bottle": true
+    },
+    "revision": 0,
+    "version_scheme": 0,
+    "bottle": {
+      "stable": {
+        "rebuild": 0,
+        "cellar": ":any_skip_relocation",
+        "prefix": "/home/linuxbrew/.linuxbrew",
+        "root_url": "https://linuxbrew.bintray.com/bottles-bio",
+        "files": {
+          "sierra": {
+            "url": "https://linuxbrew.bintray.com/bottles-bio/cluster-picker-1.2.5.sierra.bottle.tar.gz",
+            "sha256": "88f08aced228d5d0938531578fb0fa1f5c978451a91c99fe1b23a491251060be"
+          },
+          "x86_64_linux": {
+            "url": "https://linuxbrew.bintray.com/bottles-bio/cluster-picker-1.2.5.x86_64_linux.bottle.tar.gz",
+            "sha256": "db273226399a88119c8790292b7262fe933012b58620dabe53868348f9fee34d"
+          }
+        }
+      }
+    },
+    "keg_only": false,
+    "bottle_disabled": false,
+    "options": [],
+    "build_dependencies": [],
+    "dependencies": [
+      "adoptopenjdk"
+    ],
+    "recommended_dependencies": [],
+    "optional_dependencies": [],
+    "uses_from_macos": [],
     "requirements": [],
     "conflicts_with": [],
     "caveats": null,
@@ -2469,7 +2572,7 @@
   },
   {
     "name": "consel",
-    "full_name": "brewsci/bio/consel",
+    "full_name": "mys721tx/bio/consel",
     "oldname": null,
     "aliases": [],
     "versioned_formulae": [],
@@ -2508,6 +2611,7 @@
     "dependencies": [],
     "recommended_dependencies": [],
     "optional_dependencies": [],
+    "uses_from_macos": [],
     "requirements": [],
     "conflicts_with": [],
     "caveats": null,
@@ -2518,7 +2622,7 @@
   },
   {
     "name": "crumble",
-    "full_name": "brewsci/bio/crumble",
+    "full_name": "mys721tx/bio/crumble",
     "oldname": null,
     "aliases": [],
     "versioned_formulae": [],
@@ -2559,6 +2663,7 @@
     ],
     "recommended_dependencies": [],
     "optional_dependencies": [],
+    "uses_from_macos": [],
     "requirements": [],
     "conflicts_with": [],
     "caveats": null,
@@ -2569,14 +2674,14 @@
   },
   {
     "name": "cutadapt",
-    "full_name": "brewsci/bio/cutadapt",
+    "full_name": "mys721tx/bio/cutadapt",
     "oldname": null,
     "aliases": [],
     "versioned_formulae": [],
     "desc": "Removes adapter sequences, primers, and poly-A tails",
     "homepage": "https://github.com/marcelm/cutadapt",
     "versions": {
-      "stable": "2.3",
+      "stable": "2.6",
       "devel": null,
       "head": null,
       "bottle": true
@@ -2590,13 +2695,13 @@
         "prefix": "/home/linuxbrew/.linuxbrew",
         "root_url": "https://linuxbrew.bintray.com/bottles-bio",
         "files": {
-          "sierra": {
-            "url": "https://linuxbrew.bintray.com/bottles-bio/cutadapt-2.3.sierra.bottle.tar.gz",
-            "sha256": "108bd35c16edcb2f6dee522d95e441dbc8fb489555f8c15b4f2851ab6e972862"
+          "mojave": {
+            "url": "https://linuxbrew.bintray.com/bottles-bio/cutadapt-2.6.mojave.bottle.tar.gz",
+            "sha256": "f5cd26d5527d8f47fd1ffceee6ad9bc2802f613b48dff34e0be343bf1c912fc1"
           },
           "x86_64_linux": {
-            "url": "https://linuxbrew.bintray.com/bottles-bio/cutadapt-2.3.x86_64_linux.bottle.tar.gz",
-            "sha256": "02fa5cf6cd2f2fc590aa075d9610c090a4e59dc80628c8c7053dab1466d674b6"
+            "url": "https://linuxbrew.bintray.com/bottles-bio/cutadapt-2.6.x86_64_linux.bottle.tar.gz",
+            "sha256": "3c3650c892ef68f718e2662cb90104ea4a25d874c15de7bc8a8174c10cd21781"
           }
         }
       }
@@ -2610,6 +2715,7 @@
     ],
     "recommended_dependencies": [],
     "optional_dependencies": [],
+    "uses_from_macos": [],
     "requirements": [],
     "conflicts_with": [],
     "caveats": null,
@@ -2620,7 +2726,7 @@
   },
   {
     "name": "das_tool",
-    "full_name": "brewsci/bio/das_tool",
+    "full_name": "mys721tx/bio/das_tool",
     "oldname": null,
     "aliases": [],
     "versioned_formulae": [],
@@ -2667,6 +2773,7 @@
     ],
     "recommended_dependencies": [],
     "optional_dependencies": [],
+    "uses_from_macos": [],
     "requirements": [],
     "conflicts_with": [],
     "caveats": null,
@@ -2677,7 +2784,7 @@
   },
   {
     "name": "dehomopolymerate",
-    "full_name": "brewsci/bio/dehomopolymerate",
+    "full_name": "mys721tx/bio/dehomopolymerate",
     "oldname": null,
     "aliases": [],
     "versioned_formulae": [],
@@ -2718,6 +2825,7 @@
     ],
     "recommended_dependencies": [],
     "optional_dependencies": [],
+    "uses_from_macos": [],
     "requirements": [],
     "conflicts_with": [],
     "caveats": null,
@@ -2728,7 +2836,7 @@
   },
   {
     "name": "dida",
-    "full_name": "brewsci/bio/dida",
+    "full_name": "mys721tx/bio/dida",
     "oldname": null,
     "aliases": [],
     "versioned_formulae": [],
@@ -2770,6 +2878,7 @@
     ],
     "recommended_dependencies": [],
     "optional_dependencies": [],
+    "uses_from_macos": [],
     "requirements": [],
     "conflicts_with": [],
     "caveats": null,
@@ -2780,7 +2889,7 @@
   },
   {
     "name": "disty",
-    "full_name": "brewsci/bio/disty",
+    "full_name": "mys721tx/bio/disty",
     "oldname": null,
     "aliases": [],
     "versioned_formulae": [],
@@ -2821,6 +2930,7 @@
     ],
     "recommended_dependencies": [],
     "optional_dependencies": [],
+    "uses_from_macos": [],
     "requirements": [],
     "conflicts_with": [],
     "caveats": null,
@@ -2831,14 +2941,14 @@
   },
   {
     "name": "dsh-bio",
-    "full_name": "brewsci/bio/dsh-bio",
+    "full_name": "mys721tx/bio/dsh-bio",
     "oldname": null,
     "aliases": [],
     "versioned_formulae": [],
     "desc": "Tools for BED, FASTA, FASTQ, GFA1/2, GFF3, SAM, and VCF files",
     "homepage": "https://github.com/heuermh/dishevelled-bio",
     "versions": {
-      "stable": "1.2.1",
+      "stable": "1.3.1",
       "devel": null,
       "head": null,
       "bottle": true
@@ -2852,13 +2962,13 @@
         "prefix": "/home/linuxbrew/.linuxbrew",
         "root_url": "https://linuxbrew.bintray.com/bottles-bio",
         "files": {
-          "sierra": {
-            "url": "https://linuxbrew.bintray.com/bottles-bio/dsh-bio-1.2.1.sierra.bottle.tar.gz",
-            "sha256": "a1be0d419c4ebc43bf2cfd5354b81a753b2222dd3a595d253d38ba382e2aaf5a"
+          "catalina": {
+            "url": "https://linuxbrew.bintray.com/bottles-bio/dsh-bio-1.3.1.catalina.bottle.tar.gz",
+            "sha256": "feacf2723a08f86530008db58ab90568463eec79e10d65a7876794a36ca6a197"
           },
           "x86_64_linux": {
-            "url": "https://linuxbrew.bintray.com/bottles-bio/dsh-bio-1.2.1.x86_64_linux.bottle.tar.gz",
-            "sha256": "11e5829cc90fecf7b59e4b7590fd44d8c9d9b2cdd423fb74399e30a6be469a0b"
+            "url": "https://linuxbrew.bintray.com/bottles-bio/dsh-bio-1.3.1.x86_64_linux.bottle.tar.gz",
+            "sha256": "e52171c25de746f7acf3ac41796ddc69fbd6f1ab761fad55509ed70c7830662c"
           }
         }
       }
@@ -2872,6 +2982,7 @@
     ],
     "recommended_dependencies": [],
     "optional_dependencies": [],
+    "uses_from_macos": [],
     "requirements": [],
     "conflicts_with": [],
     "caveats": null,
@@ -2882,7 +2993,7 @@
   },
   {
     "name": "dwgsim",
-    "full_name": "brewsci/bio/dwgsim",
+    "full_name": "mys721tx/bio/dwgsim",
     "oldname": null,
     "aliases": [],
     "versioned_formulae": [],
@@ -2925,6 +3036,7 @@
     ],
     "recommended_dependencies": [],
     "optional_dependencies": [],
+    "uses_from_macos": [],
     "requirements": [],
     "conflicts_with": [],
     "caveats": null,
@@ -2935,7 +3047,7 @@
   },
   {
     "name": "e-mem",
-    "full_name": "brewsci/bio/e-mem",
+    "full_name": "mys721tx/bio/e-mem",
     "oldname": null,
     "aliases": [],
     "versioned_formulae": [],
@@ -2976,6 +3088,7 @@
     "dependencies": [],
     "recommended_dependencies": [],
     "optional_dependencies": [],
+    "uses_from_macos": [],
     "requirements": [],
     "conflicts_with": [],
     "caveats": null,
@@ -2986,7 +3099,7 @@
   },
   {
     "name": "easel",
-    "full_name": "brewsci/bio/easel",
+    "full_name": "mys721tx/bio/easel",
     "oldname": null,
     "aliases": [],
     "versioned_formulae": [],
@@ -3025,6 +3138,7 @@
     "dependencies": [],
     "recommended_dependencies": [],
     "optional_dependencies": [],
+    "uses_from_macos": [],
     "requirements": [],
     "conflicts_with": [],
     "caveats": null,
@@ -3035,14 +3149,14 @@
   },
   {
     "name": "edirect",
-    "full_name": "brewsci/bio/edirect",
+    "full_name": "mys721tx/bio/edirect",
     "oldname": null,
     "aliases": [],
     "versioned_formulae": [],
     "desc": "Access NCBI databases via the command-line",
     "homepage": "https://www.ncbi.nlm.nih.gov/books/NBK179288/",
     "versions": {
-      "stable": "12.1",
+      "stable": "12.4",
       "devel": null,
       "head": null,
       "bottle": true
@@ -3052,17 +3166,17 @@
     "bottle": {
       "stable": {
         "rebuild": 0,
-        "cellar": ":any",
+        "cellar": ":any_skip_relocation",
         "prefix": "/home/linuxbrew/.linuxbrew",
         "root_url": "https://linuxbrew.bintray.com/bottles-bio",
         "files": {
-          "sierra": {
-            "url": "https://linuxbrew.bintray.com/bottles-bio/edirect-12.1.sierra.bottle.tar.gz",
-            "sha256": "38deba89becc610a71dbe6891aa5ded018689e8834579851b60ae5322fa81a6d"
+          "mojave": {
+            "url": "https://linuxbrew.bintray.com/bottles-bio/edirect-12.4.mojave.bottle.tar.gz",
+            "sha256": "37abb2f97bb0260af84499300935e4fec412fcf385d1f2e303eb681876b47877"
           },
           "x86_64_linux": {
-            "url": "https://linuxbrew.bintray.com/bottles-bio/edirect-12.1.x86_64_linux.bottle.tar.gz",
-            "sha256": "c92a977a082d18a8438eb724258a95fd8e486a4838c76208646e0b9645f04c86"
+            "url": "https://linuxbrew.bintray.com/bottles-bio/edirect-12.4.x86_64_linux.bottle.tar.gz",
+            "sha256": "e2fcc5996db0db2bb916e14d4925883d542271c397bf949f6c45d27b9aa4cc4d"
           }
         }
       }
@@ -3080,6 +3194,7 @@
     ],
     "recommended_dependencies": [],
     "optional_dependencies": [],
+    "uses_from_macos": [],
     "requirements": [],
     "conflicts_with": [],
     "caveats": null,
@@ -3090,7 +3205,7 @@
   },
   {
     "name": "elph",
-    "full_name": "brewsci/bio/elph",
+    "full_name": "mys721tx/bio/elph",
     "oldname": null,
     "aliases": [],
     "versioned_formulae": [],
@@ -3129,6 +3244,7 @@
     "dependencies": [],
     "recommended_dependencies": [],
     "optional_dependencies": [],
+    "uses_from_macos": [],
     "requirements": [],
     "conflicts_with": [],
     "caveats": null,
@@ -3139,7 +3255,7 @@
   },
   {
     "name": "ema",
-    "full_name": "brewsci/bio/ema",
+    "full_name": "mys721tx/bio/ema",
     "oldname": null,
     "aliases": [],
     "versioned_formulae": [],
@@ -3180,6 +3296,7 @@
     ],
     "recommended_dependencies": [],
     "optional_dependencies": [],
+    "uses_from_macos": [],
     "requirements": [],
     "conflicts_with": [],
     "caveats": "The barcode whitelist is available at\n$(brew --prefix)/Cellar/ema/0.6.2/4M-with-alts-february-2016.txt",
@@ -3190,7 +3307,7 @@
   },
   {
     "name": "emboss",
-    "full_name": "brewsci/bio/emboss",
+    "full_name": "mys721tx/bio/emboss",
     "oldname": null,
     "aliases": [],
     "versioned_formulae": [],
@@ -3253,6 +3370,7 @@
       "mysql",
       "postgresql"
     ],
+    "uses_from_macos": [],
     "requirements": [
       {
         "name": "x11",
@@ -3269,14 +3387,14 @@
   },
   {
     "name": "epa-ng",
-    "full_name": "brewsci/bio/epa-ng",
+    "full_name": "mys721tx/bio/epa-ng",
     "oldname": null,
     "aliases": [],
     "versioned_formulae": [],
     "desc": "Massively parallel phylogenetic placement of genetic sequences",
     "homepage": "https://github.com/Pbdas/epa-ng",
     "versions": {
-      "stable": "0.3.5",
+      "stable": "0.3.6",
       "devel": null,
       "head": "HEAD",
       "bottle": true
@@ -3290,13 +3408,13 @@
         "prefix": "/home/linuxbrew/.linuxbrew",
         "root_url": "https://linuxbrew.bintray.com/bottles-bio",
         "files": {
-          "sierra": {
-            "url": "https://linuxbrew.bintray.com/bottles-bio/epa-ng-0.3.5.sierra.bottle.tar.gz",
-            "sha256": "7307cf15a282c14dcb64c9b0bcb8f31d4512e866f74196f766826e4afefcc7d1"
+          "mojave": {
+            "url": "https://linuxbrew.bintray.com/bottles-bio/epa-ng-0.3.6.mojave.bottle.tar.gz",
+            "sha256": "66e08b52597ad0c8d192c1f715cfdcee81044dc4f13cb19f651eab2a5f07d6c7"
           },
           "x86_64_linux": {
-            "url": "https://linuxbrew.bintray.com/bottles-bio/epa-ng-0.3.5.x86_64_linux.bottle.tar.gz",
-            "sha256": "a7704605db8d0be2014651b8f96503ec4e1de9e2e155e3f40741fafc8a1fe1e5"
+            "url": "https://linuxbrew.bintray.com/bottles-bio/epa-ng-0.3.6.x86_64_linux.bottle.tar.gz",
+            "sha256": "7da900967d585bc432182fc07ea1057f9cc54fc6e836574837b062d223a216b2"
           }
         }
       }
@@ -3314,6 +3432,7 @@
     ],
     "recommended_dependencies": [],
     "optional_dependencies": [],
+    "uses_from_macos": [],
     "requirements": [],
     "conflicts_with": [],
     "caveats": null,
@@ -3324,7 +3443,7 @@
   },
   {
     "name": "exabayes",
-    "full_name": "brewsci/bio/exabayes",
+    "full_name": "mys721tx/bio/exabayes",
     "oldname": null,
     "aliases": [],
     "versioned_formulae": [],
@@ -3374,6 +3493,7 @@
       "open-mpi"
     ],
     "optional_dependencies": [],
+    "uses_from_macos": [],
     "requirements": [],
     "conflicts_with": [],
     "caveats": null,
@@ -3384,7 +3504,7 @@
   },
   {
     "name": "exonerate",
-    "full_name": "brewsci/bio/exonerate",
+    "full_name": "mys721tx/bio/exonerate",
     "oldname": null,
     "aliases": [],
     "versioned_formulae": [],
@@ -3427,6 +3547,7 @@
     ],
     "recommended_dependencies": [],
     "optional_dependencies": [],
+    "uses_from_macos": [],
     "requirements": [],
     "conflicts_with": [],
     "caveats": null,
@@ -3437,16 +3558,16 @@
   },
   {
     "name": "express",
-    "full_name": "brewsci/bio/express",
+    "full_name": "mys721tx/bio/express",
     "oldname": null,
     "aliases": [],
     "versioned_formulae": [],
     "desc": "Streaming quantification for sequencing",
     "homepage": "http://bio.math.berkeley.edu/eXpress/",
     "versions": {
-      "stable": "1.5.2",
+      "stable": "1.5.3",
       "devel": null,
-      "head": null,
+      "head": "HEAD",
       "bottle": true
     },
     "revision": 0,
@@ -3454,17 +3575,17 @@
     "bottle": {
       "stable": {
         "rebuild": 0,
-        "cellar": "/home/linuxbrew/.linuxbrew/Cellar",
+        "cellar": ":any_skip_relocation",
         "prefix": "/home/linuxbrew/.linuxbrew",
         "root_url": "https://linuxbrew.bintray.com/bottles-bio",
         "files": {
-          "sierra": {
-            "url": "https://linuxbrew.bintray.com/bottles-bio/express-1.5.2.sierra.bottle.tar.gz",
-            "sha256": "93ec3978d88e6d2aeb087599f4380e3951467492b5627eef3801bf3d86f978a7"
+          "mojave": {
+            "url": "https://linuxbrew.bintray.com/bottles-bio/express-1.5.3.mojave.bottle.tar.gz",
+            "sha256": "1f8d67bf11bf49458dcfa173c13722ab83b6b9a555a2fcc27048f5409d1cdf8b"
           },
           "x86_64_linux": {
-            "url": "https://linuxbrew.bintray.com/bottles-bio/express-1.5.2.x86_64_linux.bottle.tar.gz",
-            "sha256": "8557322f664c213c58e7bbe9de475d160495a9a3fc628eaed3dde4471d25a5c7"
+            "url": "https://linuxbrew.bintray.com/bottles-bio/express-1.5.3.x86_64_linux.bottle.tar.gz",
+            "sha256": "aae8e9f53dc1ea615b5cafa70a954beba40abe40c0fb15026237e42ea6a86529"
           }
         }
       }
@@ -3473,17 +3594,18 @@
     "bottle_disabled": false,
     "options": [],
     "build_dependencies": [
+      "bamtools",
       "boost",
-      "cmake"
+      "cmake",
+      "gperftools",
+      "protobuf"
     ],
     "dependencies": [
-      "bamtools",
-      "gperftools",
-      "protobuf@3.1",
       "zlib"
     ],
     "recommended_dependencies": [],
     "optional_dependencies": [],
+    "uses_from_macos": [],
     "requirements": [],
     "conflicts_with": [],
     "caveats": null,
@@ -3494,7 +3616,7 @@
   },
   {
     "name": "fasta",
-    "full_name": "brewsci/bio/fasta",
+    "full_name": "mys721tx/bio/fasta",
     "oldname": null,
     "aliases": [],
     "versioned_formulae": [],
@@ -3535,6 +3657,7 @@
     ],
     "recommended_dependencies": [],
     "optional_dependencies": [],
+    "uses_from_macos": [],
     "requirements": [],
     "conflicts_with": [],
     "caveats": null,
@@ -3545,7 +3668,7 @@
   },
   {
     "name": "fastani",
-    "full_name": "brewsci/bio/fastani",
+    "full_name": "mys721tx/bio/fastani",
     "oldname": null,
     "aliases": [],
     "versioned_formulae": [],
@@ -3590,6 +3713,7 @@
     ],
     "recommended_dependencies": [],
     "optional_dependencies": [],
+    "uses_from_macos": [],
     "requirements": [],
     "conflicts_with": [],
     "caveats": null,
@@ -3600,7 +3724,7 @@
   },
   {
     "name": "fastp",
-    "full_name": "brewsci/bio/fastp",
+    "full_name": "mys721tx/bio/fastp",
     "oldname": null,
     "aliases": [],
     "versioned_formulae": [],
@@ -3641,6 +3765,7 @@
     ],
     "recommended_dependencies": [],
     "optional_dependencies": [],
+    "uses_from_macos": [],
     "requirements": [],
     "conflicts_with": [],
     "caveats": null,
@@ -3651,7 +3776,7 @@
   },
   {
     "name": "fastq-pair",
-    "full_name": "brewsci/bio/fastq-pair",
+    "full_name": "mys721tx/bio/fastq-pair",
     "oldname": null,
     "aliases": [],
     "versioned_formulae": [],
@@ -3692,6 +3817,7 @@
     "dependencies": [],
     "recommended_dependencies": [],
     "optional_dependencies": [],
+    "uses_from_macos": [],
     "requirements": [],
     "conflicts_with": [],
     "caveats": null,
@@ -3702,19 +3828,19 @@
   },
   {
     "name": "fasttree",
-    "full_name": "brewsci/bio/fasttree",
+    "full_name": "mys721tx/bio/fasttree",
     "oldname": null,
     "aliases": [],
     "versioned_formulae": [],
     "desc": "Approximately-maximum-likelihood phylogenetic trees",
     "homepage": "http://microbesonline.org/fasttree/",
     "versions": {
-      "stable": "2.1.10",
+      "stable": "2.1.11",
       "devel": null,
       "head": null,
       "bottle": true
     },
-    "revision": 1,
+    "revision": 0,
     "version_scheme": 0,
     "bottle": {
       "stable": {
@@ -3723,13 +3849,13 @@
         "prefix": "/home/linuxbrew/.linuxbrew",
         "root_url": "https://linuxbrew.bintray.com/bottles-bio",
         "files": {
-          "sierra": {
-            "url": "https://linuxbrew.bintray.com/bottles-bio/fasttree-2.1.10_1.sierra.bottle.tar.gz",
-            "sha256": "56ab8decf6430233974a88acd7f0c9c62ecf1810984540017a89dbe0d25cafeb"
+          "catalina": {
+            "url": "https://linuxbrew.bintray.com/bottles-bio/fasttree-2.1.11.catalina.bottle.tar.gz",
+            "sha256": "cf6541872936ca28dba6186f57ea237e62715a47632a147eec3ef3f687a0ec22"
           },
           "x86_64_linux": {
-            "url": "https://linuxbrew.bintray.com/bottles-bio/fasttree-2.1.10_1.x86_64_linux.bottle.tar.gz",
-            "sha256": "321bbdcfeb64124bc8f487740fbadbb24fba9ca38706de38ccadadf87fe802ae"
+            "url": "https://linuxbrew.bintray.com/bottles-bio/fasttree-2.1.11.x86_64_linux.bottle.tar.gz",
+            "sha256": "d31e0a4e16dfa3c8ab2695d335eed25b70e0e67bd959d432e7cb360a9ae4f232"
           }
         }
       }
@@ -3754,6 +3880,7 @@
     "dependencies": [],
     "recommended_dependencies": [],
     "optional_dependencies": [],
+    "uses_from_macos": [],
     "requirements": [],
     "conflicts_with": [],
     "caveats": null,
@@ -3764,7 +3891,7 @@
   },
   {
     "name": "fastuniq",
-    "full_name": "brewsci/bio/fastuniq",
+    "full_name": "mys721tx/bio/fastuniq",
     "oldname": null,
     "aliases": [],
     "versioned_formulae": [],
@@ -3803,6 +3930,7 @@
     "dependencies": [],
     "recommended_dependencies": [],
     "optional_dependencies": [],
+    "uses_from_macos": [],
     "requirements": [],
     "conflicts_with": [],
     "caveats": null,
@@ -3813,7 +3941,7 @@
   },
   {
     "name": "fermi-lite",
-    "full_name": "brewsci/bio/fermi-lite",
+    "full_name": "mys721tx/bio/fermi-lite",
     "oldname": null,
     "aliases": [],
     "versioned_formulae": [],
@@ -3854,6 +3982,7 @@
     ],
     "recommended_dependencies": [],
     "optional_dependencies": [],
+    "uses_from_macos": [],
     "requirements": [],
     "conflicts_with": [],
     "caveats": null,
@@ -3864,7 +3993,7 @@
   },
   {
     "name": "figtree",
-    "full_name": "brewsci/bio/figtree",
+    "full_name": "mys721tx/bio/figtree",
     "oldname": null,
     "aliases": [],
     "versioned_formulae": [],
@@ -3905,6 +4034,7 @@
     ],
     "recommended_dependencies": [],
     "optional_dependencies": [],
+    "uses_from_macos": [],
     "requirements": [],
     "conflicts_with": [],
     "caveats": null,
@@ -3915,7 +4045,7 @@
   },
   {
     "name": "filtlong",
-    "full_name": "brewsci/bio/filtlong",
+    "full_name": "mys721tx/bio/filtlong",
     "oldname": null,
     "aliases": [],
     "versioned_formulae": [],
@@ -3956,6 +4086,7 @@
     ],
     "recommended_dependencies": [],
     "optional_dependencies": [],
+    "uses_from_macos": [],
     "requirements": [],
     "conflicts_with": [],
     "caveats": null,
@@ -3966,7 +4097,7 @@
   },
   {
     "name": "finch-rs",
-    "full_name": "brewsci/bio/finch-rs",
+    "full_name": "mys721tx/bio/finch-rs",
     "oldname": null,
     "aliases": [],
     "versioned_formulae": [],
@@ -4009,6 +4140,7 @@
     ],
     "recommended_dependencies": [],
     "optional_dependencies": [],
+    "uses_from_macos": [],
     "requirements": [],
     "conflicts_with": [],
     "caveats": null,
@@ -4019,7 +4151,7 @@
   },
   {
     "name": "flash",
-    "full_name": "brewsci/bio/flash",
+    "full_name": "mys721tx/bio/flash",
     "oldname": null,
     "aliases": [],
     "versioned_formulae": [],
@@ -4060,6 +4192,7 @@
     ],
     "recommended_dependencies": [],
     "optional_dependencies": [],
+    "uses_from_macos": [],
     "requirements": [],
     "conflicts_with": [],
     "caveats": null,
@@ -4070,7 +4203,7 @@
   },
   {
     "name": "flowcraft",
-    "full_name": "brewsci/bio/flowcraft",
+    "full_name": "mys721tx/bio/flowcraft",
     "oldname": null,
     "aliases": [],
     "versioned_formulae": [],
@@ -4112,6 +4245,7 @@
     ],
     "recommended_dependencies": [],
     "optional_dependencies": [],
+    "uses_from_macos": [],
     "requirements": [],
     "conflicts_with": [],
     "caveats": null,
@@ -4122,19 +4256,19 @@
   },
   {
     "name": "flye",
-    "full_name": "brewsci/bio/flye",
+    "full_name": "mys721tx/bio/flye",
     "oldname": null,
     "aliases": [],
     "versioned_formulae": [],
     "desc": "Fast and accurate de novo assembler for single molecule sequencing reads",
     "homepage": "https://github.com/fenderglass/Flye",
     "versions": {
-      "stable": "2.5",
+      "stable": "2.6",
       "devel": null,
       "head": "HEAD",
       "bottle": true
     },
-    "revision": 0,
+    "revision": 1,
     "version_scheme": 0,
     "bottle": {
       "stable": {
@@ -4144,12 +4278,12 @@
         "root_url": "https://linuxbrew.bintray.com/bottles-bio",
         "files": {
           "sierra": {
-            "url": "https://linuxbrew.bintray.com/bottles-bio/flye-2.5.sierra.bottle.tar.gz",
-            "sha256": "63e01cab4cb5870d60fca897ae5c3cd8b52d3bd249a3aa129454910c4fbd2d1f"
+            "url": "https://linuxbrew.bintray.com/bottles-bio/flye-2.6_1.sierra.bottle.tar.gz",
+            "sha256": "125848c78a924e0a36c115b7dad48647c59590de0755a2362ee13164b2c3d6f2"
           },
           "x86_64_linux": {
-            "url": "https://linuxbrew.bintray.com/bottles-bio/flye-2.5.x86_64_linux.bottle.tar.gz",
-            "sha256": "d5df5ebfe67e7de0df758c8eaa9a2cc9fe090955a92dca5502db50237688736d"
+            "url": "https://linuxbrew.bintray.com/bottles-bio/flye-2.6_1.x86_64_linux.bottle.tar.gz",
+            "sha256": "075d6ae3911c50b62d32d883903ee4595cf208e396af5155e2266e88e243ba6d"
           }
         }
       }
@@ -4159,10 +4293,11 @@
     "options": [],
     "build_dependencies": [],
     "dependencies": [
-      "python@2"
+      "python"
     ],
     "recommended_dependencies": [],
     "optional_dependencies": [],
+    "uses_from_macos": [],
     "requirements": [],
     "conflicts_with": [],
     "caveats": null,
@@ -4173,7 +4308,7 @@
   },
   {
     "name": "fraggenescan",
-    "full_name": "brewsci/bio/fraggenescan",
+    "full_name": "mys721tx/bio/fraggenescan",
     "oldname": null,
     "aliases": [],
     "versioned_formulae": [],
@@ -4214,6 +4349,7 @@
     ],
     "recommended_dependencies": [],
     "optional_dependencies": [],
+    "uses_from_macos": [],
     "requirements": [],
     "conflicts_with": [],
     "caveats": null,
@@ -4224,7 +4360,7 @@
   },
   {
     "name": "freebayes",
-    "full_name": "brewsci/bio/freebayes",
+    "full_name": "mys721tx/bio/freebayes",
     "oldname": null,
     "aliases": [],
     "versioned_formulae": [],
@@ -4272,6 +4408,7 @@
     ],
     "recommended_dependencies": [],
     "optional_dependencies": [],
+    "uses_from_macos": [],
     "requirements": [],
     "conflicts_with": [],
     "caveats": null,
@@ -4282,7 +4419,7 @@
   },
   {
     "name": "fwdpp",
-    "full_name": "brewsci/bio/fwdpp",
+    "full_name": "mys721tx/bio/fwdpp",
     "oldname": null,
     "aliases": [],
     "versioned_formulae": [],
@@ -4326,6 +4463,7 @@
     ],
     "recommended_dependencies": [],
     "optional_dependencies": [],
+    "uses_from_macos": [],
     "requirements": [
       {
         "name": "macos",
@@ -4342,7 +4480,7 @@
   },
   {
     "name": "gappa",
-    "full_name": "brewsci/bio/gappa",
+    "full_name": "mys721tx/bio/gappa",
     "oldname": null,
     "aliases": [],
     "versioned_formulae": [],
@@ -4385,6 +4523,7 @@
     ],
     "recommended_dependencies": [],
     "optional_dependencies": [],
+    "uses_from_macos": [],
     "requirements": [],
     "conflicts_with": [],
     "caveats": null,
@@ -4395,14 +4534,14 @@
   },
   {
     "name": "gatk",
-    "full_name": "brewsci/bio/gatk",
+    "full_name": "mys721tx/bio/gatk",
     "oldname": null,
     "aliases": [],
     "versioned_formulae": [],
     "desc": "Genome Analysis Toolkit: Variant Discovery in High-Throughput Sequencing",
     "homepage": "https://software.broadinstitute.org/gatk",
     "versions": {
-      "stable": "4.1.3.0",
+      "stable": "4.1.4.1",
       "devel": null,
       "head": null,
       "bottle": false
@@ -4422,6 +4561,7 @@
     ],
     "recommended_dependencies": [],
     "optional_dependencies": [],
+    "uses_from_macos": [],
     "requirements": [],
     "conflicts_with": [],
     "caveats": "This brew installation does not include the necessary python dependencies to run certain gatk tools.\nSimilarly, it does not install the necessary version of R and its packages for certain plotting functions to work.\n\nSee the GATK readme for detailed installation instructions.\n   https://github.com/broadinstitute/gatk\n\nThe recommended way of running the tools with complex python dependencies is to use the pre-built docker images instead of attempting to install them locally.\nGatk dockers are available on docker hub:\n   https://hub.docker.com/r/broadinstitute/gatk/tags/\n",
@@ -4432,7 +4572,7 @@
   },
   {
     "name": "gblocks",
-    "full_name": "brewsci/bio/gblocks",
+    "full_name": "mys721tx/bio/gblocks",
     "oldname": null,
     "aliases": [],
     "versioned_formulae": [],
@@ -4473,6 +4613,7 @@
     "dependencies": [],
     "recommended_dependencies": [],
     "optional_dependencies": [],
+    "uses_from_macos": [],
     "requirements": [],
     "conflicts_with": [],
     "caveats": null,
@@ -4483,7 +4624,7 @@
   },
   {
     "name": "gemma",
-    "full_name": "brewsci/bio/gemma",
+    "full_name": "mys721tx/bio/gemma",
     "oldname": null,
     "aliases": [],
     "versioned_formulae": [],
@@ -4528,6 +4669,7 @@
     ],
     "recommended_dependencies": [],
     "optional_dependencies": [],
+    "uses_from_macos": [],
     "requirements": [],
     "conflicts_with": [],
     "caveats": null,
@@ -4538,7 +4680,7 @@
   },
   {
     "name": "genewise",
-    "full_name": "brewsci/bio/genewise",
+    "full_name": "mys721tx/bio/genewise",
     "oldname": null,
     "aliases": [],
     "versioned_formulae": [],
@@ -4581,6 +4723,7 @@
     ],
     "recommended_dependencies": [],
     "optional_dependencies": [],
+    "uses_from_macos": [],
     "requirements": [],
     "conflicts_with": [],
     "caveats": null,
@@ -4591,7 +4734,7 @@
   },
   {
     "name": "genome-painter",
-    "full_name": "brewsci/bio/genome-painter",
+    "full_name": "mys721tx/bio/genome-painter",
     "oldname": null,
     "aliases": [],
     "versioned_formulae": [],
@@ -4637,6 +4780,7 @@
     ],
     "recommended_dependencies": [],
     "optional_dependencies": [],
+    "uses_from_macos": [],
     "requirements": [],
     "conflicts_with": [],
     "caveats": null,
@@ -4647,7 +4791,7 @@
   },
   {
     "name": "gepard",
-    "full_name": "brewsci/bio/gepard",
+    "full_name": "mys721tx/bio/gepard",
     "oldname": null,
     "aliases": [],
     "versioned_formulae": [],
@@ -4684,6 +4828,7 @@
     ],
     "recommended_dependencies": [],
     "optional_dependencies": [],
+    "uses_from_macos": [],
     "requirements": [],
     "conflicts_with": [],
     "caveats": null,
@@ -4694,7 +4839,7 @@
   },
   {
     "name": "gfakluge",
-    "full_name": "brewsci/bio/gfakluge",
+    "full_name": "mys721tx/bio/gfakluge",
     "oldname": null,
     "aliases": [],
     "versioned_formulae": [],
@@ -4735,6 +4880,7 @@
     ],
     "recommended_dependencies": [],
     "optional_dependencies": [],
+    "uses_from_macos": [],
     "requirements": [],
     "conflicts_with": [],
     "caveats": null,
@@ -4745,7 +4891,7 @@
   },
   {
     "name": "gfalint",
-    "full_name": "brewsci/bio/gfalint",
+    "full_name": "mys721tx/bio/gfalint",
     "oldname": null,
     "aliases": [],
     "versioned_formulae": [],
@@ -4784,6 +4930,7 @@
     "dependencies": [],
     "recommended_dependencies": [],
     "optional_dependencies": [],
+    "uses_from_macos": [],
     "requirements": [],
     "conflicts_with": [],
     "caveats": null,
@@ -4794,7 +4941,7 @@
   },
   {
     "name": "gfaview",
-    "full_name": "brewsci/bio/gfaview",
+    "full_name": "mys721tx/bio/gfaview",
     "oldname": null,
     "aliases": [],
     "versioned_formulae": [],
@@ -4835,6 +4982,59 @@
     ],
     "recommended_dependencies": [],
     "optional_dependencies": [],
+    "uses_from_macos": [],
+    "requirements": [],
+    "conflicts_with": [],
+    "caveats": null,
+    "installed": [],
+    "linked_keg": null,
+    "pinned": false,
+    "outdated": false
+  },
+  {
+    "name": "ghostz",
+    "full_name": "mys721tx/bio/ghostz",
+    "oldname": null,
+    "aliases": [],
+    "versioned_formulae": [],
+    "desc": "High-speed remote homologue sequence search tool",
+    "homepage": "https://www.bi.cs.titech.ac.jp/ghostz/",
+    "versions": {
+      "stable": "1.0.2",
+      "devel": null,
+      "head": null,
+      "bottle": true
+    },
+    "revision": 1,
+    "version_scheme": 0,
+    "bottle": {
+      "stable": {
+        "rebuild": 0,
+        "cellar": ":any_skip_relocation",
+        "prefix": "/home/linuxbrew/.linuxbrew",
+        "root_url": "https://linuxbrew.bintray.com/bottles-bio",
+        "files": {
+          "mojave": {
+            "url": "https://linuxbrew.bintray.com/bottles-bio/ghostz-1.0.2_1.mojave.bottle.tar.gz",
+            "sha256": "45e205642232766d1206e06df7a4e52eea960663b0d520d6f943866db554e596"
+          },
+          "x86_64_linux": {
+            "url": "https://linuxbrew.bintray.com/bottles-bio/ghostz-1.0.2_1.x86_64_linux.bottle.tar.gz",
+            "sha256": "ce5f132a6ed9a711bffae6648b18f701f55d965e611ef7320847aee24061a19e"
+          }
+        }
+      }
+    },
+    "keg_only": false,
+    "bottle_disabled": false,
+    "options": [],
+    "build_dependencies": [],
+    "dependencies": [
+      "gcc"
+    ],
+    "recommended_dependencies": [],
+    "optional_dependencies": [],
+    "uses_from_macos": [],
     "requirements": [],
     "conflicts_with": [],
     "caveats": null,
@@ -4845,14 +5045,14 @@
   },
   {
     "name": "gmap-gsnap",
-    "full_name": "brewsci/bio/gmap-gsnap",
+    "full_name": "mys721tx/bio/gmap-gsnap",
     "oldname": null,
     "aliases": [],
     "versioned_formulae": [],
     "desc": "Genomic Mapping & Alignment Program for RNA/EST/Short-read sequences",
     "homepage": "http://research-pub.gene.com/gmap/",
     "versions": {
-      "stable": "2019-06-10",
+      "stable": "2019-09-12",
       "devel": null,
       "head": null,
       "bottle": true
@@ -4866,13 +5066,13 @@
         "prefix": "/home/linuxbrew/.linuxbrew",
         "root_url": "https://linuxbrew.bintray.com/bottles-bio",
         "files": {
-          "sierra": {
-            "url": "https://linuxbrew.bintray.com/bottles-bio/gmap-gsnap-2019-06-10.sierra.bottle.tar.gz",
-            "sha256": "25420cf61683ccd854309cb9ba52a78ce99758eea10fa6b96f77e03dbe910d8c"
+          "mojave": {
+            "url": "https://linuxbrew.bintray.com/bottles-bio/gmap-gsnap-2019-09-12.mojave.bottle.tar.gz",
+            "sha256": "9e68cba9eb57c3ef57f1de83fff06967a2fd7f48740288e0bef75b0392fe71d3"
           },
           "x86_64_linux": {
-            "url": "https://linuxbrew.bintray.com/bottles-bio/gmap-gsnap-2019-06-10.x86_64_linux.bottle.tar.gz",
-            "sha256": "37982e497f6cf41f07afa055ea733490d6c7940c516925426c07badfa45791d3"
+            "url": "https://linuxbrew.bintray.com/bottles-bio/gmap-gsnap-2019-09-12.x86_64_linux.bottle.tar.gz",
+            "sha256": "19a643b9dc76c497865d910dd38f758ea56ba0c08954cbb212aba5490f0d907b"
           }
         }
       }
@@ -4882,13 +5082,16 @@
     "options": [],
     "build_dependencies": [],
     "dependencies": [
-      "samtools"
+      "samtools",
+      "bzip2",
+      "zlib"
     ],
     "recommended_dependencies": [],
     "optional_dependencies": [],
+    "uses_from_macos": [],
     "requirements": [],
     "conflicts_with": [],
-    "caveats": "You will need to either download or build indexed search databases.\nSee the readme file for how to do this:\n  http://research-pub.gene.com/gmap/src/README\n\nDatabases will be installed to:\n  $(brew --prefix)/Cellar/gmap-gsnap/2019-06-10/share\n",
+    "caveats": "You will need to either download or build indexed search databases.\nSee the readme file for how to do this:\n  http://research-pub.gene.com/gmap/src/README\n\nDatabases will be installed to:\n  $(brew --prefix)/Cellar/gmap-gsnap/2019-09-12/share\n",
     "installed": [],
     "linked_keg": null,
     "pinned": false,
@@ -4896,7 +5099,7 @@
   },
   {
     "name": "groot",
-    "full_name": "brewsci/bio/groot",
+    "full_name": "mys721tx/bio/groot",
     "oldname": null,
     "aliases": [],
     "versioned_formulae": [],
@@ -4935,6 +5138,7 @@
     "dependencies": [],
     "recommended_dependencies": [],
     "optional_dependencies": [],
+    "uses_from_macos": [],
     "requirements": [],
     "conflicts_with": [],
     "caveats": null,
@@ -4945,7 +5149,7 @@
   },
   {
     "name": "gzstream",
-    "full_name": "brewsci/bio/gzstream",
+    "full_name": "mys721tx/bio/gzstream",
     "oldname": null,
     "aliases": [],
     "versioned_formulae": [],
@@ -4986,6 +5190,7 @@
     ],
     "recommended_dependencies": [],
     "optional_dependencies": [],
+    "uses_from_macos": [],
     "requirements": [],
     "conflicts_with": [],
     "caveats": null,
@@ -4996,7 +5201,7 @@
   },
   {
     "name": "harvest-tools",
-    "full_name": "brewsci/bio/harvest-tools",
+    "full_name": "mys721tx/bio/harvest-tools",
     "oldname": null,
     "aliases": [],
     "versioned_formulae": [],
@@ -5041,6 +5246,7 @@
     ],
     "recommended_dependencies": [],
     "optional_dependencies": [],
+    "uses_from_macos": [],
     "requirements": [],
     "conflicts_with": [],
     "caveats": null,
@@ -5051,7 +5257,7 @@
   },
   {
     "name": "hisat2",
-    "full_name": "brewsci/bio/hisat2",
+    "full_name": "mys721tx/bio/hisat2",
     "oldname": null,
     "aliases": [],
     "versioned_formulae": [],
@@ -5090,6 +5296,7 @@
     "dependencies": [],
     "recommended_dependencies": [],
     "optional_dependencies": [],
+    "uses_from_macos": [],
     "requirements": [],
     "conflicts_with": [],
     "caveats": null,
@@ -5100,7 +5307,7 @@
   },
   {
     "name": "hmmer2",
-    "full_name": "brewsci/bio/hmmer2",
+    "full_name": "mys721tx/bio/hmmer2",
     "oldname": null,
     "aliases": [],
     "versioned_formulae": [],
@@ -5135,6 +5342,7 @@
     "dependencies": [],
     "recommended_dependencies": [],
     "optional_dependencies": [],
+    "uses_from_macos": [],
     "requirements": [
       {
         "name": "linux",
@@ -5151,7 +5359,7 @@
   },
   {
     "name": "humann2",
-    "full_name": "brewsci/bio/humann2",
+    "full_name": "mys721tx/bio/humann2",
     "oldname": null,
     "aliases": [],
     "versioned_formulae": [],
@@ -5195,6 +5403,7 @@
     ],
     "recommended_dependencies": [],
     "optional_dependencies": [],
+    "uses_from_macos": [],
     "requirements": [],
     "conflicts_with": [],
     "caveats": null,
@@ -5205,7 +5414,7 @@
   },
   {
     "name": "idba",
-    "full_name": "brewsci/bio/idba",
+    "full_name": "mys721tx/bio/idba",
     "oldname": null,
     "aliases": [],
     "versioned_formulae": [],
@@ -5247,6 +5456,7 @@
     "dependencies": [],
     "recommended_dependencies": [],
     "optional_dependencies": [],
+    "uses_from_macos": [],
     "requirements": [],
     "conflicts_with": [],
     "caveats": null,
@@ -5257,7 +5467,7 @@
   },
   {
     "name": "indel-seq-gen",
-    "full_name": "brewsci/bio/indel-seq-gen",
+    "full_name": "mys721tx/bio/indel-seq-gen",
     "oldname": null,
     "aliases": [],
     "versioned_formulae": [],
@@ -5295,6 +5505,7 @@
     "dependencies": [],
     "recommended_dependencies": [],
     "optional_dependencies": [],
+    "uses_from_macos": [],
     "requirements": [
       {
         "name": "linux",
@@ -5311,7 +5522,7 @@
   },
   {
     "name": "indelible",
-    "full_name": "brewsci/bio/indelible",
+    "full_name": "mys721tx/bio/indelible",
     "oldname": null,
     "aliases": [],
     "versioned_formulae": [],
@@ -5350,6 +5561,7 @@
     "dependencies": [],
     "recommended_dependencies": [],
     "optional_dependencies": [],
+    "uses_from_macos": [],
     "requirements": [],
     "conflicts_with": [],
     "caveats": null,
@@ -5360,7 +5572,7 @@
   },
   {
     "name": "infernal",
-    "full_name": "brewsci/bio/infernal",
+    "full_name": "mys721tx/bio/infernal",
     "oldname": null,
     "aliases": [],
     "versioned_formulae": [],
@@ -5399,6 +5611,7 @@
     "dependencies": [],
     "recommended_dependencies": [],
     "optional_dependencies": [],
+    "uses_from_macos": [],
     "requirements": [],
     "conflicts_with": [],
     "caveats": null,
@@ -5409,7 +5622,7 @@
   },
   {
     "name": "iqtree",
-    "full_name": "brewsci/bio/iqtree",
+    "full_name": "mys721tx/bio/iqtree",
     "oldname": null,
     "aliases": [],
     "versioned_formulae": [],
@@ -5454,6 +5667,7 @@
     ],
     "recommended_dependencies": [],
     "optional_dependencies": [],
+    "uses_from_macos": [],
     "requirements": [],
     "conflicts_with": [],
     "caveats": null,
@@ -5464,7 +5678,7 @@
   },
   {
     "name": "ispcr",
-    "full_name": "brewsci/bio/ispcr",
+    "full_name": "mys721tx/bio/ispcr",
     "oldname": null,
     "aliases": [],
     "versioned_formulae": [],
@@ -5505,6 +5719,7 @@
     "dependencies": [],
     "recommended_dependencies": [],
     "optional_dependencies": [],
+    "uses_from_macos": [],
     "requirements": [],
     "conflicts_with": [],
     "caveats": null,
@@ -5515,7 +5730,7 @@
   },
   {
     "name": "iva",
-    "full_name": "brewsci/bio/iva",
+    "full_name": "mys721tx/bio/iva",
     "oldname": null,
     "aliases": [],
     "versioned_formulae": [],
@@ -5561,6 +5776,7 @@
     ],
     "recommended_dependencies": [],
     "optional_dependencies": [],
+    "uses_from_macos": [],
     "requirements": [],
     "conflicts_with": [],
     "caveats": null,
@@ -5571,7 +5787,7 @@
   },
   {
     "name": "jellyfish",
-    "full_name": "brewsci/bio/jellyfish",
+    "full_name": "mys721tx/bio/jellyfish",
     "oldname": null,
     "aliases": [],
     "versioned_formulae": [],
@@ -5610,6 +5826,7 @@
     "dependencies": [],
     "recommended_dependencies": [],
     "optional_dependencies": [],
+    "uses_from_macos": [],
     "requirements": [],
     "conflicts_with": [],
     "caveats": null,
@@ -5620,7 +5837,7 @@
   },
   {
     "name": "jspecies",
-    "full_name": "brewsci/bio/jspecies",
+    "full_name": "mys721tx/bio/jspecies",
     "oldname": null,
     "aliases": [],
     "versioned_formulae": [],
@@ -5659,6 +5876,7 @@
     ],
     "recommended_dependencies": [],
     "optional_dependencies": [],
+    "uses_from_macos": [],
     "requirements": [],
     "conflicts_with": [],
     "caveats": null,
@@ -5669,7 +5887,7 @@
   },
   {
     "name": "k8",
-    "full_name": "brewsci/bio/k8",
+    "full_name": "mys721tx/bio/k8",
     "oldname": null,
     "aliases": [],
     "versioned_formulae": [],
@@ -5712,6 +5930,7 @@
     ],
     "recommended_dependencies": [],
     "optional_dependencies": [],
+    "uses_from_macos": [],
     "requirements": [],
     "conflicts_with": [],
     "caveats": null,
@@ -5722,7 +5941,7 @@
   },
   {
     "name": "kaiju",
-    "full_name": "brewsci/bio/kaiju",
+    "full_name": "mys721tx/bio/kaiju",
     "oldname": null,
     "aliases": [],
     "versioned_formulae": [],
@@ -5764,6 +5983,7 @@
     ],
     "recommended_dependencies": [],
     "optional_dependencies": [],
+    "uses_from_macos": [],
     "requirements": [],
     "conflicts_with": [],
     "caveats": "You must build a kaiju database before usage.\nSee $(brew --prefix)/opt/kaiju/README.md for details.\n",
@@ -5773,8 +5993,63 @@
     "outdated": false
   },
   {
+    "name": "kalign",
+    "full_name": "mys721tx/bio/kalign",
+    "oldname": null,
+    "aliases": [],
+    "versioned_formulae": [],
+    "desc": "SIMD accelerated multiple sequence alignment",
+    "homepage": "https://github.com/TimoLassmann/kalign",
+    "versions": {
+      "stable": "3.1.1",
+      "devel": null,
+      "head": null,
+      "bottle": true
+    },
+    "revision": 0,
+    "version_scheme": 0,
+    "bottle": {
+      "stable": {
+        "rebuild": 0,
+        "cellar": ":any_skip_relocation",
+        "prefix": "/home/linuxbrew/.linuxbrew",
+        "root_url": "https://linuxbrew.bintray.com/bottles-bio",
+        "files": {
+          "mojave": {
+            "url": "https://linuxbrew.bintray.com/bottles-bio/kalign-3.1.1.mojave.bottle.tar.gz",
+            "sha256": "95037a99f07ac7ba3729252ee0432f593196adcf375fd71ade1ed9c2e3a0e64b"
+          },
+          "x86_64_linux": {
+            "url": "https://linuxbrew.bintray.com/bottles-bio/kalign-3.1.1.x86_64_linux.bottle.tar.gz",
+            "sha256": "88b0d12ec4a6a70bb819036c8277bb89eff01fedf7991d6652c489ea86935fc0"
+          }
+        }
+      }
+    },
+    "keg_only": false,
+    "bottle_disabled": false,
+    "options": [],
+    "build_dependencies": [
+      "autoconf",
+      "automake",
+      "libtool",
+      "pkg-config"
+    ],
+    "dependencies": [],
+    "recommended_dependencies": [],
+    "optional_dependencies": [],
+    "uses_from_macos": [],
+    "requirements": [],
+    "conflicts_with": [],
+    "caveats": null,
+    "installed": [],
+    "linked_keg": null,
+    "pinned": false,
+    "outdated": false
+  },
+  {
     "name": "kat",
-    "full_name": "brewsci/bio/kat",
+    "full_name": "mys721tx/bio/kat",
     "oldname": null,
     "aliases": [],
     "versioned_formulae": [],
@@ -5820,6 +6095,7 @@
     ],
     "recommended_dependencies": [],
     "optional_dependencies": [],
+    "uses_from_macos": [],
     "requirements": [],
     "conflicts_with": [],
     "caveats": null,
@@ -5830,7 +6106,7 @@
   },
   {
     "name": "kent-tools",
-    "full_name": "brewsci/bio/kent-tools",
+    "full_name": "mys721tx/bio/kent-tools",
     "oldname": null,
     "aliases": [],
     "versioned_formulae": [],
@@ -5876,6 +6152,7 @@
     ],
     "recommended_dependencies": [],
     "optional_dependencies": [],
+    "uses_from_macos": [],
     "requirements": [],
     "conflicts_with": [],
     "caveats": "The `calc` tool has been renamed to `kent-tools-calc`.\n\nThis only installs the standalone tools located at\n  http://hgdownload.cse.ucsc.edu/admin/exe/\n\nIf you need the full UCSC Genome Browser, run:\n  brew install ucsc-genome-browser\n\nThis does not install the BLAT tools. To install BLAT:\n  brew install blat\n",
@@ -5886,7 +6163,7 @@
   },
   {
     "name": "kma",
-    "full_name": "brewsci/bio/kma",
+    "full_name": "mys721tx/bio/kma",
     "oldname": null,
     "aliases": [],
     "versioned_formulae": [],
@@ -5929,6 +6206,7 @@
     ],
     "recommended_dependencies": [],
     "optional_dependencies": [],
+    "uses_from_macos": [],
     "requirements": [],
     "conflicts_with": [],
     "caveats": null,
@@ -5939,7 +6217,7 @@
   },
   {
     "name": "kmc",
-    "full_name": "brewsci/bio/kmc",
+    "full_name": "mys721tx/bio/kmc",
     "oldname": null,
     "aliases": [],
     "versioned_formulae": [],
@@ -5982,6 +6260,7 @@
     ],
     "recommended_dependencies": [],
     "optional_dependencies": [],
+    "uses_from_macos": [],
     "requirements": [],
     "conflicts_with": [],
     "caveats": null,
@@ -5992,7 +6271,7 @@
   },
   {
     "name": "kmergenie",
-    "full_name": "brewsci/bio/kmergenie",
+    "full_name": "mys721tx/bio/kmergenie",
     "oldname": null,
     "aliases": [],
     "versioned_formulae": [],
@@ -6035,6 +6314,7 @@
     ],
     "recommended_dependencies": [],
     "optional_dependencies": [],
+    "uses_from_macos": [],
     "requirements": [],
     "conflicts_with": [],
     "caveats": null,
@@ -6045,7 +6325,7 @@
   },
   {
     "name": "kounta",
-    "full_name": "brewsci/bio/kounta",
+    "full_name": "mys721tx/bio/kounta",
     "oldname": null,
     "aliases": [],
     "versioned_formulae": [],
@@ -6088,6 +6368,7 @@
     ],
     "recommended_dependencies": [],
     "optional_dependencies": [],
+    "uses_from_macos": [],
     "requirements": [],
     "conflicts_with": [],
     "caveats": null,
@@ -6098,7 +6379,7 @@
   },
   {
     "name": "kr",
-    "full_name": "brewsci/bio/kr",
+    "full_name": "mys721tx/bio/kr",
     "oldname": null,
     "aliases": [],
     "versioned_formulae": [],
@@ -6139,6 +6420,7 @@
     ],
     "recommended_dependencies": [],
     "optional_dependencies": [],
+    "uses_from_macos": [],
     "requirements": [],
     "conflicts_with": [],
     "caveats": null,
@@ -6149,7 +6431,7 @@
   },
   {
     "name": "kraken",
-    "full_name": "brewsci/bio/kraken",
+    "full_name": "mys721tx/bio/kraken",
     "oldname": null,
     "aliases": [],
     "versioned_formulae": [],
@@ -6188,6 +6470,7 @@
     "dependencies": [],
     "recommended_dependencies": [],
     "optional_dependencies": [],
+    "uses_from_macos": [],
     "requirements": [],
     "conflicts_with": [],
     "caveats": "You must build a DB before usage. Minikraken DB can be found here:\nhttps://ccb.jhu.edu/software/kraken/dl/minikraken_20171019_4GB.tgz\nhttps://ccb.jhu.edu/software/kraken/dl/minikraken_20171019_8GB.tgz\n\nFor more information on kraken DBs:\nhttps://ccb.jhu.edu/software/kraken/\n",
@@ -6198,7 +6481,7 @@
   },
   {
     "name": "kraken2",
-    "full_name": "brewsci/bio/kraken2",
+    "full_name": "mys721tx/bio/kraken2",
     "oldname": null,
     "aliases": [],
     "versioned_formulae": [],
@@ -6240,6 +6523,7 @@
     ],
     "recommended_dependencies": [],
     "optional_dependencies": [],
+    "uses_from_macos": [],
     "requirements": [],
     "conflicts_with": [],
     "caveats": "You must build a Kraken2 database before usage.\nSee $(brew --prefix)/share/doc/kraken2/MANUAL.markdown for details.\n",
@@ -6250,7 +6534,7 @@
   },
   {
     "name": "kssd",
-    "full_name": "brewsci/bio/kssd",
+    "full_name": "mys721tx/bio/kssd",
     "oldname": null,
     "aliases": [],
     "versioned_formulae": [],
@@ -6287,6 +6571,7 @@
     ],
     "recommended_dependencies": [],
     "optional_dependencies": [],
+    "uses_from_macos": [],
     "requirements": [
       {
         "name": "linux",
@@ -6303,7 +6588,7 @@
   },
   {
     "name": "last",
-    "full_name": "brewsci/bio/last",
+    "full_name": "mys721tx/bio/last",
     "oldname": null,
     "aliases": [],
     "versioned_formulae": [],
@@ -6346,6 +6631,7 @@
     ],
     "recommended_dependencies": [],
     "optional_dependencies": [],
+    "uses_from_macos": [],
     "requirements": [],
     "conflicts_with": [],
     "caveats": null,
@@ -6356,7 +6642,7 @@
   },
   {
     "name": "lastz",
-    "full_name": "brewsci/bio/lastz",
+    "full_name": "mys721tx/bio/lastz",
     "oldname": null,
     "aliases": [],
     "versioned_formulae": [],
@@ -6395,6 +6681,7 @@
     "dependencies": [],
     "recommended_dependencies": [],
     "optional_dependencies": [],
+    "uses_from_macos": [],
     "requirements": [],
     "conflicts_with": [],
     "caveats": null,
@@ -6405,7 +6692,7 @@
   },
   {
     "name": "legsta",
-    "full_name": "brewsci/bio/legsta",
+    "full_name": "mys721tx/bio/legsta",
     "oldname": null,
     "aliases": [],
     "versioned_formulae": [],
@@ -6446,6 +6733,7 @@
     ],
     "recommended_dependencies": [],
     "optional_dependencies": [],
+    "uses_from_macos": [],
     "requirements": [],
     "conflicts_with": [],
     "caveats": null,
@@ -6456,7 +6744,7 @@
   },
   {
     "name": "libbigwig",
-    "full_name": "brewsci/bio/libbigwig",
+    "full_name": "mys721tx/bio/libbigwig",
     "oldname": null,
     "aliases": [],
     "versioned_formulae": [],
@@ -6498,6 +6786,7 @@
     ],
     "recommended_dependencies": [],
     "optional_dependencies": [],
+    "uses_from_macos": [],
     "requirements": [],
     "conflicts_with": [],
     "caveats": null,
@@ -6508,7 +6797,7 @@
   },
   {
     "name": "libdivsufsort",
-    "full_name": "brewsci/bio/libdivsufsort",
+    "full_name": "mys721tx/bio/libdivsufsort",
     "oldname": null,
     "aliases": [],
     "versioned_formulae": [],
@@ -6549,6 +6838,7 @@
     "dependencies": [],
     "recommended_dependencies": [],
     "optional_dependencies": [],
+    "uses_from_macos": [],
     "requirements": [],
     "conflicts_with": [],
     "caveats": null,
@@ -6559,7 +6849,7 @@
   },
   {
     "name": "libmuscle",
-    "full_name": "brewsci/bio/libmuscle",
+    "full_name": "mys721tx/bio/libmuscle",
     "oldname": null,
     "aliases": [],
     "versioned_formulae": [],
@@ -6598,6 +6888,7 @@
     "dependencies": [],
     "recommended_dependencies": [],
     "optional_dependencies": [],
+    "uses_from_macos": [],
     "requirements": [],
     "conflicts_with": [],
     "caveats": null,
@@ -6608,7 +6899,7 @@
   },
   {
     "name": "libpll",
-    "full_name": "brewsci/bio/libpll",
+    "full_name": "mys721tx/bio/libpll",
     "oldname": null,
     "aliases": [],
     "versioned_formulae": [],
@@ -6653,6 +6944,7 @@
     "dependencies": [],
     "recommended_dependencies": [],
     "optional_dependencies": [],
+    "uses_from_macos": [],
     "requirements": [],
     "conflicts_with": [],
     "caveats": null,
@@ -6663,7 +6955,7 @@
   },
   {
     "name": "libsequence",
-    "full_name": "brewsci/bio/libsequence",
+    "full_name": "mys721tx/bio/libsequence",
     "oldname": null,
     "aliases": [],
     "versioned_formulae": [],
@@ -6702,6 +6994,7 @@
     "dependencies": [],
     "recommended_dependencies": [],
     "optional_dependencies": [],
+    "uses_from_macos": [],
     "requirements": [],
     "conflicts_with": [],
     "caveats": null,
@@ -6712,7 +7005,7 @@
   },
   {
     "name": "light-assembler",
-    "full_name": "brewsci/bio/light-assembler",
+    "full_name": "mys721tx/bio/light-assembler",
     "oldname": null,
     "aliases": [],
     "versioned_formulae": [],
@@ -6753,6 +7046,7 @@
     ],
     "recommended_dependencies": [],
     "optional_dependencies": [],
+    "uses_from_macos": [],
     "requirements": [],
     "conflicts_with": [],
     "caveats": null,
@@ -6763,7 +7057,7 @@
   },
   {
     "name": "lighter",
-    "full_name": "brewsci/bio/lighter",
+    "full_name": "mys721tx/bio/lighter",
     "oldname": null,
     "aliases": [],
     "versioned_formulae": [],
@@ -6804,6 +7098,7 @@
     ],
     "recommended_dependencies": [],
     "optional_dependencies": [],
+    "uses_from_macos": [],
     "requirements": [],
     "conflicts_with": [],
     "caveats": null,
@@ -6814,7 +7109,7 @@
   },
   {
     "name": "links-scaffolder",
-    "full_name": "brewsci/bio/links-scaffolder",
+    "full_name": "mys721tx/bio/links-scaffolder",
     "oldname": null,
     "aliases": [],
     "versioned_formulae": [],
@@ -6857,6 +7152,7 @@
     ],
     "recommended_dependencies": [],
     "optional_dependencies": [],
+    "uses_from_macos": [],
     "requirements": [],
     "conflicts_with": [],
     "caveats": null,
@@ -6867,7 +7163,7 @@
   },
   {
     "name": "lofreq",
-    "full_name": "brewsci/bio/lofreq",
+    "full_name": "mys721tx/bio/lofreq",
     "oldname": null,
     "aliases": [],
     "versioned_formulae": [],
@@ -6913,6 +7209,7 @@
     ],
     "recommended_dependencies": [],
     "optional_dependencies": [],
+    "uses_from_macos": [],
     "requirements": [],
     "conflicts_with": [],
     "caveats": null,
@@ -6923,7 +7220,7 @@
   },
   {
     "name": "lrsim",
-    "full_name": "brewsci/bio/lrsim",
+    "full_name": "mys721tx/bio/lrsim",
     "oldname": null,
     "aliases": [],
     "versioned_formulae": [],
@@ -6965,6 +7262,57 @@
     ],
     "recommended_dependencies": [],
     "optional_dependencies": [],
+    "uses_from_macos": [],
+    "requirements": [],
+    "conflicts_with": [],
+    "caveats": null,
+    "installed": [],
+    "linked_keg": null,
+    "pinned": false,
+    "outdated": false
+  },
+  {
+    "name": "lsd2",
+    "full_name": "mys721tx/bio/lsd2",
+    "oldname": null,
+    "aliases": [],
+    "versioned_formulae": [],
+    "desc": "Least-squares method to estimate rates and dates from phylogenies",
+    "homepage": "https://github.com/tothuhien/lsd2",
+    "versions": {
+      "stable": "1.3",
+      "devel": null,
+      "head": null,
+      "bottle": true
+    },
+    "revision": 0,
+    "version_scheme": 0,
+    "bottle": {
+      "stable": {
+        "rebuild": 0,
+        "cellar": ":any_skip_relocation",
+        "prefix": "/home/linuxbrew/.linuxbrew",
+        "root_url": "https://linuxbrew.bintray.com/bottles-bio",
+        "files": {
+          "sierra": {
+            "url": "https://linuxbrew.bintray.com/bottles-bio/lsd2-1.3.sierra.bottle.tar.gz",
+            "sha256": "bc3fbc38d1126f0f502d49e93a7c639893cef9b996c468f623a9351ed7a4d046"
+          },
+          "x86_64_linux": {
+            "url": "https://linuxbrew.bintray.com/bottles-bio/lsd2-1.3.x86_64_linux.bottle.tar.gz",
+            "sha256": "9a79037099326fb802b2f42c86deaea699bc0bd90cfe1f6ff4b45d941a722dc1"
+          }
+        }
+      }
+    },
+    "keg_only": false,
+    "bottle_disabled": false,
+    "options": [],
+    "build_dependencies": [],
+    "dependencies": [],
+    "recommended_dependencies": [],
+    "optional_dependencies": [],
+    "uses_from_macos": [],
     "requirements": [],
     "conflicts_with": [],
     "caveats": null,
@@ -6975,7 +7323,7 @@
   },
   {
     "name": "magic-blast",
-    "full_name": "brewsci/bio/magic-blast",
+    "full_name": "mys721tx/bio/magic-blast",
     "oldname": null,
     "aliases": [],
     "versioned_formulae": [],
@@ -7021,6 +7369,7 @@
     ],
     "recommended_dependencies": [],
     "optional_dependencies": [],
+    "uses_from_macos": [],
     "requirements": [],
     "conflicts_with": [],
     "caveats": "The 'makeblastdb' command has been installed as 'magicblast-makeblastdb'\nto avoid conflicts with the BLAST+ executables from the 'blast' formula.\n",
@@ -7031,7 +7380,7 @@
   },
   {
     "name": "maker",
-    "full_name": "brewsci/bio/maker",
+    "full_name": "mys721tx/bio/maker",
     "oldname": null,
     "aliases": [],
     "versioned_formulae": [],
@@ -7088,6 +7437,7 @@
     "optional_dependencies": [
       "open-mpi"
     ],
+    "uses_from_macos": [],
     "requirements": [],
     "conflicts_with": [],
     "caveats": "Optional compoments of MAKER that can be installed using brew:\n  infernal\n  mir-prefer\n  snoscan\n  trnascan\n\nOptional components of MAKER that are not available using brew:\n  GeneMarkS and GeneMark-ES. Download from http://exon.biology.gatech.edu\n  FGENESH 2.4 or higher. Purchase from http://www.softberry.com\n\nMAKER is available for academic use under either the Artistic\nLicense 2.0 developed by the Perl Foundation or the GNU General\nPublic License developed by the Free Software Foundation.\n\nMAKER is not available for commercial use without a license. Those\nwishing to license MAKER for commercial use should contact Beth\nDrees at the University of Utah TCO to discuss your needs.\n",
@@ -7098,14 +7448,14 @@
   },
   {
     "name": "mapcaller",
-    "full_name": "brewsci/bio/mapcaller",
+    "full_name": "mys721tx/bio/mapcaller",
     "oldname": null,
     "aliases": [],
     "versioned_formulae": [],
     "desc": "Combined short-read alignment and variant detection",
     "homepage": "https://github.com/hsinnan75/MapCaller",
     "versions": {
-      "stable": "0.9.9.7",
+      "stable": "0.9.9.26",
       "devel": null,
       "head": null,
       "bottle": true
@@ -7115,17 +7465,17 @@
     "bottle": {
       "stable": {
         "rebuild": 0,
-        "cellar": ":any",
+        "cellar": ":any_skip_relocation",
         "prefix": "/home/linuxbrew/.linuxbrew",
         "root_url": "https://linuxbrew.bintray.com/bottles-bio",
         "files": {
-          "sierra": {
-            "url": "https://linuxbrew.bintray.com/bottles-bio/mapcaller-0.9.9.7.sierra.bottle.tar.gz",
-            "sha256": "bf46a0ff5aa8b86a5b03eed10ee1d4232d1a31a58f85123b06044b2f70209286"
+          "mojave": {
+            "url": "https://linuxbrew.bintray.com/bottles-bio/mapcaller-0.9.9.26.mojave.bottle.tar.gz",
+            "sha256": "d8322737f3dab43b82cdbb7e294a7b3b2033e0bbad475b3526f536db474216b3"
           },
           "x86_64_linux": {
-            "url": "https://linuxbrew.bintray.com/bottles-bio/mapcaller-0.9.9.7.x86_64_linux.bottle.tar.gz",
-            "sha256": "584e90f96b88d4dd7ed6afde9a9726f29afcfdf8fa429af810e0cc1b0852fce9"
+            "url": "https://linuxbrew.bintray.com/bottles-bio/mapcaller-0.9.9.26.x86_64_linux.bottle.tar.gz",
+            "sha256": "f0d93b029986790c5029c48c75ffaeb246ae3c254e5ddc75e66c79f0aceff3ce"
           }
         }
       }
@@ -7142,6 +7492,7 @@
     ],
     "recommended_dependencies": [],
     "optional_dependencies": [],
+    "uses_from_macos": [],
     "requirements": [],
     "conflicts_with": [],
     "caveats": null,
@@ -7152,14 +7503,14 @@
   },
   {
     "name": "mash",
-    "full_name": "brewsci/bio/mash",
+    "full_name": "mys721tx/bio/mash",
     "oldname": null,
     "aliases": [],
     "versioned_formulae": [],
     "desc": "Fast genome distance estimation using MinHash",
     "homepage": "https://github.com/marbl/Mash",
     "versions": {
-      "stable": "2.2",
+      "stable": "2.2.2",
       "devel": null,
       "head": "HEAD",
       "bottle": true
@@ -7169,17 +7520,17 @@
     "bottle": {
       "stable": {
         "rebuild": 0,
-        "cellar": ":any",
+        "cellar": ":any_skip_relocation",
         "prefix": "/home/linuxbrew/.linuxbrew",
         "root_url": "https://linuxbrew.bintray.com/bottles-bio",
         "files": {
-          "sierra": {
-            "url": "https://linuxbrew.bintray.com/bottles-bio/mash-2.2.sierra.bottle.tar.gz",
-            "sha256": "1ebabe10ad2a9a0799484f4af0c752bc2babbc9f234150bf665369806db37253"
+          "mojave": {
+            "url": "https://linuxbrew.bintray.com/bottles-bio/mash-2.2.2.mojave.bottle.tar.gz",
+            "sha256": "ceded4203723c07f1468254f7f1281031bfd8163e948fb1b165659064f7ef5a6"
           },
           "x86_64_linux": {
-            "url": "https://linuxbrew.bintray.com/bottles-bio/mash-2.2.x86_64_linux.bottle.tar.gz",
-            "sha256": "c6367106ddeeb0a96e1ad6ecd9b1495950c67458f94779e94445c561327229e1"
+            "url": "https://linuxbrew.bintray.com/bottles-bio/mash-2.2.2.x86_64_linux.bottle.tar.gz",
+            "sha256": "4d75b04ef71f547af960aab06fe485dd53dd830695508fb0f2f33e1cfd5461b9"
           }
         }
       }
@@ -7200,6 +7551,7 @@
     ],
     "recommended_dependencies": [],
     "optional_dependencies": [],
+    "uses_from_macos": [],
     "requirements": [],
     "conflicts_with": [],
     "caveats": null,
@@ -7210,7 +7562,7 @@
   },
   {
     "name": "masurca",
-    "full_name": "brewsci/bio/masurca",
+    "full_name": "mys721tx/bio/masurca",
     "oldname": null,
     "aliases": [],
     "versioned_formulae": [],
@@ -7222,7 +7574,7 @@
       "head": null,
       "bottle": true
     },
-    "revision": 0,
+    "revision": 1,
     "version_scheme": 0,
     "bottle": {
       "stable": {
@@ -7232,8 +7584,8 @@
         "root_url": "https://linuxbrew.bintray.com/bottles-bio",
         "files": {
           "x86_64_linux": {
-            "url": "https://linuxbrew.bintray.com/bottles-bio/masurca-3.3.4.x86_64_linux.bottle.tar.gz",
-            "sha256": "b6b9acb5064523080a6c6e7ba6a56af8a5523e34ed1697021b1f9f996384c6a1"
+            "url": "https://linuxbrew.bintray.com/bottles-bio/masurca-3.3.4_1.x86_64_linux.bottle.tar.gz",
+            "sha256": "5e3b156f50496d1d41e60ec6f96089d4ac23749f05052892bd5cd4f883182703"
           }
         }
       }
@@ -7253,6 +7605,7 @@
     ],
     "recommended_dependencies": [],
     "optional_dependencies": [],
+    "uses_from_macos": [],
     "requirements": [
       {
         "name": "linux",
@@ -7269,7 +7622,7 @@
   },
   {
     "name": "matplotlib",
-    "full_name": "brewsci/bio/matplotlib",
+    "full_name": "mys721tx/bio/matplotlib",
     "oldname": null,
     "aliases": [],
     "versioned_formulae": [],
@@ -7338,6 +7691,7 @@
       "pygtk",
       "pyqt"
     ],
+    "uses_from_macos": [],
     "requirements": [
       {
         "name": "noexternalpycxxpackage",
@@ -7354,7 +7708,7 @@
   },
   {
     "name": "maxbin2",
-    "full_name": "brewsci/bio/maxbin2",
+    "full_name": "mys721tx/bio/maxbin2",
     "oldname": null,
     "aliases": [],
     "versioned_formulae": [],
@@ -7404,6 +7758,7 @@
     ],
     "recommended_dependencies": [],
     "optional_dependencies": [],
+    "uses_from_macos": [],
     "requirements": [],
     "conflicts_with": [],
     "caveats": "The main executable is installed as `maxbin2`. All other executable files\nare installed to `$(brew --prefix)/Cellar/maxbin2/2.2.6/libexec`.\n",
@@ -7414,7 +7769,7 @@
   },
   {
     "name": "mcl",
-    "full_name": "brewsci/bio/mcl",
+    "full_name": "mys721tx/bio/mcl",
     "oldname": null,
     "aliases": [],
     "versioned_formulae": [],
@@ -7453,6 +7808,7 @@
     "dependencies": [],
     "recommended_dependencies": [],
     "optional_dependencies": [],
+    "uses_from_macos": [],
     "requirements": [],
     "conflicts_with": [],
     "caveats": null,
@@ -7463,7 +7819,7 @@
   },
   {
     "name": "megahit",
-    "full_name": "brewsci/bio/megahit",
+    "full_name": "mys721tx/bio/megahit",
     "oldname": null,
     "aliases": [],
     "versioned_formulae": [],
@@ -7505,6 +7861,7 @@
     ],
     "recommended_dependencies": [],
     "optional_dependencies": [],
+    "uses_from_macos": [],
     "requirements": [],
     "conflicts_with": [],
     "caveats": null,
@@ -7515,14 +7872,14 @@
   },
   {
     "name": "meme",
-    "full_name": "brewsci/bio/meme",
+    "full_name": "mys721tx/bio/meme",
     "oldname": null,
     "aliases": [],
     "versioned_formulae": [],
     "desc": "Tools for motif discovery",
     "homepage": "http://meme-suite.org",
     "versions": {
-      "stable": "5.0.4",
+      "stable": "5.1.0",
       "devel": null,
       "head": null,
       "bottle": true
@@ -7537,8 +7894,8 @@
         "root_url": "https://linuxbrew.bintray.com/bottles-bio",
         "files": {
           "x86_64_linux": {
-            "url": "https://linuxbrew.bintray.com/bottles-bio/meme-5.0.4.x86_64_linux.bottle.tar.gz",
-            "sha256": "bd12839fa2cab51ddd2165764fee991f9a01f1ade1f766600a1301fbda55dd60"
+            "url": "https://linuxbrew.bintray.com/bottles-bio/meme-5.1.0.x86_64_linux.bottle.tar.gz",
+            "sha256": "b66235d3ce6851c700bc395dff15f2346234b6e84d750dd9d4d92945a999e01a"
           }
         }
       }
@@ -7562,6 +7919,7 @@
     "optional_dependencies": [
       "open-mpi"
     ],
+    "uses_from_macos": [],
     "requirements": [],
     "conflicts_with": [],
     "caveats": null,
@@ -7572,7 +7930,7 @@
   },
   {
     "name": "metabat",
-    "full_name": "brewsci/bio/metabat",
+    "full_name": "mys721tx/bio/metabat",
     "oldname": null,
     "aliases": [],
     "versioned_formulae": [],
@@ -7613,6 +7971,7 @@
     ],
     "recommended_dependencies": [],
     "optional_dependencies": [],
+    "uses_from_macos": [],
     "requirements": [
       {
         "name": "linux",
@@ -7629,7 +7988,7 @@
   },
   {
     "name": "metaphlan",
-    "full_name": "brewsci/bio/metaphlan",
+    "full_name": "mys721tx/bio/metaphlan",
     "oldname": null,
     "aliases": [],
     "versioned_formulae": [],
@@ -7655,6 +8014,7 @@
     ],
     "recommended_dependencies": [],
     "optional_dependencies": [],
+    "uses_from_macos": [],
     "requirements": [],
     "conflicts_with": [],
     "caveats": null,
@@ -7665,7 +8025,7 @@
   },
   {
     "name": "mhap",
-    "full_name": "brewsci/bio/mhap",
+    "full_name": "mys721tx/bio/mhap",
     "oldname": null,
     "aliases": [],
     "versioned_formulae": [],
@@ -7706,6 +8066,7 @@
     ],
     "recommended_dependencies": [],
     "optional_dependencies": [],
+    "uses_from_macos": [],
     "requirements": [],
     "conflicts_with": [],
     "caveats": null,
@@ -7716,7 +8077,7 @@
   },
   {
     "name": "minced",
-    "full_name": "brewsci/bio/minced",
+    "full_name": "mys721tx/bio/minced",
     "oldname": null,
     "aliases": [],
     "versioned_formulae": [],
@@ -7757,6 +8118,7 @@
     ],
     "recommended_dependencies": [],
     "optional_dependencies": [],
+    "uses_from_macos": [],
     "requirements": [],
     "conflicts_with": [],
     "caveats": null,
@@ -7767,7 +8129,7 @@
   },
   {
     "name": "minia",
-    "full_name": "brewsci/bio/minia",
+    "full_name": "mys721tx/bio/minia",
     "oldname": null,
     "aliases": [],
     "versioned_formulae": [],
@@ -7810,6 +8172,7 @@
     ],
     "recommended_dependencies": [],
     "optional_dependencies": [],
+    "uses_from_macos": [],
     "requirements": [],
     "conflicts_with": [],
     "caveats": null,
@@ -7820,7 +8183,7 @@
   },
   {
     "name": "miniasm",
-    "full_name": "brewsci/bio/miniasm",
+    "full_name": "mys721tx/bio/miniasm",
     "oldname": null,
     "aliases": [],
     "versioned_formulae": [],
@@ -7861,6 +8224,7 @@
     ],
     "recommended_dependencies": [],
     "optional_dependencies": [],
+    "uses_from_macos": [],
     "requirements": [],
     "conflicts_with": [],
     "caveats": null,
@@ -7871,7 +8235,7 @@
   },
   {
     "name": "minigraph",
-    "full_name": "brewsci/bio/minigraph",
+    "full_name": "mys721tx/bio/minigraph",
     "oldname": null,
     "aliases": [],
     "versioned_formulae": [],
@@ -7913,6 +8277,7 @@
     ],
     "recommended_dependencies": [],
     "optional_dependencies": [],
+    "uses_from_macos": [],
     "requirements": [],
     "conflicts_with": [],
     "caveats": null,
@@ -7923,7 +8288,7 @@
   },
   {
     "name": "minimap",
-    "full_name": "brewsci/bio/minimap",
+    "full_name": "mys721tx/bio/minimap",
     "oldname": null,
     "aliases": [],
     "versioned_formulae": [],
@@ -7964,6 +8329,7 @@
     ],
     "recommended_dependencies": [],
     "optional_dependencies": [],
+    "uses_from_macos": [],
     "requirements": [],
     "conflicts_with": [],
     "caveats": null,
@@ -7974,7 +8340,7 @@
   },
   {
     "name": "minimap2",
-    "full_name": "brewsci/bio/minimap2",
+    "full_name": "mys721tx/bio/minimap2",
     "oldname": null,
     "aliases": [],
     "versioned_formulae": [],
@@ -8016,6 +8382,7 @@
     ],
     "recommended_dependencies": [],
     "optional_dependencies": [],
+    "uses_from_macos": [],
     "requirements": [],
     "conflicts_with": [],
     "caveats": null,
@@ -8026,7 +8393,7 @@
   },
   {
     "name": "mir-prefer",
-    "full_name": "brewsci/bio/mir-prefer",
+    "full_name": "mys721tx/bio/mir-prefer",
     "oldname": null,
     "aliases": [],
     "versioned_formulae": [],
@@ -8071,6 +8438,7 @@
     ],
     "recommended_dependencies": [],
     "optional_dependencies": [],
+    "uses_from_macos": [],
     "requirements": [],
     "conflicts_with": [],
     "caveats": null,
@@ -8081,14 +8449,14 @@
   },
   {
     "name": "mlst",
-    "full_name": "brewsci/bio/mlst",
+    "full_name": "mys721tx/bio/mlst",
     "oldname": null,
     "aliases": [],
     "versioned_formulae": [],
     "desc": "Multi-Locus Sequence Typing of bacterial contigs",
     "homepage": "https://github.com/tseemann/mlst",
     "versions": {
-      "stable": "2.17.6",
+      "stable": "2.18.0",
       "devel": null,
       "head": "HEAD",
       "bottle": true
@@ -8102,13 +8470,13 @@
         "prefix": "/home/linuxbrew/.linuxbrew",
         "root_url": "https://linuxbrew.bintray.com/bottles-bio",
         "files": {
-          "sierra": {
-            "url": "https://linuxbrew.bintray.com/bottles-bio/mlst-2.17.6.sierra.bottle.tar.gz",
-            "sha256": "c1825f9550326f6ee5aaeebca222fa25ae992ba11ecb5674ae4339721f91dbc9"
+          "mojave": {
+            "url": "https://linuxbrew.bintray.com/bottles-bio/mlst-2.18.0.mojave.bottle.tar.gz",
+            "sha256": "9a2b1f281e71d728ab5665649e8f3bc9a6d724a2120981a9bb04b3bfebed6958"
           },
           "x86_64_linux": {
-            "url": "https://linuxbrew.bintray.com/bottles-bio/mlst-2.17.6.x86_64_linux.bottle.tar.gz",
-            "sha256": "86c5be147f02d9eab21a032d53266bcfa6bff6af0d893d6955bff8f1aa98f1a7"
+            "url": "https://linuxbrew.bintray.com/bottles-bio/mlst-2.18.0.x86_64_linux.bottle.tar.gz",
+            "sha256": "1ac4febaab06562d838becb5fcaef22c5c9a60edd0bf74dcbc13b3a763cb3f15"
           }
         }
       }
@@ -8129,6 +8497,7 @@
     ],
     "recommended_dependencies": [],
     "optional_dependencies": [],
+    "uses_from_macos": [],
     "requirements": [],
     "conflicts_with": [],
     "caveats": null,
@@ -8139,7 +8508,7 @@
   },
   {
     "name": "mmtf-cpp",
-    "full_name": "brewsci/bio/mmtf-cpp",
+    "full_name": "mys721tx/bio/mmtf-cpp",
     "oldname": null,
     "aliases": [],
     "versioned_formulae": [],
@@ -8183,6 +8552,7 @@
     ],
     "recommended_dependencies": [],
     "optional_dependencies": [],
+    "uses_from_macos": [],
     "requirements": [],
     "conflicts_with": [],
     "caveats": null,
@@ -8193,7 +8563,7 @@
   },
   {
     "name": "mosdepth",
-    "full_name": "brewsci/bio/mosdepth",
+    "full_name": "mys721tx/bio/mosdepth",
     "oldname": null,
     "aliases": [],
     "versioned_formulae": [],
@@ -8233,6 +8603,7 @@
     ],
     "recommended_dependencies": [],
     "optional_dependencies": [],
+    "uses_from_macos": [],
     "requirements": [
       {
         "name": "linux",
@@ -8249,7 +8620,7 @@
   },
   {
     "name": "mothur",
-    "full_name": "brewsci/bio/mothur",
+    "full_name": "mys721tx/bio/mothur",
     "oldname": null,
     "aliases": [],
     "versioned_formulae": [],
@@ -8291,6 +8662,7 @@
     ],
     "recommended_dependencies": [],
     "optional_dependencies": [],
+    "uses_from_macos": [],
     "requirements": [],
     "conflicts_with": [],
     "caveats": null,
@@ -8301,7 +8673,7 @@
   },
   {
     "name": "mp-est",
-    "full_name": "brewsci/bio/mp-est",
+    "full_name": "mys721tx/bio/mp-est",
     "oldname": null,
     "aliases": [],
     "versioned_formulae": [],
@@ -8342,6 +8714,7 @@
     "dependencies": [],
     "recommended_dependencies": [],
     "optional_dependencies": [],
+    "uses_from_macos": [],
     "requirements": [],
     "conflicts_with": [],
     "caveats": null,
@@ -8352,7 +8725,7 @@
   },
   {
     "name": "mpboot",
-    "full_name": "brewsci/bio/mpboot",
+    "full_name": "mys721tx/bio/mpboot",
     "oldname": null,
     "aliases": [],
     "versioned_formulae": [],
@@ -8398,6 +8771,7 @@
     "dependencies": [],
     "recommended_dependencies": [],
     "optional_dependencies": [],
+    "uses_from_macos": [],
     "requirements": [],
     "conflicts_with": [],
     "caveats": null,
@@ -8408,7 +8782,7 @@
   },
   {
     "name": "mrbayes",
-    "full_name": "brewsci/bio/mrbayes",
+    "full_name": "mys721tx/bio/mrbayes",
     "oldname": null,
     "aliases": [],
     "versioned_formulae": [],
@@ -8457,6 +8831,57 @@
     "optional_dependencies": [
       "open-mpi"
     ],
+    "uses_from_macos": [],
+    "requirements": [],
+    "conflicts_with": [],
+    "caveats": null,
+    "installed": [],
+    "linked_keg": null,
+    "pinned": false,
+    "outdated": false
+  },
+  {
+    "name": "mreps",
+    "full_name": "mys721tx/bio/mreps",
+    "oldname": null,
+    "aliases": [],
+    "versioned_formulae": [],
+    "desc": "Identifying serial/tandem in DNA sequences",
+    "homepage": "https://github.com/gregorykucherov/mreps",
+    "versions": {
+      "stable": "2.6.01",
+      "devel": null,
+      "head": null,
+      "bottle": true
+    },
+    "revision": 0,
+    "version_scheme": 0,
+    "bottle": {
+      "stable": {
+        "rebuild": 0,
+        "cellar": ":any_skip_relocation",
+        "prefix": "/home/linuxbrew/.linuxbrew",
+        "root_url": "https://linuxbrew.bintray.com/bottles-bio",
+        "files": {
+          "mojave": {
+            "url": "https://linuxbrew.bintray.com/bottles-bio/mreps-2.6.01.mojave.bottle.tar.gz",
+            "sha256": "18da69d83b028a26c6202a9879d3af24d8e678ff36f1cd25979df3dc91c511ac"
+          },
+          "x86_64_linux": {
+            "url": "https://linuxbrew.bintray.com/bottles-bio/mreps-2.6.01.x86_64_linux.bottle.tar.gz",
+            "sha256": "0c7d4a4f202cd4885d25b470d02baa22f7ff8d816c9df7789bc57847a8f13bd7"
+          }
+        }
+      }
+    },
+    "keg_only": false,
+    "bottle_disabled": false,
+    "options": [],
+    "build_dependencies": [],
+    "dependencies": [],
+    "recommended_dependencies": [],
+    "optional_dependencies": [],
+    "uses_from_macos": [],
     "requirements": [],
     "conflicts_with": [],
     "caveats": null,
@@ -8467,7 +8892,7 @@
   },
   {
     "name": "mummer",
-    "full_name": "brewsci/bio/mummer",
+    "full_name": "mys721tx/bio/mummer",
     "oldname": null,
     "aliases": [],
     "versioned_formulae": [],
@@ -8508,6 +8933,7 @@
     ],
     "recommended_dependencies": [],
     "optional_dependencies": [],
+    "uses_from_macos": [],
     "requirements": [],
     "conflicts_with": [],
     "caveats": null,
@@ -8518,7 +8944,7 @@
   },
   {
     "name": "muscle",
-    "full_name": "brewsci/bio/muscle",
+    "full_name": "mys721tx/bio/muscle",
     "oldname": null,
     "aliases": [],
     "versioned_formulae": [],
@@ -8557,6 +8983,7 @@
     "dependencies": [],
     "recommended_dependencies": [],
     "optional_dependencies": [],
+    "uses_from_macos": [],
     "requirements": [],
     "conflicts_with": [],
     "caveats": null,
@@ -8567,7 +8994,7 @@
   },
   {
     "name": "nanofilt",
-    "full_name": "brewsci/bio/nanofilt",
+    "full_name": "mys721tx/bio/nanofilt",
     "oldname": null,
     "aliases": [],
     "versioned_formulae": [],
@@ -8610,6 +9037,7 @@
     ],
     "recommended_dependencies": [],
     "optional_dependencies": [],
+    "uses_from_macos": [],
     "requirements": [],
     "conflicts_with": [],
     "caveats": null,
@@ -8620,7 +9048,7 @@
   },
   {
     "name": "nanopolish",
-    "full_name": "brewsci/bio/nanopolish",
+    "full_name": "mys721tx/bio/nanopolish",
     "oldname": null,
     "aliases": [],
     "versioned_formulae": [],
@@ -8664,6 +9092,7 @@
     ],
     "recommended_dependencies": [],
     "optional_dependencies": [],
+    "uses_from_macos": [],
     "requirements": [],
     "conflicts_with": [],
     "caveats": null,
@@ -8674,7 +9103,7 @@
   },
   {
     "name": "newick-utils",
-    "full_name": "brewsci/bio/newick-utils",
+    "full_name": "mys721tx/bio/newick-utils",
     "oldname": null,
     "aliases": [],
     "versioned_formulae": [],
@@ -8719,6 +9148,7 @@
     ],
     "recommended_dependencies": [],
     "optional_dependencies": [],
+    "uses_from_macos": [],
     "requirements": [],
     "conflicts_with": [],
     "caveats": null,
@@ -8729,7 +9159,7 @@
   },
   {
     "name": "nextflow",
-    "full_name": "brewsci/bio/nextflow",
+    "full_name": "mys721tx/bio/nextflow",
     "oldname": null,
     "aliases": [],
     "versioned_formulae": [],
@@ -8770,6 +9200,7 @@
     ],
     "recommended_dependencies": [],
     "optional_dependencies": [],
+    "uses_from_macos": [],
     "requirements": [],
     "conflicts_with": [],
     "caveats": null,
@@ -8780,7 +9211,7 @@
   },
   {
     "name": "nextgenmap",
-    "full_name": "brewsci/bio/nextgenmap",
+    "full_name": "mys721tx/bio/nextgenmap",
     "oldname": null,
     "aliases": [],
     "versioned_formulae": [],
@@ -8821,6 +9252,7 @@
     "dependencies": [],
     "recommended_dependencies": [],
     "optional_dependencies": [],
+    "uses_from_macos": [],
     "requirements": [],
     "conflicts_with": [],
     "caveats": null,
@@ -8831,7 +9263,7 @@
   },
   {
     "name": "ngmaster",
-    "full_name": "brewsci/bio/ngmaster",
+    "full_name": "mys721tx/bio/ngmaster",
     "oldname": null,
     "aliases": [],
     "versioned_formulae": [],
@@ -8874,6 +9306,7 @@
     ],
     "recommended_dependencies": [],
     "optional_dependencies": [],
+    "uses_from_macos": [],
     "requirements": [],
     "conflicts_with": [],
     "caveats": null,
@@ -8884,7 +9317,7 @@
   },
   {
     "name": "ngmerge",
-    "full_name": "brewsci/bio/ngmerge",
+    "full_name": "mys721tx/bio/ngmerge",
     "oldname": null,
     "aliases": [],
     "versioned_formulae": [],
@@ -8925,6 +9358,7 @@
     ],
     "recommended_dependencies": [],
     "optional_dependencies": [],
+    "uses_from_macos": [],
     "requirements": [],
     "conflicts_with": [],
     "caveats": null,
@@ -8935,7 +9369,7 @@
   },
   {
     "name": "nonpareil",
-    "full_name": "brewsci/bio/nonpareil",
+    "full_name": "mys721tx/bio/nonpareil",
     "oldname": null,
     "aliases": [],
     "versioned_formulae": [],
@@ -8983,6 +9417,7 @@
     "optional_dependencies": [
       "open-mpi"
     ],
+    "uses_from_macos": [],
     "requirements": [],
     "conflicts_with": [],
     "caveats": null,
@@ -8993,7 +9428,7 @@
   },
   {
     "name": "ntcard",
-    "full_name": "brewsci/bio/ntcard",
+    "full_name": "mys721tx/bio/ntcard",
     "oldname": null,
     "aliases": [],
     "versioned_formulae": [],
@@ -9005,7 +9440,7 @@
       "head": "HEAD",
       "bottle": true
     },
-    "revision": 0,
+    "revision": 1,
     "version_scheme": 0,
     "bottle": {
       "stable": {
@@ -9014,13 +9449,13 @@
         "prefix": "/home/linuxbrew/.linuxbrew",
         "root_url": "https://linuxbrew.bintray.com/bottles-bio",
         "files": {
-          "sierra": {
-            "url": "https://linuxbrew.bintray.com/bottles-bio/ntcard-1.1.1.sierra.bottle.tar.gz",
-            "sha256": "cb5dcd794b5b0caf8a4e75f4d7c8a66a6074a53ee3efb23200cae92806bbbf71"
+          "mojave": {
+            "url": "https://linuxbrew.bintray.com/bottles-bio/ntcard-1.1.1_1.mojave.bottle.tar.gz",
+            "sha256": "beef0f25e0a6c64e399685d77db1b16336551d744f53c184a2ec55194d9fe0b5"
           },
           "x86_64_linux": {
-            "url": "https://linuxbrew.bintray.com/bottles-bio/ntcard-1.1.1.x86_64_linux.bottle.tar.gz",
-            "sha256": "87de4b1d23fb01f915d3426802d9f20aedcdd93be71100893ceb22e23114aa5c"
+            "url": "https://linuxbrew.bintray.com/bottles-bio/ntcard-1.1.1_1.x86_64_linux.bottle.tar.gz",
+            "sha256": "f1e5d1831be321cb71864fca94fd4de18b3cc9bd088fae974d5b816db48dddb3"
           }
         }
       }
@@ -9035,6 +9470,7 @@
     "dependencies": [],
     "recommended_dependencies": [],
     "optional_dependencies": [],
+    "uses_from_macos": [],
     "requirements": [],
     "conflicts_with": [],
     "caveats": null,
@@ -9045,14 +9481,14 @@
   },
   {
     "name": "ntedit",
-    "full_name": "brewsci/bio/ntedit",
+    "full_name": "mys721tx/bio/ntedit",
     "oldname": null,
     "aliases": [],
     "versioned_formulae": [],
     "desc": "Scalable genome assembly polishing",
     "homepage": "https://github.com/bcgsc/ntEdit",
     "versions": {
-      "stable": "1.2.3",
+      "stable": "1.3.1",
       "devel": null,
       "head": "HEAD",
       "bottle": true
@@ -9062,17 +9498,17 @@
     "bottle": {
       "stable": {
         "rebuild": 0,
-        "cellar": ":any_skip_relocation",
+        "cellar": ":any",
         "prefix": "/home/linuxbrew/.linuxbrew",
         "root_url": "https://linuxbrew.bintray.com/bottles-bio",
         "files": {
-          "sierra": {
-            "url": "https://linuxbrew.bintray.com/bottles-bio/ntedit-1.2.3.sierra.bottle.tar.gz",
-            "sha256": "468426b66a78d26c25a7c490c59d6e8f4897aef399f226f6db6d07c9ef3fca67"
+          "mojave": {
+            "url": "https://linuxbrew.bintray.com/bottles-bio/ntedit-1.3.1.mojave.bottle.tar.gz",
+            "sha256": "e22a1f097b540564b408dcf2189f30cdc63a5db15f92b82605dfb13ab14446c9"
           },
           "x86_64_linux": {
-            "url": "https://linuxbrew.bintray.com/bottles-bio/ntedit-1.2.3.x86_64_linux.bottle.tar.gz",
-            "sha256": "f50bc41a308c00614b4f29b9152ffb2b11937ef7950a64e3a393f36090654520"
+            "url": "https://linuxbrew.bintray.com/bottles-bio/ntedit-1.3.1.x86_64_linux.bottle.tar.gz",
+            "sha256": "a446acbbf4de038f96329f328276f4c154f0ebdfc59a1fd6ce8b4ed23525be86"
           }
         }
       }
@@ -9086,6 +9522,7 @@
     ],
     "recommended_dependencies": [],
     "optional_dependencies": [],
+    "uses_from_macos": [],
     "requirements": [],
     "conflicts_with": [],
     "caveats": null,
@@ -9096,7 +9533,7 @@
   },
   {
     "name": "nthits",
-    "full_name": "brewsci/bio/nthits",
+    "full_name": "mys721tx/bio/nthits",
     "oldname": null,
     "aliases": [],
     "versioned_formulae": [],
@@ -9138,6 +9575,7 @@
     "dependencies": [],
     "recommended_dependencies": [],
     "optional_dependencies": [],
+    "uses_from_macos": [],
     "requirements": [],
     "conflicts_with": [],
     "caveats": null,
@@ -9148,7 +9586,7 @@
   },
   {
     "name": "nxrepair",
-    "full_name": "brewsci/bio/nxrepair",
+    "full_name": "mys721tx/bio/nxrepair",
     "oldname": null,
     "aliases": [],
     "versioned_formulae": [],
@@ -9195,6 +9633,7 @@
     ],
     "recommended_dependencies": [],
     "optional_dependencies": [],
+    "uses_from_macos": [],
     "requirements": [],
     "conflicts_with": [],
     "caveats": null,
@@ -9205,7 +9644,7 @@
   },
   {
     "name": "nxtrim",
-    "full_name": "brewsci/bio/nxtrim",
+    "full_name": "mys721tx/bio/nxtrim",
     "oldname": null,
     "aliases": [],
     "versioned_formulae": [],
@@ -9248,6 +9687,7 @@
     ],
     "recommended_dependencies": [],
     "optional_dependencies": [],
+    "uses_from_macos": [],
     "requirements": [],
     "conflicts_with": [],
     "caveats": null,
@@ -9258,7 +9698,7 @@
   },
   {
     "name": "oases",
-    "full_name": "brewsci/bio/oases",
+    "full_name": "mys721tx/bio/oases",
     "oldname": null,
     "aliases": [],
     "versioned_formulae": [],
@@ -9301,6 +9741,7 @@
     ],
     "recommended_dependencies": [],
     "optional_dependencies": [],
+    "uses_from_macos": [],
     "requirements": [],
     "conflicts_with": [],
     "caveats": null,
@@ -9311,14 +9752,14 @@
   },
   {
     "name": "oma",
-    "full_name": "brewsci/bio/oma",
+    "full_name": "mys721tx/bio/oma",
     "oldname": null,
     "aliases": [],
     "versioned_formulae": [],
     "desc": "Standalone package to infer orthologs with the OMA algorithm",
     "homepage": "https://omabrowser.org/standalone/",
     "versions": {
-      "stable": "2.3.1",
+      "stable": "2.4.1",
       "devel": null,
       "head": null,
       "bottle": true
@@ -9332,13 +9773,13 @@
         "prefix": "/home/linuxbrew/.linuxbrew",
         "root_url": "https://linuxbrew.bintray.com/bottles-bio",
         "files": {
-          "sierra": {
-            "url": "https://linuxbrew.bintray.com/bottles-bio/oma-2.3.1.sierra.bottle.tar.gz",
-            "sha256": "a3faceacda5a26ce054e9d14f254b7e17728a27e3ee73d0b5bfefa29764c02c0"
+          "mojave": {
+            "url": "https://linuxbrew.bintray.com/bottles-bio/oma-2.4.1.mojave.bottle.tar.gz",
+            "sha256": "8d9dc53917ab9fc923cb5f42650d4690ea919339082cc5df368b5927d5857db2"
           },
           "x86_64_linux": {
-            "url": "https://linuxbrew.bintray.com/bottles-bio/oma-2.3.1.x86_64_linux.bottle.tar.gz",
-            "sha256": "57f39d3238c12cbe8534a4f571e52328060b106580cb48c72272492f39e8f029"
+            "url": "https://linuxbrew.bintray.com/bottles-bio/oma-2.4.1.x86_64_linux.bottle.tar.gz",
+            "sha256": "d41b7f1cf868eeb797170329bbad3a09faf5ab11e2fdee60e1bbb5507ce51388"
           }
         }
       }
@@ -9348,10 +9789,14 @@
     "options": [],
     "build_dependencies": [],
     "dependencies": [
+      "libxml2",
+      "libxslt",
+      "numpy",
       "python"
     ],
     "recommended_dependencies": [],
     "optional_dependencies": [],
+    "uses_from_macos": [],
     "requirements": [],
     "conflicts_with": [],
     "caveats": null,
@@ -9362,7 +9807,7 @@
   },
   {
     "name": "orfm",
-    "full_name": "brewsci/bio/orfm",
+    "full_name": "mys721tx/bio/orfm",
     "oldname": null,
     "aliases": [],
     "versioned_formulae": [],
@@ -9407,6 +9852,7 @@
     ],
     "recommended_dependencies": [],
     "optional_dependencies": [],
+    "uses_from_macos": [],
     "requirements": [],
     "conflicts_with": [],
     "caveats": null,
@@ -9417,7 +9863,7 @@
   },
   {
     "name": "paml",
-    "full_name": "brewsci/bio/paml",
+    "full_name": "mys721tx/bio/paml",
     "oldname": null,
     "aliases": [],
     "versioned_formulae": [],
@@ -9456,6 +9902,7 @@
     "dependencies": [],
     "recommended_dependencies": [],
     "optional_dependencies": [],
+    "uses_from_macos": [],
     "requirements": [],
     "conflicts_with": [],
     "caveats": "Documentation and examples:\n  $(brew --prefix)/share/doc/paml\nDat and ctl files:\n  $(brew --prefix)/share/paml\n",
@@ -9465,8 +9912,67 @@
     "outdated": false
   },
   {
+    "name": "pandaseq",
+    "full_name": "mys721tx/bio/pandaseq",
+    "oldname": null,
+    "aliases": [],
+    "versioned_formulae": [],
+    "desc": "PAired-eND Assembler for DNA sequences",
+    "homepage": "https://github.com/neufeld/pandaseq",
+    "versions": {
+      "stable": "2.11",
+      "devel": null,
+      "head": null,
+      "bottle": true
+    },
+    "revision": 0,
+    "version_scheme": 0,
+    "bottle": {
+      "stable": {
+        "rebuild": 0,
+        "cellar": "/home/linuxbrew/.linuxbrew/Cellar",
+        "prefix": "/home/linuxbrew/.linuxbrew",
+        "root_url": "https://linuxbrew.bintray.com/bottles-bio",
+        "files": {
+          "mojave": {
+            "url": "https://linuxbrew.bintray.com/bottles-bio/pandaseq-2.11.mojave.bottle.tar.gz",
+            "sha256": "a9e047bdfd18226644594b687f9daf13a7570f4e16f4a2c3860334932adee5a9"
+          },
+          "x86_64_linux": {
+            "url": "https://linuxbrew.bintray.com/bottles-bio/pandaseq-2.11.x86_64_linux.bottle.tar.gz",
+            "sha256": "7c5ba5be45e1505bbb4a6b7ca6d46a634a06edb302f8c76544b2feea36626b5e"
+          }
+        }
+      }
+    },
+    "keg_only": false,
+    "bottle_disabled": false,
+    "options": [],
+    "build_dependencies": [
+      "autoconf",
+      "automake",
+      "pkg-config"
+    ],
+    "dependencies": [
+      "libtool",
+      "bzip2",
+      "curl",
+      "zlib"
+    ],
+    "recommended_dependencies": [],
+    "optional_dependencies": [],
+    "uses_from_macos": [],
+    "requirements": [],
+    "conflicts_with": [],
+    "caveats": null,
+    "installed": [],
+    "linked_keg": null,
+    "pinned": false,
+    "outdated": false
+  },
+  {
     "name": "panito",
-    "full_name": "brewsci/bio/panito",
+    "full_name": "mys721tx/bio/panito",
     "oldname": null,
     "aliases": [],
     "versioned_formulae": [],
@@ -9512,6 +10018,7 @@
     ],
     "recommended_dependencies": [],
     "optional_dependencies": [],
+    "uses_from_macos": [],
     "requirements": [],
     "conflicts_with": [],
     "caveats": null,
@@ -9522,7 +10029,7 @@
   },
   {
     "name": "parasail",
-    "full_name": "brewsci/bio/parasail",
+    "full_name": "mys721tx/bio/parasail",
     "oldname": null,
     "aliases": [],
     "versioned_formulae": [],
@@ -9568,6 +10075,7 @@
     ],
     "recommended_dependencies": [],
     "optional_dependencies": [],
+    "uses_from_macos": [],
     "requirements": [],
     "conflicts_with": [],
     "caveats": null,
@@ -9578,7 +10086,7 @@
   },
   {
     "name": "parsnp",
-    "full_name": "brewsci/bio/parsnp",
+    "full_name": "mys721tx/bio/parsnp",
     "oldname": null,
     "aliases": [],
     "versioned_formulae": [],
@@ -9627,6 +10135,7 @@
     ],
     "recommended_dependencies": [],
     "optional_dependencies": [],
+    "uses_from_macos": [],
     "requirements": [],
     "conflicts_with": [],
     "caveats": null,
@@ -9637,7 +10146,7 @@
   },
   {
     "name": "pathvisio",
-    "full_name": "brewsci/bio/pathvisio",
+    "full_name": "mys721tx/bio/pathvisio",
     "oldname": null,
     "aliases": [],
     "versioned_formulae": [],
@@ -9663,6 +10172,64 @@
     ],
     "recommended_dependencies": [],
     "optional_dependencies": [],
+    "uses_from_macos": [],
+    "requirements": [],
+    "conflicts_with": [],
+    "caveats": null,
+    "installed": [],
+    "linked_keg": null,
+    "pinned": false,
+    "outdated": false
+  },
+  {
+    "name": "peat",
+    "full_name": "mys721tx/bio/peat",
+    "oldname": null,
+    "aliases": [],
+    "versioned_formulae": [],
+    "desc": "Paired-end trimmer with automatic adapter discovery",
+    "homepage": "https://github.com/jhhung/PEAT",
+    "versions": {
+      "stable": "1.2.5",
+      "devel": null,
+      "head": null,
+      "bottle": true
+    },
+    "revision": 0,
+    "version_scheme": 0,
+    "bottle": {
+      "stable": {
+        "rebuild": 0,
+        "cellar": ":any",
+        "prefix": "/home/linuxbrew/.linuxbrew",
+        "root_url": "https://linuxbrew.bintray.com/bottles-bio",
+        "files": {
+          "sierra": {
+            "url": "https://linuxbrew.bintray.com/bottles-bio/peat-1.2.5.sierra.bottle.tar.gz",
+            "sha256": "6de0b86edd00c6efee1c5f8d2b8370a6bbd46b30fc136d4bd1bfc6a1b2a5a10f"
+          },
+          "x86_64_linux": {
+            "url": "https://linuxbrew.bintray.com/bottles-bio/peat-1.2.5.x86_64_linux.bottle.tar.gz",
+            "sha256": "1aa583f4dbcf1ecd7a769a2d01a4403368b4e72528eb27f6ad8854e6e8674b37"
+          }
+        }
+      }
+    },
+    "keg_only": false,
+    "bottle_disabled": false,
+    "options": [],
+    "build_dependencies": [
+      "cmake",
+      "pkg-config"
+    ],
+    "dependencies": [
+      "boost",
+      "curl",
+      "zlib"
+    ],
+    "recommended_dependencies": [],
+    "optional_dependencies": [],
+    "uses_from_macos": [],
     "requirements": [],
     "conflicts_with": [],
     "caveats": null,
@@ -9673,7 +10240,7 @@
   },
   {
     "name": "phlawd",
-    "full_name": "brewsci/bio/phlawd",
+    "full_name": "mys721tx/bio/phlawd",
     "oldname": null,
     "aliases": [],
     "versioned_formulae": [],
@@ -9718,6 +10285,7 @@
     ],
     "recommended_dependencies": [],
     "optional_dependencies": [],
+    "uses_from_macos": [],
     "requirements": [],
     "conflicts_with": [],
     "caveats": null,
@@ -9728,7 +10296,7 @@
   },
   {
     "name": "phylip",
-    "full_name": "brewsci/bio/phylip",
+    "full_name": "mys721tx/bio/phylip",
     "oldname": null,
     "aliases": [],
     "versioned_formulae": [],
@@ -9767,6 +10335,57 @@
     "dependencies": [],
     "recommended_dependencies": [],
     "optional_dependencies": [],
+    "uses_from_macos": [],
+    "requirements": [],
+    "conflicts_with": [],
+    "caveats": null,
+    "installed": [],
+    "linked_keg": null,
+    "pinned": false,
+    "outdated": false
+  },
+  {
+    "name": "phylobayes",
+    "full_name": "mys721tx/bio/phylobayes",
+    "oldname": null,
+    "aliases": [],
+    "versioned_formulae": [],
+    "desc": "Phylogenetic reconstruction using infinite mixtures",
+    "homepage": "http://megasun.bch.umontreal.ca/People/lartillot/www/download.html",
+    "versions": {
+      "stable": "4.1e",
+      "devel": null,
+      "head": null,
+      "bottle": true
+    },
+    "revision": 0,
+    "version_scheme": 0,
+    "bottle": {
+      "stable": {
+        "rebuild": 0,
+        "cellar": ":any_skip_relocation",
+        "prefix": "/home/linuxbrew/.linuxbrew",
+        "root_url": "https://linuxbrew.bintray.com/bottles-bio",
+        "files": {
+          "mojave": {
+            "url": "https://linuxbrew.bintray.com/bottles-bio/phylobayes-4.1e.mojave.bottle.tar.gz",
+            "sha256": "d64caf0698e161e24cd60ef993d3033af9629286ccf60ffd7c4ffd2d21acb2a3"
+          },
+          "x86_64_linux": {
+            "url": "https://linuxbrew.bintray.com/bottles-bio/phylobayes-4.1e.x86_64_linux.bottle.tar.gz",
+            "sha256": "95bd708818d15ab41d8528119a1b63007e687db51c130c35029e68fb29e0357d"
+          }
+        }
+      }
+    },
+    "keg_only": false,
+    "bottle_disabled": false,
+    "options": [],
+    "build_dependencies": [],
+    "dependencies": [],
+    "recommended_dependencies": [],
+    "optional_dependencies": [],
+    "uses_from_macos": [],
     "requirements": [],
     "conflicts_with": [],
     "caveats": null,
@@ -9777,7 +10396,7 @@
   },
   {
     "name": "phyml",
-    "full_name": "brewsci/bio/phyml",
+    "full_name": "mys721tx/bio/phyml",
     "oldname": null,
     "aliases": [],
     "versioned_formulae": [],
@@ -9821,6 +10440,7 @@
     "dependencies": [],
     "recommended_dependencies": [],
     "optional_dependencies": [],
+    "uses_from_macos": [],
     "requirements": [],
     "conflicts_with": [],
     "caveats": null,
@@ -9831,34 +10451,34 @@
   },
   {
     "name": "phyx",
-    "full_name": "brewsci/bio/phyx",
+    "full_name": "mys721tx/bio/phyx",
     "oldname": null,
     "aliases": [],
     "versioned_formulae": [],
     "desc": "Command-line tools for phylogenetic analyses",
     "homepage": "https://github.com/FePhyFoFum/phyx",
     "versions": {
-      "stable": "0.999",
+      "stable": "1.01",
       "devel": null,
       "head": null,
       "bottle": true
     },
-    "revision": 1,
+    "revision": 0,
     "version_scheme": 0,
     "bottle": {
       "stable": {
         "rebuild": 0,
-        "cellar": ":any",
+        "cellar": ":any_skip_relocation",
         "prefix": "/home/linuxbrew/.linuxbrew",
         "root_url": "https://linuxbrew.bintray.com/bottles-bio",
         "files": {
-          "sierra": {
-            "url": "https://linuxbrew.bintray.com/bottles-bio/phyx-0.999_1.sierra.bottle.tar.gz",
-            "sha256": "0624af0f10604c04808ffb83aa89f247fb247e9b328591603ec85710166f7592"
+          "mojave": {
+            "url": "https://linuxbrew.bintray.com/bottles-bio/phyx-1.01.mojave.bottle.tar.gz",
+            "sha256": "561513bd343850933d8f034617bb6990100bb8ffbd5f3a6fc7c8145c43401f25"
           },
           "x86_64_linux": {
-            "url": "https://linuxbrew.bintray.com/bottles-bio/phyx-0.999_1.x86_64_linux.bottle.tar.gz",
-            "sha256": "df83058b0a1ac9893fed65f50663ce15a95d01f79614b2d2d3e0071748be8e15"
+            "url": "https://linuxbrew.bintray.com/bottles-bio/phyx-1.01.x86_64_linux.bottle.tar.gz",
+            "sha256": "0b324a7fa20c5f57d4de10ae5034c2885ad7006c04c24107bef67a33a3c1131f"
           }
         }
       }
@@ -9873,6 +10493,7 @@
     ],
     "recommended_dependencies": [],
     "optional_dependencies": [],
+    "uses_from_macos": [],
     "requirements": [],
     "conflicts_with": [],
     "caveats": null,
@@ -9883,7 +10504,7 @@
   },
   {
     "name": "pilon",
-    "full_name": "brewsci/bio/pilon",
+    "full_name": "mys721tx/bio/pilon",
     "oldname": null,
     "aliases": [],
     "versioned_formulae": [],
@@ -9924,6 +10545,7 @@
     ],
     "recommended_dependencies": [],
     "optional_dependencies": [],
+    "uses_from_macos": [],
     "requirements": [],
     "conflicts_with": [],
     "caveats": null,
@@ -9934,7 +10556,7 @@
   },
   {
     "name": "pirate",
-    "full_name": "brewsci/bio/pirate",
+    "full_name": "mys721tx/bio/pirate",
     "oldname": null,
     "aliases": [],
     "versioned_formulae": [],
@@ -9984,6 +10606,7 @@
     ],
     "recommended_dependencies": [],
     "optional_dependencies": [],
+    "uses_from_macos": [],
     "requirements": [],
     "conflicts_with": [],
     "caveats": null,
@@ -9994,7 +10617,7 @@
   },
   {
     "name": "porechop",
-    "full_name": "brewsci/bio/porechop",
+    "full_name": "mys721tx/bio/porechop",
     "oldname": null,
     "aliases": [],
     "versioned_formulae": [],
@@ -10035,6 +10658,7 @@
     ],
     "recommended_dependencies": [],
     "optional_dependencies": [],
+    "uses_from_macos": [],
     "requirements": [],
     "conflicts_with": [],
     "caveats": null,
@@ -10045,7 +10669,7 @@
   },
   {
     "name": "portcullis",
-    "full_name": "brewsci/bio/portcullis",
+    "full_name": "mys721tx/bio/portcullis",
     "oldname": null,
     "aliases": [],
     "versioned_formulae": [],
@@ -10094,6 +10718,7 @@
     ],
     "recommended_dependencies": [],
     "optional_dependencies": [],
+    "uses_from_macos": [],
     "requirements": [],
     "conflicts_with": [],
     "caveats": null,
@@ -10104,7 +10729,7 @@
   },
   {
     "name": "pplacer",
-    "full_name": "brewsci/bio/pplacer",
+    "full_name": "mys721tx/bio/pplacer",
     "oldname": null,
     "aliases": [],
     "versioned_formulae": [],
@@ -10145,6 +10770,7 @@
     "dependencies": [],
     "recommended_dependencies": [],
     "optional_dependencies": [],
+    "uses_from_macos": [],
     "requirements": [],
     "conflicts_with": [],
     "caveats": null,
@@ -10155,7 +10781,7 @@
   },
   {
     "name": "prank",
-    "full_name": "brewsci/bio/prank",
+    "full_name": "mys721tx/bio/prank",
     "oldname": null,
     "aliases": [],
     "versioned_formulae": [],
@@ -10197,6 +10823,7 @@
     ],
     "recommended_dependencies": [],
     "optional_dependencies": [],
+    "uses_from_macos": [],
     "requirements": [],
     "conflicts_with": [],
     "caveats": null,
@@ -10207,7 +10834,7 @@
   },
   {
     "name": "prokka",
-    "full_name": "brewsci/bio/prokka",
+    "full_name": "mys721tx/bio/prokka",
     "oldname": null,
     "aliases": [],
     "versioned_formulae": [],
@@ -10259,6 +10886,7 @@
     ],
     "recommended_dependencies": [],
     "optional_dependencies": [],
+    "uses_from_macos": [],
     "requirements": [],
     "conflicts_with": [],
     "caveats": null,
@@ -10269,7 +10897,7 @@
   },
   {
     "name": "pullseq",
-    "full_name": "brewsci/bio/pullseq",
+    "full_name": "mys721tx/bio/pullseq",
     "oldname": null,
     "aliases": [],
     "versioned_formulae": [],
@@ -10313,6 +10941,7 @@
     ],
     "recommended_dependencies": [],
     "optional_dependencies": [],
+    "uses_from_macos": [],
     "requirements": [],
     "conflicts_with": [],
     "caveats": null,
@@ -10323,7 +10952,7 @@
   },
   {
     "name": "pymol",
-    "full_name": "brewsci/bio/pymol",
+    "full_name": "mys721tx/bio/pymol",
     "oldname": null,
     "aliases": [],
     "versioned_formulae": [],
@@ -10371,6 +11000,7 @@
     ],
     "recommended_dependencies": [],
     "optional_dependencies": [],
+    "uses_from_macos": [],
     "requirements": [],
     "conflicts_with": [],
     "caveats": null,
@@ -10381,7 +11011,7 @@
   },
   {
     "name": "quast",
-    "full_name": "brewsci/bio/quast",
+    "full_name": "mys721tx/bio/quast",
     "oldname": null,
     "aliases": [],
     "versioned_formulae": [],
@@ -10423,6 +11053,7 @@
     ],
     "recommended_dependencies": [],
     "optional_dependencies": [],
+    "uses_from_macos": [],
     "requirements": [],
     "conflicts_with": [],
     "caveats": null,
@@ -10433,7 +11064,7 @@
   },
   {
     "name": "quickmerge",
-    "full_name": "brewsci/bio/quickmerge",
+    "full_name": "mys721tx/bio/quickmerge",
     "oldname": null,
     "aliases": [],
     "versioned_formulae": [],
@@ -10475,6 +11106,7 @@
     ],
     "recommended_dependencies": [],
     "optional_dependencies": [],
+    "uses_from_macos": [],
     "requirements": [],
     "conflicts_with": [],
     "caveats": null,
@@ -10485,7 +11117,7 @@
   },
   {
     "name": "quicktree",
-    "full_name": "brewsci/bio/quicktree",
+    "full_name": "mys721tx/bio/quicktree",
     "oldname": null,
     "aliases": [],
     "versioned_formulae": [],
@@ -10524,6 +11156,7 @@
     "dependencies": [],
     "recommended_dependencies": [],
     "optional_dependencies": [],
+    "uses_from_macos": [],
     "requirements": [],
     "conflicts_with": [],
     "caveats": null,
@@ -10534,7 +11167,7 @@
   },
   {
     "name": "quip",
-    "full_name": "brewsci/bio/quip",
+    "full_name": "mys721tx/bio/quip",
     "oldname": null,
     "aliases": [],
     "versioned_formulae": [],
@@ -10576,6 +11209,7 @@
     ],
     "recommended_dependencies": [],
     "optional_dependencies": [],
+    "uses_from_macos": [],
     "requirements": [],
     "conflicts_with": [],
     "caveats": null,
@@ -10586,7 +11220,7 @@
   },
   {
     "name": "r8s",
-    "full_name": "brewsci/bio/r8s",
+    "full_name": "mys721tx/bio/r8s",
     "oldname": null,
     "aliases": [],
     "versioned_formulae": [],
@@ -10627,6 +11261,7 @@
     ],
     "recommended_dependencies": [],
     "optional_dependencies": [],
+    "uses_from_macos": [],
     "requirements": [],
     "conflicts_with": [],
     "caveats": null,
@@ -10637,7 +11272,7 @@
   },
   {
     "name": "racon",
-    "full_name": "brewsci/bio/racon",
+    "full_name": "mys721tx/bio/racon",
     "oldname": null,
     "aliases": [],
     "versioned_formulae": [],
@@ -10649,7 +11284,7 @@
       "head": "HEAD",
       "bottle": true
     },
-    "revision": 1,
+    "revision": 2,
     "version_scheme": 0,
     "bottle": {
       "stable": {
@@ -10658,13 +11293,13 @@
         "prefix": "/home/linuxbrew/.linuxbrew",
         "root_url": "https://linuxbrew.bintray.com/bottles-bio",
         "files": {
-          "sierra": {
-            "url": "https://linuxbrew.bintray.com/bottles-bio/racon-1.3.2_1.sierra.bottle.tar.gz",
-            "sha256": "fb34a1cd494826c7ce24a70e3f39859a1cc38eefee6b7d3d70f8d611b8a499dd"
+          "mojave": {
+            "url": "https://linuxbrew.bintray.com/bottles-bio/racon-1.3.2_2.mojave.bottle.tar.gz",
+            "sha256": "83c39b9ef5b8066098d093346a5c006bbf6fb6787cd7d59c2c5c835d791b3d53"
           },
           "x86_64_linux": {
-            "url": "https://linuxbrew.bintray.com/bottles-bio/racon-1.3.2_1.x86_64_linux.bottle.tar.gz",
-            "sha256": "017bfaa79c852ee19a3b728a8589498588723421d42f03c63011e8c9a90026e9"
+            "url": "https://linuxbrew.bintray.com/bottles-bio/racon-1.3.2_2.x86_64_linux.bottle.tar.gz",
+            "sha256": "eccd09e43785cf3271996399d4069d807156f847831b2ea76dec89fd2a84f46e"
           }
         }
       }
@@ -10680,6 +11315,7 @@
     ],
     "recommended_dependencies": [],
     "optional_dependencies": [],
+    "uses_from_macos": [],
     "requirements": [],
     "conflicts_with": [],
     "caveats": null,
@@ -10690,7 +11326,7 @@
   },
   {
     "name": "rails",
-    "full_name": "brewsci/bio/rails",
+    "full_name": "mys721tx/bio/rails",
     "oldname": null,
     "aliases": [],
     "versioned_formulae": [],
@@ -10733,6 +11369,7 @@
     ],
     "recommended_dependencies": [],
     "optional_dependencies": [],
+    "uses_from_macos": [],
     "requirements": [],
     "conflicts_with": [],
     "caveats": null,
@@ -10743,7 +11380,7 @@
   },
   {
     "name": "rapidnj",
-    "full_name": "brewsci/bio/rapidnj",
+    "full_name": "mys721tx/bio/rapidnj",
     "oldname": null,
     "aliases": [],
     "versioned_formulae": [],
@@ -10784,6 +11421,59 @@
     "dependencies": [],
     "recommended_dependencies": [],
     "optional_dependencies": [],
+    "uses_from_macos": [],
+    "requirements": [],
+    "conflicts_with": [],
+    "caveats": null,
+    "installed": [],
+    "linked_keg": null,
+    "pinned": false,
+    "outdated": false
+  },
+  {
+    "name": "rasusa",
+    "full_name": "mys721tx/bio/rasusa",
+    "oldname": null,
+    "aliases": [],
+    "versioned_formulae": [],
+    "desc": "Randomly subsample sequencing reads to a specified coverage",
+    "homepage": "https://github.com/mbhall88/rasusa",
+    "versions": {
+      "stable": "0.1.0",
+      "devel": null,
+      "head": null,
+      "bottle": true
+    },
+    "revision": 0,
+    "version_scheme": 0,
+    "bottle": {
+      "stable": {
+        "rebuild": 0,
+        "cellar": ":any_skip_relocation",
+        "prefix": "/home/linuxbrew/.linuxbrew",
+        "root_url": "https://linuxbrew.bintray.com/bottles-bio",
+        "files": {
+          "mojave": {
+            "url": "https://linuxbrew.bintray.com/bottles-bio/rasusa-0.1.0.mojave.bottle.tar.gz",
+            "sha256": "95748966050bee51706ef2488601699922e6cdda746ce30a8ac1994c0666e2bd"
+          },
+          "x86_64_linux": {
+            "url": "https://linuxbrew.bintray.com/bottles-bio/rasusa-0.1.0.x86_64_linux.bottle.tar.gz",
+            "sha256": "a8504c1f9fa3ee5f3e65add03688aa7c0be6cd1ee09abaaa132c11d4ac630dad"
+          }
+        }
+      }
+    },
+    "keg_only": false,
+    "bottle_disabled": false,
+    "options": [],
+    "build_dependencies": [
+      "rust"
+    ],
+    "dependencies": [],
+    "recommended_dependencies": [],
+    "optional_dependencies": [],
+    "uses_from_macos": [],
     "requirements": [],
     "conflicts_with": [],
     "caveats": null,
@@ -10794,7 +11484,7 @@
   },
   {
     "name": "raven-assembler",
-    "full_name": "brewsci/bio/raven-assembler",
+    "full_name": "mys721tx/bio/raven-assembler",
     "oldname": null,
     "aliases": [],
     "versioned_formulae": [],
@@ -10835,6 +11525,7 @@
     "dependencies": [],
     "recommended_dependencies": [],
     "optional_dependencies": [],
+    "uses_from_macos": [],
     "requirements": [],
     "conflicts_with": [],
     "caveats": null,
@@ -10845,7 +11536,7 @@
   },
   {
     "name": "raxml-ng",
-    "full_name": "brewsci/bio/raxml-ng",
+    "full_name": "mys721tx/bio/raxml-ng",
     "oldname": null,
     "aliases": [],
     "versioned_formulae": [],
@@ -10898,6 +11589,7 @@
       "open-mpi"
     ],
     "optional_dependencies": [],
+    "uses_from_macos": [],
     "requirements": [],
     "conflicts_with": [],
     "caveats": null,
@@ -10908,7 +11600,7 @@
   },
   {
     "name": "raxml",
-    "full_name": "brewsci/bio/raxml",
+    "full_name": "mys721tx/bio/raxml",
     "oldname": null,
     "aliases": [],
     "versioned_formulae": [],
@@ -10956,6 +11648,7 @@
       "open-mpi"
     ],
     "optional_dependencies": [],
+    "uses_from_macos": [],
     "requirements": [],
     "conflicts_with": [],
     "caveats": null,
@@ -10966,7 +11659,7 @@
   },
   {
     "name": "rcorrector",
-    "full_name": "brewsci/bio/rcorrector",
+    "full_name": "mys721tx/bio/rcorrector",
     "oldname": null,
     "aliases": [],
     "versioned_formulae": [],
@@ -11008,6 +11701,7 @@
     ],
     "recommended_dependencies": [],
     "optional_dependencies": [],
+    "uses_from_macos": [],
     "requirements": [],
     "conflicts_with": [],
     "caveats": null,
@@ -11018,7 +11712,7 @@
   },
   {
     "name": "realphy",
-    "full_name": "brewsci/bio/realphy",
+    "full_name": "mys721tx/bio/realphy",
     "oldname": null,
     "aliases": [],
     "versioned_formulae": [],
@@ -11061,6 +11755,7 @@
     ],
     "recommended_dependencies": [],
     "optional_dependencies": [],
+    "uses_from_macos": [],
     "requirements": [],
     "conflicts_with": [],
     "caveats": null,
@@ -11071,7 +11766,7 @@
   },
   {
     "name": "repaq",
-    "full_name": "brewsci/bio/repaq",
+    "full_name": "mys721tx/bio/repaq",
     "oldname": null,
     "aliases": [],
     "versioned_formulae": [],
@@ -11112,6 +11807,7 @@
     ],
     "recommended_dependencies": [],
     "optional_dependencies": [],
+    "uses_from_macos": [],
     "requirements": [],
     "conflicts_with": [],
     "caveats": null,
@@ -11122,7 +11818,7 @@
   },
   {
     "name": "repeatmasker",
-    "full_name": "brewsci/bio/repeatmasker",
+    "full_name": "mys721tx/bio/repeatmasker",
     "oldname": null,
     "aliases": [],
     "versioned_formulae": [],
@@ -11169,6 +11865,7 @@
     ],
     "recommended_dependencies": [],
     "optional_dependencies": [],
+    "uses_from_macos": [],
     "requirements": [],
     "conflicts_with": [],
     "caveats": "Congratulations!  RepeatMasker is now ready to use.\nThe program is installed with a minimal repeat library\nby default.  This library only contains simple, low-complexity,\nand common artefact ( contaminate ) sequences.  These are\nadequate for use with your own custom repeat library.  If you\nplan to search using common species specific repeats you will\nneed to obtain the complete RepeatMasker repeat library from\nGIRI and install it:\n  Browse to https://www.girinst.org/server/RepBase/\n  Download RepBaseRepeatMaskerEdition-*.tar.gz\n  cd $(brew --prefix)/Cellar/repeatmasker/4.0.7_4/libexec\n  tar zxvf repeatmaskerlibraries-*.tar.gz\n  ./configure <configure.input\n\nThe default aligner is RMBlast. You may reconfigure RepeatMasker\nby running\n  cd $(brew --prefix)/Cellar/repeatmasker/4.0.7_4/libexec && ./configure\n",
@@ -11179,7 +11876,7 @@
   },
   {
     "name": "rmblast",
-    "full_name": "brewsci/bio/rmblast",
+    "full_name": "mys721tx/bio/rmblast",
     "oldname": null,
     "aliases": [],
     "versioned_formulae": [],
@@ -11223,6 +11920,7 @@
     ],
     "recommended_dependencies": [],
     "optional_dependencies": [],
+    "uses_from_macos": [],
     "requirements": [],
     "conflicts_with": [],
     "caveats": null,
@@ -11233,7 +11931,7 @@
   },
   {
     "name": "rtg-tools",
-    "full_name": "brewsci/bio/rtg-tools",
+    "full_name": "mys721tx/bio/rtg-tools",
     "oldname": null,
     "aliases": [],
     "versioned_formulae": [],
@@ -11276,6 +11974,7 @@
     ],
     "recommended_dependencies": [],
     "optional_dependencies": [],
+    "uses_from_macos": [],
     "requirements": [],
     "conflicts_with": [],
     "caveats": null,
@@ -11286,7 +11985,7 @@
   },
   {
     "name": "salmid",
-    "full_name": "brewsci/bio/salmid",
+    "full_name": "mys721tx/bio/salmid",
     "oldname": null,
     "aliases": [],
     "versioned_formulae": [],
@@ -11327,6 +12026,7 @@
     ],
     "recommended_dependencies": [],
     "optional_dependencies": [],
+    "uses_from_macos": [],
     "requirements": [],
     "conflicts_with": [],
     "caveats": null,
@@ -11337,7 +12037,7 @@
   },
   {
     "name": "salmon",
-    "full_name": "brewsci/bio/salmon",
+    "full_name": "mys721tx/bio/salmon",
     "oldname": null,
     "aliases": [],
     "versioned_formulae": [],
@@ -11386,6 +12086,7 @@
     ],
     "recommended_dependencies": [],
     "optional_dependencies": [],
+    "uses_from_macos": [],
     "requirements": [],
     "conflicts_with": [],
     "caveats": null,
@@ -11396,7 +12097,7 @@
   },
   {
     "name": "sambamba",
-    "full_name": "brewsci/bio/sambamba",
+    "full_name": "mys721tx/bio/sambamba",
     "oldname": null,
     "aliases": [],
     "versioned_formulae": [],
@@ -11438,6 +12139,7 @@
     "dependencies": [],
     "recommended_dependencies": [],
     "optional_dependencies": [],
+    "uses_from_macos": [],
     "requirements": [],
     "conflicts_with": [],
     "caveats": null,
@@ -11448,7 +12150,7 @@
   },
   {
     "name": "samblaster",
-    "full_name": "brewsci/bio/samblaster",
+    "full_name": "mys721tx/bio/samblaster",
     "oldname": null,
     "aliases": [],
     "versioned_formulae": [],
@@ -11487,6 +12189,7 @@
     "dependencies": [],
     "recommended_dependencies": [],
     "optional_dependencies": [],
+    "uses_from_macos": [],
     "requirements": [],
     "conflicts_with": [],
     "caveats": null,
@@ -11497,7 +12200,7 @@
   },
   {
     "name": "samclip",
-    "full_name": "brewsci/bio/samclip",
+    "full_name": "mys721tx/bio/samclip",
     "oldname": null,
     "aliases": [],
     "versioned_formulae": [],
@@ -11536,6 +12239,7 @@
     "dependencies": [],
     "recommended_dependencies": [],
     "optional_dependencies": [],
+    "uses_from_macos": [],
     "requirements": [],
     "conflicts_with": [],
     "caveats": null,
@@ -11546,7 +12250,7 @@
   },
   {
     "name": "sdsl-lite",
-    "full_name": "brewsci/bio/sdsl-lite",
+    "full_name": "mys721tx/bio/sdsl-lite",
     "oldname": null,
     "aliases": [],
     "versioned_formulae": [],
@@ -11587,6 +12291,60 @@
     "dependencies": [],
     "recommended_dependencies": [],
     "optional_dependencies": [],
+    "uses_from_macos": [],
+    "requirements": [],
+    "conflicts_with": [],
+    "caveats": null,
+    "installed": [],
+    "linked_keg": null,
+    "pinned": false,
+    "outdated": false
+  },
+  {
+    "name": "sepp",
+    "full_name": "mys721tx/bio/sepp",
+    "oldname": null,
+    "aliases": [],
+    "versioned_formulae": [],
+    "desc": "Ensemble of HMM methods (SEPP, TIPP, UPP)",
+    "homepage": "https://github.com/smirarab/sepp",
+    "versions": {
+      "stable": "4.3.10",
+      "devel": null,
+      "head": null,
+      "bottle": true
+    },
+    "revision": 0,
+    "version_scheme": 0,
+    "bottle": {
+      "stable": {
+        "rebuild": 0,
+        "cellar": ":any_skip_relocation",
+        "prefix": "/home/linuxbrew/.linuxbrew",
+        "root_url": "https://linuxbrew.bintray.com/bottles-bio",
+        "files": {
+          "mojave": {
+            "url": "https://linuxbrew.bintray.com/bottles-bio/sepp-4.3.10.mojave.bottle.tar.gz",
+            "sha256": "45b005e6beaadc6a631d11f4f32301b55beda6c2a41222a59e96cdb271ee5814"
+          },
+          "x86_64_linux": {
+            "url": "https://linuxbrew.bintray.com/bottles-bio/sepp-4.3.10.x86_64_linux.bottle.tar.gz",
+            "sha256": "b81115b45f3c8075931cbf0fefef35a9357f1ff8878353c6a2f45ad8bb7234db"
+          }
+        }
+      }
+    },
+    "keg_only": false,
+    "bottle_disabled": false,
+    "options": [],
+    "build_dependencies": [],
+    "dependencies": [
+      "adoptopenjdk",
+      "python"
+    ],
+    "recommended_dependencies": [],
+    "optional_dependencies": [],
+    "uses_from_macos": [],
     "requirements": [],
     "conflicts_with": [],
     "caveats": null,
@@ -11597,7 +12355,7 @@
   },
   {
     "name": "seq-gen",
-    "full_name": "brewsci/bio/seq-gen",
+    "full_name": "mys721tx/bio/seq-gen",
     "oldname": null,
     "aliases": [],
     "versioned_formulae": [],
@@ -11636,6 +12394,7 @@
     "dependencies": [],
     "recommended_dependencies": [],
     "optional_dependencies": [],
+    "uses_from_macos": [],
     "requirements": [],
     "conflicts_with": [],
     "caveats": null,
@@ -11646,7 +12405,7 @@
   },
   {
     "name": "seqan",
-    "full_name": "brewsci/bio/seqan",
+    "full_name": "mys721tx/bio/seqan",
     "oldname": null,
     "aliases": [],
     "versioned_formulae": [],
@@ -11687,6 +12446,7 @@
     "dependencies": [],
     "recommended_dependencies": [],
     "optional_dependencies": [],
+    "uses_from_macos": [],
     "requirements": [],
     "conflicts_with": [],
     "caveats": null,
@@ -11697,7 +12457,7 @@
   },
   {
     "name": "seqkit",
-    "full_name": "brewsci/bio/seqkit",
+    "full_name": "mys721tx/bio/seqkit",
     "oldname": null,
     "aliases": [],
     "versioned_formulae": [],
@@ -11736,6 +12496,7 @@
     "dependencies": [],
     "recommended_dependencies": [],
     "optional_dependencies": [],
+    "uses_from_macos": [],
     "requirements": [],
     "conflicts_with": [],
     "caveats": null,
@@ -11746,7 +12507,7 @@
   },
   {
     "name": "sga",
-    "full_name": "brewsci/bio/sga",
+    "full_name": "mys721tx/bio/sga",
     "oldname": null,
     "aliases": [],
     "versioned_formulae": [],
@@ -11792,6 +12553,7 @@
     ],
     "recommended_dependencies": [],
     "optional_dependencies": [],
+    "uses_from_macos": [],
     "requirements": [],
     "conflicts_with": [],
     "caveats": null,
@@ -11802,7 +12564,7 @@
   },
   {
     "name": "shovill",
-    "full_name": "brewsci/bio/shovill",
+    "full_name": "mys721tx/bio/shovill",
     "oldname": null,
     "aliases": [],
     "versioned_formulae": [],
@@ -11839,6 +12601,62 @@
     ],
     "recommended_dependencies": [],
     "optional_dependencies": [],
+    "uses_from_macos": [],
+    "requirements": [],
+    "conflicts_with": [],
+    "caveats": null,
+    "installed": [],
+    "linked_keg": null,
+    "pinned": false,
+    "outdated": false
+  },
+  {
+    "name": "sibelia",
+    "full_name": "mys721tx/bio/sibelia",
+    "oldname": null,
+    "aliases": [],
+    "versioned_formulae": [],
+    "desc": "Synteny Block ExpLoration tool",
+    "homepage": "http://bioinf.spbau.ru/sibelia",
+    "versions": {
+      "stable": "3.0.7",
+      "devel": null,
+      "head": null,
+      "bottle": true
+    },
+    "revision": 0,
+    "version_scheme": 0,
+    "bottle": {
+      "stable": {
+        "rebuild": 0,
+        "cellar": ":any_skip_relocation",
+        "prefix": "/home/linuxbrew/.linuxbrew",
+        "root_url": "https://linuxbrew.bintray.com/bottles-bio",
+        "files": {
+          "sierra": {
+            "url": "https://linuxbrew.bintray.com/bottles-bio/sibelia-3.0.7.sierra.bottle.tar.gz",
+            "sha256": "2edffd9444a1730c681f44725e6c31c3659e5f0bc6155b4e4b4899fe5351341b"
+          },
+          "x86_64_linux": {
+            "url": "https://linuxbrew.bintray.com/bottles-bio/sibelia-3.0.7.x86_64_linux.bottle.tar.gz",
+            "sha256": "276b51347bcfe63f42c1cf24f21c765dd862549806ee6cca97a49024eb86b44b"
+          }
+        }
+      }
+    },
+    "keg_only": false,
+    "bottle_disabled": false,
+    "options": [],
+    "build_dependencies": [
+      "cmake"
+    ],
+    "dependencies": [
+      "python",
+      "snpeff"
+    ],
+    "recommended_dependencies": [],
+    "optional_dependencies": [],
+    "uses_from_macos": [],
     "requirements": [],
     "conflicts_with": [],
     "caveats": null,
@@ -11849,7 +12667,7 @@
   },
   {
     "name": "simulate-pcr",
-    "full_name": "brewsci/bio/simulate-pcr",
+    "full_name": "mys721tx/bio/simulate-pcr",
     "oldname": null,
     "aliases": [],
     "versioned_formulae": [],
@@ -11894,6 +12712,7 @@
     ],
     "recommended_dependencies": [],
     "optional_dependencies": [],
+    "uses_from_macos": [],
     "requirements": [],
     "conflicts_with": [],
     "caveats": null,
@@ -11904,7 +12723,7 @@
   },
   {
     "name": "ska",
-    "full_name": "brewsci/bio/ska",
+    "full_name": "mys721tx/bio/ska",
     "oldname": null,
     "aliases": [],
     "versioned_formulae": [],
@@ -11945,6 +12764,7 @@
     ],
     "recommended_dependencies": [],
     "optional_dependencies": [],
+    "uses_from_macos": [],
     "requirements": [],
     "conflicts_with": [],
     "caveats": null,
@@ -11955,7 +12775,7 @@
   },
   {
     "name": "skesa",
-    "full_name": "brewsci/bio/skesa",
+    "full_name": "mys721tx/bio/skesa",
     "oldname": null,
     "aliases": [],
     "versioned_formulae": [],
@@ -11967,22 +12787,22 @@
       "head": null,
       "bottle": true
     },
-    "revision": 0,
+    "revision": 2,
     "version_scheme": 0,
     "bottle": {
       "stable": {
         "rebuild": 0,
-        "cellar": "/home/linuxbrew/.linuxbrew/Cellar",
+        "cellar": ":any",
         "prefix": "/home/linuxbrew/.linuxbrew",
         "root_url": "https://linuxbrew.bintray.com/bottles-bio",
         "files": {
-          "sierra": {
-            "url": "https://linuxbrew.bintray.com/bottles-bio/skesa-2.3.0.sierra.bottle.tar.gz",
-            "sha256": "8efd0cbd2c73b5bc891a9a22c8e8cb1a338febe8c2bc448f3d4320998abb895e"
+          "mojave": {
+            "url": "https://linuxbrew.bintray.com/bottles-bio/skesa-2.3.0_2.mojave.bottle.tar.gz",
+            "sha256": "a2bd9acebd6330fd0440ad68e505932f3c032c0c746054712bdcafdc6ea437d5"
           },
           "x86_64_linux": {
-            "url": "https://linuxbrew.bintray.com/bottles-bio/skesa-2.3.0.x86_64_linux.bottle.tar.gz",
-            "sha256": "1f1b6ce810c86616be30dc6267d65416fcfc1d1487083f9e6063242e068ea077"
+            "url": "https://linuxbrew.bintray.com/bottles-bio/skesa-2.3.0_2.x86_64_linux.bottle.tar.gz",
+            "sha256": "90e08e2a0fbf08060b2ffbbd3e3951840af8fd03e1fea9113758fe67677dc4d1"
           }
         }
       }
@@ -11997,6 +12817,7 @@
     ],
     "recommended_dependencies": [],
     "optional_dependencies": [],
+    "uses_from_macos": [],
     "requirements": [],
     "conflicts_with": [],
     "caveats": null,
@@ -12007,7 +12828,7 @@
   },
   {
     "name": "smalt",
-    "full_name": "brewsci/bio/smalt",
+    "full_name": "mys721tx/bio/smalt",
     "oldname": null,
     "aliases": [],
     "versioned_formulae": [],
@@ -12046,6 +12867,7 @@
     "dependencies": [],
     "recommended_dependencies": [],
     "optional_dependencies": [],
+    "uses_from_macos": [],
     "requirements": [],
     "conflicts_with": [],
     "caveats": null,
@@ -12056,7 +12878,7 @@
   },
   {
     "name": "snap",
-    "full_name": "brewsci/bio/snap",
+    "full_name": "mys721tx/bio/snap",
     "oldname": null,
     "aliases": [],
     "versioned_formulae": [],
@@ -12095,6 +12917,7 @@
     "dependencies": [],
     "recommended_dependencies": [],
     "optional_dependencies": [],
+    "uses_from_macos": [],
     "requirements": [],
     "conflicts_with": [],
     "caveats": null,
@@ -12105,14 +12928,14 @@
   },
   {
     "name": "snippy",
-    "full_name": "brewsci/bio/snippy",
+    "full_name": "mys721tx/bio/snippy",
     "oldname": null,
     "aliases": [],
     "versioned_formulae": [],
     "desc": "Rapid bacterial SNP calling and core genome alignments",
     "homepage": "https://github.com/tseemann/snippy",
     "versions": {
-      "stable": "4.4.0",
+      "stable": "4.4.5",
       "devel": null,
       "head": null,
       "bottle": true
@@ -12126,13 +12949,13 @@
         "prefix": "/home/linuxbrew/.linuxbrew",
         "root_url": "https://linuxbrew.bintray.com/bottles-bio",
         "files": {
-          "sierra": {
-            "url": "https://linuxbrew.bintray.com/bottles-bio/snippy-4.4.0.sierra.bottle.tar.gz",
-            "sha256": "a1cc30fa82d9902328884f859cca34d404accb30c7576a349803bb509783d9e6"
+          "mojave": {
+            "url": "https://linuxbrew.bintray.com/bottles-bio/snippy-4.4.5.mojave.bottle.tar.gz",
+            "sha256": "faa56de1c5b8a1e501679632f19eac6dacc7a01c405994da0ed50a416f6bcc73"
           },
           "x86_64_linux": {
-            "url": "https://linuxbrew.bintray.com/bottles-bio/snippy-4.4.0.x86_64_linux.bottle.tar.gz",
-            "sha256": "5bf4e438b29b12454c7369fb523348a7be5bfe74f998b21821d21fa0c917fe9d"
+            "url": "https://linuxbrew.bintray.com/bottles-bio/snippy-4.4.5.x86_64_linux.bottle.tar.gz",
+            "sha256": "45380c92916dbe78a2a7b1792830776e04802cfdc079dd83fe6a86e453481043"
           }
         }
       }
@@ -12162,6 +12985,7 @@
     ],
     "recommended_dependencies": [],
     "optional_dependencies": [],
+    "uses_from_macos": [],
     "requirements": [],
     "conflicts_with": [],
     "caveats": null,
@@ -12172,7 +12996,7 @@
   },
   {
     "name": "snoscan",
-    "full_name": "brewsci/bio/snoscan",
+    "full_name": "mys721tx/bio/snoscan",
     "oldname": null,
     "aliases": [],
     "versioned_formulae": [],
@@ -12211,6 +13035,7 @@
     "dependencies": [],
     "recommended_dependencies": [],
     "optional_dependencies": [],
+    "uses_from_macos": [],
     "requirements": [],
     "conflicts_with": [],
     "caveats": null,
@@ -12221,7 +13046,7 @@
   },
   {
     "name": "snp-dists",
-    "full_name": "brewsci/bio/snp-dists",
+    "full_name": "mys721tx/bio/snp-dists",
     "oldname": null,
     "aliases": [],
     "versioned_formulae": [],
@@ -12262,6 +13087,7 @@
     ],
     "recommended_dependencies": [],
     "optional_dependencies": [],
+    "uses_from_macos": [],
     "requirements": [],
     "conflicts_with": [],
     "caveats": null,
@@ -12272,14 +13098,14 @@
   },
   {
     "name": "snp-sites",
-    "full_name": "brewsci/bio/snp-sites",
+    "full_name": "mys721tx/bio/snp-sites",
     "oldname": null,
     "aliases": [],
     "versioned_formulae": [],
     "desc": "Find SNP sites in a multi FASTA alignment file",
     "homepage": "https://github.com/sanger-pathogens/snp-sites",
     "versions": {
-      "stable": "2.4.0",
+      "stable": "2.5.1",
       "devel": null,
       "head": "HEAD",
       "bottle": true
@@ -12288,18 +13114,18 @@
     "version_scheme": 0,
     "bottle": {
       "stable": {
-        "rebuild": 0,
+        "rebuild": 1,
         "cellar": ":any",
         "prefix": "/home/linuxbrew/.linuxbrew",
         "root_url": "https://linuxbrew.bintray.com/bottles-bio",
         "files": {
-          "sierra": {
-            "url": "https://linuxbrew.bintray.com/bottles-bio/snp-sites-2.4.0.sierra.bottle.tar.gz",
-            "sha256": "963f1b2cce96f685098ff185edb6607c45c5e65119084d254b1261071f914579"
+          "mojave": {
+            "url": "https://linuxbrew.bintray.com/bottles-bio/snp-sites-2.5.1.mojave.bottle.1.tar.gz",
+            "sha256": "a9e5aa1f834835b9eeb9645a6cc4e6b730287754182c54abc55542fe39ef398a"
           },
           "x86_64_linux": {
-            "url": "https://linuxbrew.bintray.com/bottles-bio/snp-sites-2.4.0.x86_64_linux.bottle.tar.gz",
-            "sha256": "0721484daa84e9bbd74d54f20ad17d1918ad78849f98999f6c48c1ce88a745fa"
+            "url": "https://linuxbrew.bintray.com/bottles-bio/snp-sites-2.5.1.x86_64_linux.bottle.1.tar.gz",
+            "sha256": "7395080925bfacc38ca0e7a3f16dc5f824d18b2505a96ce12016c50a36147915"
           }
         }
       }
@@ -12319,6 +13145,7 @@
     ],
     "recommended_dependencies": [],
     "optional_dependencies": [],
+    "uses_from_macos": [],
     "requirements": [],
     "conflicts_with": [],
     "caveats": null,
@@ -12329,7 +13156,7 @@
   },
   {
     "name": "snpeff",
-    "full_name": "brewsci/bio/snpeff",
+    "full_name": "mys721tx/bio/snpeff",
     "oldname": null,
     "aliases": [],
     "versioned_formulae": [],
@@ -12372,6 +13199,7 @@
     ],
     "recommended_dependencies": [],
     "optional_dependencies": [],
+    "uses_from_macos": [],
     "requirements": [],
     "conflicts_with": [],
     "caveats": "Download the human database using the command\n  snpEff download -v GRCh38.82\nThe databases will be installed in $(brew --prefix)/Cellar/snpeff/4.3t/share/snpeff/data\n",
@@ -12382,7 +13210,7 @@
   },
   {
     "name": "solexaqa",
-    "full_name": "brewsci/bio/solexaqa",
+    "full_name": "mys721tx/bio/solexaqa",
     "oldname": null,
     "aliases": [],
     "versioned_formulae": [],
@@ -12424,6 +13252,7 @@
     "dependencies": [],
     "recommended_dependencies": [],
     "optional_dependencies": [],
+    "uses_from_macos": [],
     "requirements": [],
     "conflicts_with": [],
     "caveats": null,
@@ -12434,7 +13263,7 @@
   },
   {
     "name": "sortmerna",
-    "full_name": "brewsci/bio/sortmerna",
+    "full_name": "mys721tx/bio/sortmerna",
     "oldname": null,
     "aliases": [],
     "versioned_formulae": [],
@@ -12475,6 +13304,7 @@
     ],
     "recommended_dependencies": [],
     "optional_dependencies": [],
+    "uses_from_macos": [],
     "requirements": [],
     "conflicts_with": [],
     "caveats": null,
@@ -12485,7 +13315,7 @@
   },
   {
     "name": "squeakr",
-    "full_name": "brewsci/bio/squeakr",
+    "full_name": "mys721tx/bio/squeakr",
     "oldname": null,
     "aliases": [],
     "versioned_formulae": [],
@@ -12525,6 +13355,7 @@
     ],
     "recommended_dependencies": [],
     "optional_dependencies": [],
+    "uses_from_macos": [],
     "requirements": [
       {
         "name": "linux",
@@ -12541,7 +13372,7 @@
   },
   {
     "name": "stacks",
-    "full_name": "brewsci/bio/stacks",
+    "full_name": "mys721tx/bio/stacks",
     "oldname": null,
     "aliases": [],
     "versioned_formulae": [],
@@ -12582,6 +13413,7 @@
     ],
     "recommended_dependencies": [],
     "optional_dependencies": [],
+    "uses_from_macos": [],
     "requirements": [],
     "conflicts_with": [],
     "caveats": null,
@@ -12592,7 +13424,7 @@
   },
   {
     "name": "staden-io-lib",
-    "full_name": "brewsci/bio/staden-io-lib",
+    "full_name": "mys721tx/bio/staden-io-lib",
     "oldname": null,
     "aliases": [],
     "versioned_formulae": [],
@@ -12636,6 +13468,7 @@
     ],
     "recommended_dependencies": [],
     "optional_dependencies": [],
+    "uses_from_macos": [],
     "requirements": [],
     "conflicts_with": [],
     "caveats": null,
@@ -12646,14 +13479,14 @@
   },
   {
     "name": "star-aligner",
-    "full_name": "brewsci/bio/star-aligner",
+    "full_name": "mys721tx/bio/star-aligner",
     "oldname": null,
     "aliases": [],
     "versioned_formulae": [],
     "desc": "RNA-seq aligner",
     "homepage": "https://github.com/alexdobin/STAR",
     "versions": {
-      "stable": "2.7.2b",
+      "stable": "2.7.3a",
       "devel": null,
       "head": "HEAD",
       "bottle": true
@@ -12667,13 +13500,13 @@
         "prefix": "/home/linuxbrew/.linuxbrew",
         "root_url": "https://linuxbrew.bintray.com/bottles-bio",
         "files": {
-          "sierra": {
-            "url": "https://linuxbrew.bintray.com/bottles-bio/star-aligner-2.7.2b.sierra.bottle.tar.gz",
-            "sha256": "5b566d7848575a257cd3ec2e8b103a5f203293c4526ff6ebfb2f834672eb98a8"
+          "mojave": {
+            "url": "https://linuxbrew.bintray.com/bottles-bio/star-aligner-2.7.3a.mojave.bottle.tar.gz",
+            "sha256": "6f38f571a24b2fa0baec2674da051d51dd74c84823c9ef1e3537a15565d21559"
           },
           "x86_64_linux": {
-            "url": "https://linuxbrew.bintray.com/bottles-bio/star-aligner-2.7.2b.x86_64_linux.bottle.tar.gz",
-            "sha256": "63663438843f13a2cc068c727043555b2473a37e168a288117e723699d6d6a8d"
+            "url": "https://linuxbrew.bintray.com/bottles-bio/star-aligner-2.7.3a.x86_64_linux.bottle.tar.gz",
+            "sha256": "17ebb8d1e4f79aad4158bb61573c6522c2a2407fccd2bae43d1d8044cd651981"
           }
         }
       }
@@ -12687,6 +13520,7 @@
     ],
     "recommended_dependencies": [],
     "optional_dependencies": [],
+    "uses_from_macos": [],
     "requirements": [],
     "conflicts_with": [],
     "caveats": null,
@@ -12697,7 +13531,7 @@
   },
   {
     "name": "stringtie",
-    "full_name": "brewsci/bio/stringtie",
+    "full_name": "mys721tx/bio/stringtie",
     "oldname": null,
     "aliases": [],
     "versioned_formulae": [],
@@ -12738,6 +13572,7 @@
     ],
     "recommended_dependencies": [],
     "optional_dependencies": [],
+    "uses_from_macos": [],
     "requirements": [],
     "conflicts_with": [],
     "caveats": null,
@@ -12748,14 +13583,14 @@
   },
   {
     "name": "subread",
-    "full_name": "brewsci/bio/subread",
+    "full_name": "mys721tx/bio/subread",
     "oldname": null,
     "aliases": [],
     "versioned_formulae": [],
     "desc": "High-performance read alignment, quantification and mutation discovery",
     "homepage": "https://academic.oup.com/nar/article/41/10/e108/1075719",
     "versions": {
-      "stable": "1.6.4",
+      "stable": "2.0.0",
       "devel": null,
       "head": null,
       "bottle": true
@@ -12769,13 +13604,13 @@
         "prefix": "/home/linuxbrew/.linuxbrew",
         "root_url": "https://linuxbrew.bintray.com/bottles-bio",
         "files": {
-          "sierra": {
-            "url": "https://linuxbrew.bintray.com/bottles-bio/subread-1.6.4.sierra.bottle.tar.gz",
-            "sha256": "83e6016cc219298b602e1648f269ced8c1c09493f3cbbb2affec7f5f50abedd2"
+          "mojave": {
+            "url": "https://linuxbrew.bintray.com/bottles-bio/subread-2.0.0.mojave.bottle.tar.gz",
+            "sha256": "632afd9717234c43b98b916515f1619cc7aa5e08a92ef4c9b7c46f7411d0399a"
           },
           "x86_64_linux": {
-            "url": "https://linuxbrew.bintray.com/bottles-bio/subread-1.6.4.x86_64_linux.bottle.tar.gz",
-            "sha256": "6afd221103869e166d2d2a8ecd9495173173903d11576ad92bf2da61b374109a"
+            "url": "https://linuxbrew.bintray.com/bottles-bio/subread-2.0.0.x86_64_linux.bottle.tar.gz",
+            "sha256": "7b9dc00896b75d340e779082e8850ecdd0655babf4d8d3c370a4246d9f0fafc8"
           }
         }
       }
@@ -12789,6 +13624,7 @@
     ],
     "recommended_dependencies": [],
     "optional_dependencies": [],
+    "uses_from_macos": [],
     "requirements": [],
     "conflicts_with": [],
     "caveats": null,
@@ -12799,7 +13635,7 @@
   },
   {
     "name": "sumaclust",
-    "full_name": "brewsci/bio/sumaclust",
+    "full_name": "mys721tx/bio/sumaclust",
     "oldname": null,
     "aliases": [],
     "versioned_formulae": [],
@@ -12838,6 +13674,7 @@
     "dependencies": [],
     "recommended_dependencies": [],
     "optional_dependencies": [],
+    "uses_from_macos": [],
     "requirements": [],
     "conflicts_with": [],
     "caveats": null,
@@ -12848,7 +13685,7 @@
   },
   {
     "name": "swipe",
-    "full_name": "brewsci/bio/swipe",
+    "full_name": "mys721tx/bio/swipe",
     "oldname": null,
     "aliases": [],
     "versioned_formulae": [],
@@ -12887,6 +13724,7 @@
     "dependencies": [],
     "recommended_dependencies": [],
     "optional_dependencies": [],
+    "uses_from_macos": [],
     "requirements": [],
     "conflicts_with": [],
     "caveats": null,
@@ -12897,7 +13735,7 @@
   },
   {
     "name": "taxonkit",
-    "full_name": "brewsci/bio/taxonkit",
+    "full_name": "mys721tx/bio/taxonkit",
     "oldname": null,
     "aliases": [],
     "versioned_formulae": [],
@@ -12936,6 +13774,7 @@
     "dependencies": [],
     "recommended_dependencies": [],
     "optional_dependencies": [],
+    "uses_from_macos": [],
     "requirements": [],
     "conflicts_with": [],
     "caveats": null,
@@ -12946,7 +13785,7 @@
   },
   {
     "name": "tbl2asn",
-    "full_name": "brewsci/bio/tbl2asn",
+    "full_name": "mys721tx/bio/tbl2asn",
     "oldname": null,
     "aliases": [],
     "versioned_formulae": [],
@@ -12990,6 +13829,7 @@
     ],
     "recommended_dependencies": [],
     "optional_dependencies": [],
+    "uses_from_macos": [],
     "requirements": [],
     "conflicts_with": [],
     "caveats": null,
@@ -13000,7 +13840,7 @@
   },
   {
     "name": "tigmint",
-    "full_name": "brewsci/bio/tigmint",
+    "full_name": "mys721tx/bio/tigmint",
     "oldname": null,
     "aliases": [],
     "versioned_formulae": [],
@@ -13042,6 +13882,7 @@
     ],
     "recommended_dependencies": [],
     "optional_dependencies": [],
+    "uses_from_macos": [],
     "requirements": [],
     "conflicts_with": [],
     "caveats": null,
@@ -13052,7 +13893,7 @@
   },
   {
     "name": "transabyss",
-    "full_name": "brewsci/bio/transabyss",
+    "full_name": "mys721tx/bio/transabyss",
     "oldname": null,
     "aliases": [],
     "versioned_formulae": [],
@@ -13092,6 +13933,7 @@
     ],
     "recommended_dependencies": [],
     "optional_dependencies": [],
+    "uses_from_macos": [],
     "requirements": [
       {
         "name": "linux",
@@ -13108,7 +13950,7 @@
   },
   {
     "name": "transdecoder",
-    "full_name": "brewsci/bio/transdecoder",
+    "full_name": "mys721tx/bio/transdecoder",
     "oldname": null,
     "aliases": [],
     "versioned_formulae": [],
@@ -13151,6 +13993,7 @@
     ],
     "recommended_dependencies": [],
     "optional_dependencies": [],
+    "uses_from_macos": [],
     "requirements": [],
     "conflicts_with": [],
     "caveats": null,
@@ -13161,7 +14004,7 @@
   },
   {
     "name": "treepl",
-    "full_name": "brewsci/bio/treepl",
+    "full_name": "mys721tx/bio/treepl",
     "oldname": null,
     "aliases": [],
     "versioned_formulae": [],
@@ -13206,6 +14049,7 @@
     ],
     "recommended_dependencies": [],
     "optional_dependencies": [],
+    "uses_from_macos": [],
     "requirements": [],
     "conflicts_with": [],
     "caveats": null,
@@ -13216,7 +14060,7 @@
   },
   {
     "name": "trf",
-    "full_name": "brewsci/bio/trf",
+    "full_name": "mys721tx/bio/trf",
     "oldname": null,
     "aliases": [],
     "versioned_formulae": [],
@@ -13240,6 +14084,7 @@
     "dependencies": [],
     "recommended_dependencies": [],
     "optional_dependencies": [],
+    "uses_from_macos": [],
     "requirements": [],
     "conflicts_with": [],
     "caveats": null,
@@ -13250,7 +14095,7 @@
   },
   {
     "name": "trimadap",
-    "full_name": "brewsci/bio/trimadap",
+    "full_name": "mys721tx/bio/trimadap",
     "oldname": null,
     "aliases": [],
     "versioned_formulae": [],
@@ -13291,6 +14136,7 @@
     ],
     "recommended_dependencies": [],
     "optional_dependencies": [],
+    "uses_from_macos": [],
     "requirements": [],
     "conflicts_with": [],
     "caveats": null,
@@ -13301,7 +14147,7 @@
   },
   {
     "name": "trimal",
-    "full_name": "brewsci/bio/trimal",
+    "full_name": "mys721tx/bio/trimal",
     "oldname": null,
     "aliases": [],
     "versioned_formulae": [],
@@ -13340,6 +14186,7 @@
     "dependencies": [],
     "recommended_dependencies": [],
     "optional_dependencies": [],
+    "uses_from_macos": [],
     "requirements": [],
     "conflicts_with": [],
     "caveats": null,
@@ -13350,7 +14197,7 @@
   },
   {
     "name": "trimmomatic",
-    "full_name": "brewsci/bio/trimmomatic",
+    "full_name": "mys721tx/bio/trimmomatic",
     "oldname": null,
     "aliases": [],
     "versioned_formulae": [],
@@ -13393,6 +14240,7 @@
     ],
     "recommended_dependencies": [],
     "optional_dependencies": [],
+    "uses_from_macos": [],
     "requirements": [],
     "conflicts_with": [],
     "caveats": "FASTA file of adapter sequences are located here:\n$(brew --prefix)/Cellar/trimmomatic/0.39/share/trimmomatic/adapters\n",
@@ -13403,7 +14251,7 @@
   },
   {
     "name": "trinity",
-    "full_name": "brewsci/bio/trinity",
+    "full_name": "mys721tx/bio/trinity",
     "oldname": null,
     "aliases": [],
     "versioned_formulae": [],
@@ -13453,6 +14301,7 @@
     ],
     "recommended_dependencies": [],
     "optional_dependencies": [],
+    "uses_from_macos": [],
     "requirements": [],
     "conflicts_with": [],
     "caveats": null,
@@ -13463,14 +14312,14 @@
   },
   {
     "name": "trnascan",
-    "full_name": "brewsci/bio/trnascan",
+    "full_name": "mys721tx/bio/trnascan",
     "oldname": null,
     "aliases": [],
     "versioned_formulae": [],
     "desc": "Search for tRNA genes in genomic sequence",
     "homepage": "http://lowelab.ucsc.edu/tRNAscan-SE/",
     "versions": {
-      "stable": "2.0.3",
+      "stable": "2.0.4",
       "devel": null,
       "head": null,
       "bottle": true
@@ -13484,13 +14333,13 @@
         "prefix": "/home/linuxbrew/.linuxbrew",
         "root_url": "https://linuxbrew.bintray.com/bottles-bio",
         "files": {
-          "sierra": {
-            "url": "https://linuxbrew.bintray.com/bottles-bio/trnascan-2.0.3.sierra.bottle.tar.gz",
-            "sha256": "c748dc081ef572569e4ab23375847bac0f71489fc0f53e96b507574cd9b6e321"
+          "catalina": {
+            "url": "https://linuxbrew.bintray.com/bottles-bio/trnascan-2.0.4.catalina.bottle.tar.gz",
+            "sha256": "4b9b41b0218c8eca4a3ee120b308e690d26e2b452cafad34ace553287a656b0c"
           },
           "x86_64_linux": {
-            "url": "https://linuxbrew.bintray.com/bottles-bio/trnascan-2.0.3.x86_64_linux.bottle.tar.gz",
-            "sha256": "499d55124fced2bf77023a0aa0525a3a7913fa2011078dd3d26d474469cb220f"
+            "url": "https://linuxbrew.bintray.com/bottles-bio/trnascan-2.0.4.x86_64_linux.bottle.tar.gz",
+            "sha256": "cd9c6db9ce48711d817ffd2bca2dd6993d60973fb0c80f66f20103060701ca2b"
           }
         }
       }
@@ -13504,6 +14353,7 @@
     ],
     "recommended_dependencies": [],
     "optional_dependencies": [],
+    "uses_from_macos": [],
     "requirements": [],
     "conflicts_with": [],
     "caveats": null,
@@ -13514,7 +14364,7 @@
   },
   {
     "name": "unicycler",
-    "full_name": "brewsci/bio/unicycler",
+    "full_name": "mys721tx/bio/unicycler",
     "oldname": null,
     "aliases": [],
     "versioned_formulae": [],
@@ -13561,6 +14411,7 @@
     ],
     "recommended_dependencies": [],
     "optional_dependencies": [],
+    "uses_from_macos": [],
     "requirements": [],
     "conflicts_with": [],
     "caveats": null,
@@ -13571,7 +14422,7 @@
   },
   {
     "name": "unikmer",
-    "full_name": "brewsci/bio/unikmer",
+    "full_name": "mys721tx/bio/unikmer",
     "oldname": null,
     "aliases": [],
     "versioned_formulae": [],
@@ -13610,6 +14461,7 @@
     "dependencies": [],
     "recommended_dependencies": [],
     "optional_dependencies": [],
+    "uses_from_macos": [],
     "requirements": [],
     "conflicts_with": [],
     "caveats": null,
@@ -13620,7 +14472,7 @@
   },
   {
     "name": "uniqtag",
-    "full_name": "brewsci/bio/uniqtag",
+    "full_name": "mys721tx/bio/uniqtag",
     "oldname": null,
     "aliases": [],
     "versioned_formulae": [],
@@ -13644,6 +14496,7 @@
     ],
     "recommended_dependencies": [],
     "optional_dependencies": [],
+    "uses_from_macos": [],
     "requirements": [],
     "conflicts_with": [],
     "caveats": null,
@@ -13654,7 +14507,7 @@
   },
   {
     "name": "varscan",
-    "full_name": "brewsci/bio/varscan",
+    "full_name": "mys721tx/bio/varscan",
     "oldname": null,
     "aliases": [],
     "versioned_formulae": [],
@@ -13678,6 +14531,7 @@
     ],
     "recommended_dependencies": [],
     "optional_dependencies": [],
+    "uses_from_macos": [],
     "requirements": [],
     "conflicts_with": [],
     "caveats": null,
@@ -13688,7 +14542,7 @@
   },
   {
     "name": "varsim",
-    "full_name": "brewsci/bio/varsim",
+    "full_name": "mys721tx/bio/varsim",
     "oldname": null,
     "aliases": [],
     "versioned_formulae": [],
@@ -13730,6 +14584,7 @@
     ],
     "recommended_dependencies": [],
     "optional_dependencies": [],
+    "uses_from_macos": [],
     "requirements": [],
     "conflicts_with": [],
     "caveats": null,
@@ -13740,7 +14595,7 @@
   },
   {
     "name": "vcflib",
-    "full_name": "brewsci/bio/vcflib",
+    "full_name": "mys721tx/bio/vcflib",
     "oldname": null,
     "aliases": [],
     "versioned_formulae": [],
@@ -13785,6 +14640,7 @@
     ],
     "recommended_dependencies": [],
     "optional_dependencies": [],
+    "uses_from_macos": [],
     "requirements": [],
     "conflicts_with": [],
     "caveats": "The vcflib R scripts can be found in\n$(brew --prefix)/share/vcflib/\n",
@@ -13795,7 +14651,7 @@
   },
   {
     "name": "velvet",
-    "full_name": "brewsci/bio/velvet",
+    "full_name": "mys721tx/bio/velvet",
     "oldname": null,
     "aliases": [],
     "versioned_formulae": [],
@@ -13836,6 +14692,7 @@
     ],
     "recommended_dependencies": [],
     "optional_dependencies": [],
+    "uses_from_macos": [],
     "requirements": [],
     "conflicts_with": [],
     "caveats": null,
@@ -13846,7 +14703,7 @@
   },
   {
     "name": "velvetoptimiser",
-    "full_name": "brewsci/bio/velvetoptimiser",
+    "full_name": "mys721tx/bio/velvetoptimiser",
     "oldname": null,
     "aliases": [],
     "versioned_formulae": [],
@@ -13889,6 +14746,7 @@
     ],
     "recommended_dependencies": [],
     "optional_dependencies": [],
+    "uses_from_macos": [],
     "requirements": [],
     "conflicts_with": [],
     "caveats": null,
@@ -13899,7 +14757,7 @@
   },
   {
     "name": "verticalize",
-    "full_name": "brewsci/bio/verticalize",
+    "full_name": "mys721tx/bio/verticalize",
     "oldname": null,
     "aliases": [],
     "versioned_formulae": [],
@@ -13938,6 +14796,7 @@
     "dependencies": [],
     "recommended_dependencies": [],
     "optional_dependencies": [],
+    "uses_from_macos": [],
     "requirements": [],
     "conflicts_with": [],
     "caveats": null,
@@ -13948,7 +14807,7 @@
   },
   {
     "name": "viennarna",
-    "full_name": "brewsci/bio/viennarna",
+    "full_name": "mys721tx/bio/viennarna",
     "oldname": null,
     "aliases": [],
     "versioned_formulae": [],
@@ -13989,6 +14848,7 @@
     ],
     "recommended_dependencies": [],
     "optional_dependencies": [],
+    "uses_from_macos": [],
     "requirements": [],
     "conflicts_with": [],
     "caveats": null,
@@ -13999,7 +14859,7 @@
   },
   {
     "name": "virulign",
-    "full_name": "brewsci/bio/virulign",
+    "full_name": "mys721tx/bio/virulign",
     "oldname": null,
     "aliases": [],
     "versioned_formulae": [],
@@ -14040,6 +14900,7 @@
     "dependencies": [],
     "recommended_dependencies": [],
     "optional_dependencies": [],
+    "uses_from_macos": [],
     "requirements": [],
     "conflicts_with": [],
     "caveats": null,
@@ -14050,14 +14911,14 @@
   },
   {
     "name": "vsearch",
-    "full_name": "brewsci/bio/vsearch",
+    "full_name": "mys721tx/bio/vsearch",
     "oldname": null,
     "aliases": [],
     "versioned_formulae": [],
     "desc": "USEARCH-compatible metagenomic sequence tool",
     "homepage": "https://github.com/torognes/vsearch",
     "versions": {
-      "stable": "2.13.6",
+      "stable": "2.14.1",
       "devel": null,
       "head": "HEAD",
       "bottle": true
@@ -14071,13 +14932,13 @@
         "prefix": "/home/linuxbrew/.linuxbrew",
         "root_url": "https://linuxbrew.bintray.com/bottles-bio",
         "files": {
-          "sierra": {
-            "url": "https://linuxbrew.bintray.com/bottles-bio/vsearch-2.13.6.sierra.bottle.tar.gz",
-            "sha256": "a2f608173d44c07b4ab8be70b491bea725eea0e1aca2b6ec2c2e39be5ec041d8"
+          "mojave": {
+            "url": "https://linuxbrew.bintray.com/bottles-bio/vsearch-2.14.1.mojave.bottle.tar.gz",
+            "sha256": "40752ce646e158f551a3f8b8c97879426ddbafe77683dfe2e57f193548dcbfdb"
           },
           "x86_64_linux": {
-            "url": "https://linuxbrew.bintray.com/bottles-bio/vsearch-2.13.6.x86_64_linux.bottle.tar.gz",
-            "sha256": "be53bea06af34f1eb38b7228c7f51b98f08636c4ca141ca7fa991a1d68f641ce"
+            "url": "https://linuxbrew.bintray.com/bottles-bio/vsearch-2.14.1.x86_64_linux.bottle.tar.gz",
+            "sha256": "18aaea48ac36e09cc9b285e7e68a15f4b622f9bfe5f338c8916bda31abe9e9d2"
           }
         }
       }
@@ -14095,6 +14956,7 @@
     ],
     "recommended_dependencies": [],
     "optional_dependencies": [],
+    "uses_from_macos": [],
     "requirements": [],
     "conflicts_with": [],
     "caveats": null,
@@ -14105,7 +14967,7 @@
   },
   {
     "name": "vt",
-    "full_name": "brewsci/bio/vt",
+    "full_name": "mys721tx/bio/vt",
     "oldname": null,
     "aliases": [],
     "versioned_formulae": [],
@@ -14146,6 +15008,7 @@
     ],
     "recommended_dependencies": [],
     "optional_dependencies": [],
+    "uses_from_macos": [],
     "requirements": [],
     "conflicts_with": [],
     "caveats": null,
@@ -14156,7 +15019,7 @@
   },
   {
     "name": "webin-cli",
-    "full_name": "brewsci/bio/webin-cli",
+    "full_name": "mys721tx/bio/webin-cli",
     "oldname": null,
     "aliases": [],
     "versioned_formulae": [],
@@ -14197,6 +15060,7 @@
     ],
     "recommended_dependencies": [],
     "optional_dependencies": [],
+    "uses_from_macos": [],
     "requirements": [],
     "conflicts_with": [],
     "caveats": null,
@@ -14207,7 +15071,7 @@
   },
   {
     "name": "wiggletools",
-    "full_name": "brewsci/bio/wiggletools",
+    "full_name": "mys721tx/bio/wiggletools",
     "oldname": null,
     "aliases": [],
     "versioned_formulae": [],
@@ -14253,6 +15117,7 @@
     ],
     "recommended_dependencies": [],
     "optional_dependencies": [],
+    "uses_from_macos": [],
     "requirements": [],
     "conflicts_with": [],
     "caveats": null,
@@ -14263,7 +15128,7 @@
   },
   {
     "name": "wish",
-    "full_name": "brewsci/bio/wish",
+    "full_name": "mys721tx/bio/wish",
     "oldname": null,
     "aliases": [],
     "versioned_formulae": [],
@@ -14304,6 +15169,7 @@
     "dependencies": [],
     "recommended_dependencies": [],
     "optional_dependencies": [],
+    "uses_from_macos": [],
     "requirements": [],
     "conflicts_with": [],
     "caveats": null,
@@ -14314,14 +15180,14 @@
   },
   {
     "name": "wtdbg2",
-    "full_name": "brewsci/bio/wtdbg2",
+    "full_name": "mys721tx/bio/wtdbg2",
     "oldname": null,
     "aliases": [],
     "versioned_formulae": [],
     "desc": "Fuzzy de Bruijn Graph long read assembler",
     "homepage": "https://github.com/ruanjue/wtdbg2",
     "versions": {
-      "stable": "2.4",
+      "stable": "2.5",
       "devel": null,
       "head": null,
       "bottle": true
@@ -14336,8 +15202,8 @@
         "root_url": "https://linuxbrew.bintray.com/bottles-bio",
         "files": {
           "x86_64_linux": {
-            "url": "https://linuxbrew.bintray.com/bottles-bio/wtdbg2-2.4.x86_64_linux.bottle.tar.gz",
-            "sha256": "0a9910cf4ff402a2c091589264a3b2236318b6a074cbace3ad16bef9444d39cf"
+            "url": "https://linuxbrew.bintray.com/bottles-bio/wtdbg2-2.5.x86_64_linux.bottle.tar.gz",
+            "sha256": "a745e86dde75d8ec852dbd2fbf0c145d921d413274854e69ba1249374275f488"
           }
         }
       }
@@ -14353,6 +15219,7 @@
     ],
     "recommended_dependencies": [],
     "optional_dependencies": [],
+    "uses_from_macos": [],
     "requirements": [
       {
         "name": "linux",
@@ -14369,14 +15236,14 @@
   },
   {
     "name": "xmatchview",
-    "full_name": "brewsci/bio/xmatchview",
+    "full_name": "mys721tx/bio/xmatchview",
     "oldname": null,
     "aliases": [],
     "versioned_formulae": [],
     "desc": "Smith-waterman alignment visualization",
     "homepage": "https://github.com/bcgsc/xmatchview",
     "versions": {
-      "stable": "1.1.1",
+      "stable": "1.2.0",
       "devel": null,
       "head": "HEAD",
       "bottle": true
@@ -14391,12 +15258,12 @@
         "root_url": "https://linuxbrew.bintray.com/bottles-bio",
         "files": {
           "sierra": {
-            "url": "https://linuxbrew.bintray.com/bottles-bio/xmatchview-1.1.1.sierra.bottle.tar.gz",
-            "sha256": "8c7c07606ed33a2f6b435de93510566b01b737987a8c97f373735350c8a391a2"
+            "url": "https://linuxbrew.bintray.com/bottles-bio/xmatchview-1.2.0.sierra.bottle.tar.gz",
+            "sha256": "2b17c832197c0abd912495ca38cfbd2963218e8771be3efbfad7d3c51b2da504"
           },
           "x86_64_linux": {
-            "url": "https://linuxbrew.bintray.com/bottles-bio/xmatchview-1.1.1.x86_64_linux.bottle.tar.gz",
-            "sha256": "a5a8927f3ba541355ccb4fea94e2f639651e55bff2c2641cc04ffb8594774b5f"
+            "url": "https://linuxbrew.bintray.com/bottles-bio/xmatchview-1.2.0.x86_64_linux.bottle.tar.gz",
+            "sha256": "280d250cd2daefca86d6c2fe5fa64033b3a7dd68b548563d8ca6fae76d14c681"
           }
         }
       }
@@ -14412,6 +15279,7 @@
     ],
     "recommended_dependencies": [],
     "optional_dependencies": [],
+    "uses_from_macos": [],
     "requirements": [],
     "conflicts_with": [],
     "caveats": null,
@@ -14422,7 +15290,7 @@
   },
   {
     "name": "xssp",
-    "full_name": "brewsci/bio/xssp",
+    "full_name": "mys721tx/bio/xssp",
     "oldname": null,
     "aliases": [],
     "versioned_formulae": [],
@@ -14467,6 +15335,7 @@
     ],
     "recommended_dependencies": [],
     "optional_dependencies": [],
+    "uses_from_macos": [],
     "requirements": [],
     "conflicts_with": [],
     "caveats": null,
