@@ -8,13 +8,14 @@ class Busco < Formula
   homepage "https://busco.ezlab.org"
   url "https://gitlab.com/ezlab/busco/repository/4.0.0/archive.tar.gz"
   sha256 "de1a6069ea660aee81dca4950b7f4203a42f074d7ef22e853765156fc75e649f"
+  revision 1
   head "https://gitlab.com/ezlab/busco.git"
 
   bottle do
     root_url "https://linuxbrew.bintray.com/bottles-bio"
     cellar :any_skip_relocation
-    sha256 "27563bf86cf13349ac2f877c04241c74f82252a72ad880d0bca6d54da4a579f5" => :mojave
-    sha256 "2ceb6f7acbc46ba62b673aa534b8f02145f21259948f0f66c583b5701aa65e90" => :x86_64_linux
+    sha256 "26206163c9eee9a1db507c71efe29d29c51223fcf7ea9238f725d1c5c3066d75" => :catalina
+    sha256 "9d9cf66b0c7d8b9992d4c35528be9f8076659c1650a731cf1db8a2ac461d5ab3" => :x86_64_linux
   end
 
   depends_on "augustus"
@@ -34,7 +35,7 @@ class Busco < Formula
     virtualenv_install_with_resources
     # Save the original config with options, etc.
     mv libexec/"config/config.ini", libexec/"config/config.default.ini"
-    (prefix/"config/config.ini").write <<~EOS
+    (libexec/"config/config.ini").write <<~EOS
       [busco_run]
       [tblastn]
       path = #{Formula["blast"].bin}
