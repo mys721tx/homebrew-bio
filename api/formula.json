@@ -1593,14 +1593,14 @@
     "desc": "Highly parallel build/index of coloured/compacted de Bruijn graphs",
     "homepage": "https://github.com/pmelsted/bifrost",
     "versions": {
-      "stable": "1.0",
+      "stable": "1.0.3",
       "devel": null,
       "head": null,
       "bottle": true
     },
     "urls": {
       "stable": {
-        "url": "https://github.com/pmelsted/bifrost/archive/v1.0.tar.gz",
+        "url": "https://github.com/pmelsted/bifrost/archive/v1.0.3.tar.gz",
         "tag": null,
         "revision": null
       }
@@ -1610,17 +1610,17 @@
     "bottle": {
       "stable": {
         "rebuild": 0,
-        "cellar": ":any",
+        "cellar": ":any_skip_relocation",
         "prefix": "/home/linuxbrew/.linuxbrew",
         "root_url": "https://linuxbrew.bintray.com/bottles-bio",
         "files": {
           "catalina": {
-            "url": "https://linuxbrew.bintray.com/bottles-bio/bifrost-1.0.catalina.bottle.tar.gz",
-            "sha256": "7d38aca8cd115acc3c11250c0a14da474df8d1e94804ae54179d91c36b350783"
+            "url": "https://linuxbrew.bintray.com/bottles-bio/bifrost-1.0.3.catalina.bottle.tar.gz",
+            "sha256": "7b1dd408c758d9b1d32eb90084b59c9bc63973c16ec1768c9f20782ffdf3c264"
           },
           "x86_64_linux": {
-            "url": "https://linuxbrew.bintray.com/bottles-bio/bifrost-1.0.x86_64_linux.bottle.tar.gz",
-            "sha256": "826e134126f4cb1e4d227ab4e6f1d1a91759d1eb404abd01f201da15de9677f7"
+            "url": "https://linuxbrew.bintray.com/bottles-bio/bifrost-1.0.3.x86_64_linux.bottle.tar.gz",
+            "sha256": "a688f96b6a5d61e900001e2332267c8e563e6b82652348649032b2dd23d3ede2"
           }
         }
       }
@@ -1975,7 +1975,7 @@
     "dependencies": [
       "libpng",
       "mysql@5.7",
-      "openssl"
+      "openssl@1.1"
     ],
     "recommended_dependencies": [],
     "optional_dependencies": [],
@@ -2279,12 +2279,12 @@
     "build_dependencies": [],
     "dependencies": [
       "augustus",
-      "blast@2.2",
+      "brewsci/bio/blast@2.2",
+      "brewsci/bio/sepp",
       "hmmer",
       "numpy",
       "prodigal",
-      "python",
-      "sepp"
+      "python"
     ],
     "recommended_dependencies": [],
     "optional_dependencies": [],
@@ -3311,6 +3311,72 @@
     "outdated": false
   },
   {
+    "name": "delly",
+    "full_name": "mys721tx/bio/delly",
+    "oldname": null,
+    "aliases": [],
+    "versioned_formulae": [],
+    "desc": "Structural variant discovery by paired-end and split-read analysis",
+    "homepage": "https://github.com/tobiasrausch/delly",
+    "versions": {
+      "stable": "0.8.3",
+      "devel": null,
+      "head": null,
+      "bottle": true
+    },
+    "urls": {
+      "stable": {
+        "url": "https://github.com/tobiasrausch/delly.git",
+        "tag": "v0.8.3",
+        "revision": "56ab2900da269568dc327045913ae77ff3919df1"
+      }
+    },
+    "revision": 0,
+    "version_scheme": 0,
+    "bottle": {
+      "stable": {
+        "rebuild": 0,
+        "cellar": ":any_skip_relocation",
+        "prefix": "/home/linuxbrew/.linuxbrew",
+        "root_url": "https://linuxbrew.bintray.com/bottles-bio",
+        "files": {
+          "catalina": {
+            "url": "https://linuxbrew.bintray.com/bottles-bio/delly-0.8.3.catalina.bottle.tar.gz",
+            "sha256": "58c163c66ccc974146287df238ddbfb073c54486636ab12578b57997710b5347"
+          },
+          "x86_64_linux": {
+            "url": "https://linuxbrew.bintray.com/bottles-bio/delly-0.8.3.x86_64_linux.bottle.tar.gz",
+            "sha256": "6f65366a9da00ccad5206d0bb5c13ee6a7d304cde81db49609b31ab51dcae13b"
+          }
+        }
+      }
+    },
+    "keg_only": false,
+    "bottle_disabled": false,
+    "options": [],
+    "build_dependencies": [
+      "autoconf",
+      "automake"
+    ],
+    "dependencies": [
+      "boost",
+      "htslib",
+      "xz",
+      "bzip2",
+      "zlib"
+    ],
+    "recommended_dependencies": [],
+    "optional_dependencies": [],
+    "uses_from_macos": [],
+    "requirements": [],
+    "conflicts_with": [],
+    "caveats": null,
+    "installed": [],
+    "linked_keg": null,
+    "pinned": false,
+    "outdated": false
+  },
+  {
     "name": "dida",
     "full_name": "mys721tx/bio/dida",
     "oldname": null,
@@ -3438,14 +3504,14 @@
     "desc": "Tools for BED, FASTA, FASTQ, GFA1/2, GFF3, SAM, and VCF files",
     "homepage": "https://github.com/heuermh/dishevelled-bio",
     "versions": {
-      "stable": "1.3.1",
+      "stable": "1.3.2",
       "devel": null,
       "head": null,
       "bottle": true
     },
     "urls": {
       "stable": {
-        "url": "https://search.maven.org/remotecontent?filepath=org/dishevelled/dsh-bio-tools/1.3.1/dsh-bio-tools-1.3.1-bin.tar.gz",
+        "url": "https://search.maven.org/remotecontent?filepath=org/dishevelled/dsh-bio-tools/1.3.2/dsh-bio-tools-1.3.2-bin.tar.gz",
         "tag": null,
         "revision": null
       }
@@ -3460,12 +3526,12 @@
         "root_url": "https://linuxbrew.bintray.com/bottles-bio",
         "files": {
           "catalina": {
-            "url": "https://linuxbrew.bintray.com/bottles-bio/dsh-bio-1.3.1.catalina.bottle.tar.gz",
-            "sha256": "feacf2723a08f86530008db58ab90568463eec79e10d65a7876794a36ca6a197"
+            "url": "https://linuxbrew.bintray.com/bottles-bio/dsh-bio-1.3.2.catalina.bottle.tar.gz",
+            "sha256": "42cffa5de3ad131f6c29a69843aad16dc939bb6790b3b7bfab0ee7ef88dda6a9"
           },
           "x86_64_linux": {
-            "url": "https://linuxbrew.bintray.com/bottles-bio/dsh-bio-1.3.1.x86_64_linux.bottle.tar.gz",
-            "sha256": "e52171c25de746f7acf3ac41796ddc69fbd6f1ab761fad55509ed70c7830662c"
+            "url": "https://linuxbrew.bintray.com/bottles-bio/dsh-bio-1.3.2.x86_64_linux.bottle.tar.gz",
+            "sha256": "e8809d4f7a4cbe09516612c34e21ba8bd94e0d44c448031661e48816f6868cf4"
           }
         }
       }
@@ -4199,16 +4265,16 @@
     "aliases": [],
     "versioned_formulae": [],
     "desc": "Classic FASTA sequence alignment suite",
-    "homepage": "http://faculty.virginia.edu/wrpearson/fasta/",
+    "homepage": "https://faculty.virginia.edu/wrpearson/fasta/",
     "versions": {
-      "stable": "36.3.8g",
+      "stable": "36.3.8h",
       "devel": null,
       "head": null,
       "bottle": true
     },
     "urls": {
       "stable": {
-        "url": "https://github.com/wrpearson/fasta36/archive/fasta-v36.3.8g.tar.gz",
+        "url": "https://github.com/wrpearson/fasta36/archive/v36.3.8h_11-Feb-2020.tar.gz",
         "tag": null,
         "revision": null
       }
@@ -4222,13 +4288,13 @@
         "prefix": "/home/linuxbrew/.linuxbrew",
         "root_url": "https://linuxbrew.bintray.com/bottles-bio",
         "files": {
-          "sierra": {
-            "url": "https://linuxbrew.bintray.com/bottles-bio/fasta-36.3.8g.sierra.bottle.tar.gz",
-            "sha256": "389a3bb347fefd53e505923cfc4bc5f45caf9d08c5312161091789dd8d15e749"
+          "catalina": {
+            "url": "https://linuxbrew.bintray.com/bottles-bio/fasta-36.3.8h.catalina.bottle.tar.gz",
+            "sha256": "7243b2aa0b0a8bd26748f1392639e111a692fd789bdc48622772778e5ea953ec"
           },
           "x86_64_linux": {
-            "url": "https://linuxbrew.bintray.com/bottles-bio/fasta-36.3.8g.x86_64_linux.bottle.tar.gz",
-            "sha256": "33403940543bad786c488197361f71ed00847f35793409107ba1103b7a8485bf"
+            "url": "https://linuxbrew.bintray.com/bottles-bio/fasta-36.3.8h.x86_64_linux.bottle.tar.gz",
+            "sha256": "fa74efd96bdcaa4aeb87fd7c4bf2c0df07e366f467750a3fc7a10e9adaabf630"
           }
         }
       }
@@ -4478,7 +4544,7 @@
     "options": [
       {
         "option": "--without-double",
-        "description": "Disable double precision floating point. Use single precision floating point and enable SSE."
+        "description": "Disable double precision floating point. Use single precision floating point & enable SSE"
       },
       {
         "option": "--without-openmp",
@@ -4982,7 +5048,7 @@
     "aliases": [],
     "versioned_formulae": [],
     "desc": "Predicting genes in short and error-prone reads",
-    "homepage": "https://github.com/COL-IU/FragGeneScan",
+    "homepage": "https://omics.informatics.indiana.edu/FragGeneScan/",
     "versions": {
       "stable": "1.31",
       "devel": null,
@@ -6674,6 +6740,70 @@
     "outdated": false
   },
   {
+    "name": "ivar",
+    "full_name": "mys721tx/bio/ivar",
+    "oldname": null,
+    "aliases": [],
+    "versioned_formulae": [],
+    "desc": "Viral amplicon-based sequencing pipeline",
+    "homepage": "https://github.com/andersen-lab/ivar",
+    "versions": {
+      "stable": "1.1",
+      "devel": null,
+      "head": null,
+      "bottle": true
+    },
+    "urls": {
+      "stable": {
+        "url": "https://github.com/andersen-lab/ivar/archive/v1.1-beta.tar.gz",
+        "tag": null,
+        "revision": null
+      }
+    },
+    "revision": 0,
+    "version_scheme": 0,
+    "bottle": {
+      "stable": {
+        "rebuild": 0,
+        "cellar": ":any",
+        "prefix": "/home/linuxbrew/.linuxbrew",
+        "root_url": "https://linuxbrew.bintray.com/bottles-bio",
+        "files": {
+          "catalina": {
+            "url": "https://linuxbrew.bintray.com/bottles-bio/ivar-1.1.catalina.bottle.tar.gz",
+            "sha256": "35d1f36a37874a888e744f77e3191896e32e8003296f1daa7734a0bb4458d429"
+          },
+          "x86_64_linux": {
+            "url": "https://linuxbrew.bintray.com/bottles-bio/ivar-1.1.x86_64_linux.bottle.tar.gz",
+            "sha256": "cfb9aee9cb008c600921ecb409628cab34b17ccdef192bf4720d6c4735d5dffa"
+          }
+        }
+      }
+    },
+    "keg_only": false,
+    "bottle_disabled": false,
+    "options": [],
+    "build_dependencies": [
+      "autoconf",
+      "automake",
+      "libtool"
+    ],
+    "dependencies": [
+      "htslib",
+      "zlib"
+    ],
+    "recommended_dependencies": [],
+    "optional_dependencies": [],
+    "uses_from_macos": [],
+    "requirements": [],
+    "conflicts_with": [],
+    "caveats": null,
+    "installed": [],
+    "linked_keg": null,
+    "pinned": false,
+    "outdated": false
+  },
+  {
     "name": "jellyfish",
     "full_name": "mys721tx/bio/jellyfish",
     "oldname": null,
@@ -7082,7 +7212,7 @@
     "dependencies": [
       "libpng",
       "mysql@5.7",
-      "openssl",
+      "openssl@1.1",
       "rsync",
       "util-linux",
       "zlib"
@@ -8241,7 +8371,7 @@
     "aliases": [],
     "versioned_formulae": [],
     "desc": "Long Interval Nucleotide K-mer Scaffolder",
-    "homepage": "http://www.bcgsc.ca/platform/bioinfo/software/links",
+    "homepage": "https://www.bcgsc.ca/platform/bioinfo/software/links",
     "versions": {
       "stable": "1.8.7",
       "devel": null,
@@ -8594,11 +8724,11 @@
     ],
     "dependencies": [
       "augustus",
-      "bioperl",
       "blast",
-      "exonerate",
-      "repeatmasker",
-      "snap",
+      "brewsci/bio/bioperl",
+      "brewsci/bio/exonerate",
+      "brewsci/bio/repeatmasker",
+      "brewsci/bio/snap",
       "perl",
       "sqlite"
     ],
@@ -8752,14 +8882,14 @@
     "desc": "Maryland Super-Read Celera Assembler",
     "homepage": "https://masurca.blogspot.com/",
     "versions": {
-      "stable": "3.3.7",
+      "stable": "3.3.9",
       "devel": null,
       "head": null,
       "bottle": true
     },
     "urls": {
       "stable": {
-        "url": "https://github.com/alekseyzimin/masurca/releases/download/v3.3.7/MaSuRCA-3.3.7.tar.gz",
+        "url": "https://github.com/alekseyzimin/masurca/releases/download/v3.3.9/MaSuRCA-3.3.9.tar.gz",
         "tag": null,
         "revision": null
       }
@@ -8774,8 +8904,8 @@
         "root_url": "https://linuxbrew.bintray.com/bottles-bio",
         "files": {
           "x86_64_linux": {
-            "url": "https://linuxbrew.bintray.com/bottles-bio/masurca-3.3.7.x86_64_linux.bottle.tar.gz",
-            "sha256": "219584cc8498739e61257cb116127af19ff717b91d36dbe78c301452acd41054"
+            "url": "https://linuxbrew.bintray.com/bottles-bio/masurca-3.3.9.x86_64_linux.bottle.tar.gz",
+            "sha256": "16e4787d9289750d0afbddfc178bcc51c1e3f46e2167c4508e49e234fb41e68e"
           }
         }
       }
@@ -8958,13 +9088,13 @@
       "cpanminus"
     ],
     "dependencies": [
-      "bioperl",
       "bowtie2",
-      "fraggenescan",
+      "brewsci/bio/bioperl",
+      "brewsci/bio/fraggenescan",
+      "brewsci/bio/idba",
       "hmmer",
-      "idba",
-      "perl",
-      "openssl"
+      "openssl@1.1",
+      "perl"
     ],
     "recommended_dependencies": [],
     "optional_dependencies": [],
@@ -10090,13 +10220,13 @@
         "prefix": "/home/linuxbrew/.linuxbrew",
         "root_url": "https://linuxbrew.bintray.com/bottles-bio",
         "files": {
-          "sierra": {
-            "url": "https://linuxbrew.bintray.com/bottles-bio/mpboot-1.1.0.sierra.bottle.tar.gz",
-            "sha256": "c3a99c0519bec05893eb24bb4363906fc00a989c2055ef8620536cde08c60fa6"
+          "catalina": {
+            "url": "https://linuxbrew.bintray.com/bottles-bio/mpboot-1.1.0.catalina.bottle.tar.gz",
+            "sha256": "9f81b4335359b8427fee1737fca2939f63ff62cc0f03097302c9837a99736fdd"
           },
           "x86_64_linux": {
             "url": "https://linuxbrew.bintray.com/bottles-bio/mpboot-1.1.0.x86_64_linux.bottle.tar.gz",
-            "sha256": "cd27e1c484da823dbf33b4e081c950b46aacfb3057af17552347bb3c011eba07"
+            "sha256": "1b0598dc6c2b93a62554e4d5189fb2a5b683f0e812706e7c9a4f61c9fcd227fb"
           }
         }
       }
@@ -13658,9 +13788,9 @@
     ],
     "dependencies": [
       "blast",
+      "brewsci/bio/rmblast",
+      "brewsci/bio/trf",
       "hmmer",
-      "rmblast",
-      "trf",
       "perl"
     ],
     "recommended_dependencies": [],
@@ -14121,14 +14251,14 @@
     "desc": "Filter soft/hard clipped alignments from SAM files",
     "homepage": "https://github.com/tseemann/samclip",
     "versions": {
-      "stable": "0.3.0",
+      "stable": "0.4.0",
       "devel": null,
       "head": null,
       "bottle": true
     },
     "urls": {
       "stable": {
-        "url": "https://github.com/tseemann/samclip/archive/v0.3.0.tar.gz",
+        "url": "https://github.com/tseemann/samclip/archive/v0.4.0.tar.gz",
         "tag": null,
         "revision": null
       }
@@ -14143,12 +14273,12 @@
         "root_url": "https://linuxbrew.bintray.com/bottles-bio",
         "files": {
           "catalina": {
-            "url": "https://linuxbrew.bintray.com/bottles-bio/samclip-0.3.0.catalina.bottle.tar.gz",
-            "sha256": "2067909340da4ba5782af14b1c009396effdc53efd14b54e02458a3bd7387566"
+            "url": "https://linuxbrew.bintray.com/bottles-bio/samclip-0.4.0.catalina.bottle.tar.gz",
+            "sha256": "f1eef22d3337796057f2f1fd45b63a893b408bc543ebd740a0869d7bf98a4280"
           },
           "x86_64_linux": {
-            "url": "https://linuxbrew.bintray.com/bottles-bio/samclip-0.3.0.x86_64_linux.bottle.tar.gz",
-            "sha256": "ed81eb05cd406556e8805a63ed5d2a9223f034626422548e6fa43ef11c463e36"
+            "url": "https://linuxbrew.bintray.com/bottles-bio/samclip-0.4.0.x86_64_linux.bottle.tar.gz",
+            "sha256": "10ed4d3fb055a47767520c453b4952dcaca8dc734784e05749c24f3d59ebc695"
           }
         }
       }
@@ -14597,24 +14727,47 @@
     "desc": "De novo assembly pipeline for Illumina paired-end reads",
     "homepage": "https://github.com/tseemann/shovill",
     "versions": {
-      "stable": "1.0.4",
+      "stable": "1.1.0",
       "devel": null,
       "head": "HEAD",
-      "bottle": false
+      "bottle": true
     },
-    "urls": {},
+    "urls": {
+      "stable": {
+        "url": "https://github.com/tseemann/shovill/archive/v1.1.0.tar.gz",
+        "tag": null,
+        "revision": null
+      }
+    },
     "revision": 0,
     "version_scheme": 0,
-    "bottle": {},
+    "bottle": {
+      "stable": {
+        "rebuild": 0,
+        "cellar": ":any_skip_relocation",
+        "prefix": "/home/linuxbrew/.linuxbrew",
+        "root_url": "https://linuxbrew.bintray.com/bottles-bio",
+        "files": {
+          "catalina": {
+            "url": "https://linuxbrew.bintray.com/bottles-bio/shovill-1.1.0.catalina.bottle.tar.gz",
+            "sha256": "7348bc9750cc3ed0ec6cec4c1aa55c2e36475e2d791d6edc383429d0677f4ee6"
+          },
+          "x86_64_linux": {
+            "url": "https://linuxbrew.bintray.com/bottles-bio/shovill-1.1.0.x86_64_linux.bottle.tar.gz",
+            "sha256": "4c8964af516ab407aa754466600409e9e0dd262ed1804211729f34b20cfdc1ea"
+          }
+        }
+      }
+    },
     "keg_only": false,
-    "bottle_disabled": true,
+    "bottle_disabled": false,
     "options": [],
     "build_dependencies": [],
     "dependencies": [
       "bwa",
       "flash",
+      "kmc",
       "lighter",
-      "mash",
       "megahit",
       "pigz",
       "pilon",
@@ -14830,19 +14983,19 @@
     "desc": "Strategic Kmer Extension for Scrupulous Assemblies",
     "homepage": "https://github.com/ncbi/SKESA",
     "versions": {
-      "stable": "2.3.0",
+      "stable": "2.4.0",
       "devel": null,
       "head": null,
       "bottle": true
     },
     "urls": {
       "stable": {
-        "url": "https://github.com/ncbi/SKESA/archive/v2.3.0.tar.gz",
+        "url": "https://github.com/ncbi/SKESA/archive/2.4.0.tar.gz",
         "tag": null,
         "revision": null
       }
     },
-    "revision": 2,
+    "revision": 0,
     "version_scheme": 0,
     "bottle": {
       "stable": {
@@ -14851,13 +15004,13 @@
         "prefix": "/home/linuxbrew/.linuxbrew",
         "root_url": "https://linuxbrew.bintray.com/bottles-bio",
         "files": {
-          "mojave": {
-            "url": "https://linuxbrew.bintray.com/bottles-bio/skesa-2.3.0_2.mojave.bottle.tar.gz",
-            "sha256": "a2bd9acebd6330fd0440ad68e505932f3c032c0c746054712bdcafdc6ea437d5"
+          "catalina": {
+            "url": "https://linuxbrew.bintray.com/bottles-bio/skesa-2.4.0.catalina.bottle.tar.gz",
+            "sha256": "6da28be7b7ca7600d5d900094fd1d5d41bf3b376a8b24121912e2256f8115319"
           },
           "x86_64_linux": {
-            "url": "https://linuxbrew.bintray.com/bottles-bio/skesa-2.3.0_2.x86_64_linux.bottle.tar.gz",
-            "sha256": "90e08e2a0fbf08060b2ffbbd3e3951840af8fd03e1fea9113758fe67677dc4d1"
+            "url": "https://linuxbrew.bintray.com/bottles-bio/skesa-2.4.0.x86_64_linux.bottle.tar.gz",
+            "sha256": "bc2b4247e6b192d5c0ddf318d24f62a12ed7a4fd4597b403abfc5183090c4dd1"
           }
         }
       }
@@ -15004,14 +15157,14 @@
     "desc": "Rapid bacterial SNP calling and core genome alignments",
     "homepage": "https://github.com/tseemann/snippy",
     "versions": {
-      "stable": "4.5.0",
+      "stable": "4.6.0",
       "devel": null,
       "head": null,
       "bottle": true
     },
     "urls": {
       "stable": {
-        "url": "https://github.com/tseemann/snippy/archive/v4.5.0.tar.gz",
+        "url": "https://github.com/tseemann/snippy/archive/v4.6.0.tar.gz",
         "tag": null,
         "revision": null
       }
@@ -15026,12 +15179,12 @@
         "root_url": "https://linuxbrew.bintray.com/bottles-bio",
         "files": {
           "catalina": {
-            "url": "https://linuxbrew.bintray.com/bottles-bio/snippy-4.5.0.catalina.bottle.tar.gz",
-            "sha256": "27236e602cc1a06b1a7420d43e8e1778b32d3a1788ef74ebc83c9a53881dd46b"
+            "url": "https://linuxbrew.bintray.com/bottles-bio/snippy-4.6.0.catalina.bottle.tar.gz",
+            "sha256": "8c0d0939812e84c244a2f87a92d42ae79fa9c001ee3a4ea8f00fefa4dd2fd15b"
           },
           "x86_64_linux": {
-            "url": "https://linuxbrew.bintray.com/bottles-bio/snippy-4.5.0.x86_64_linux.bottle.tar.gz",
-            "sha256": "534f4631c159b7ded5b5e4d4e3618beff337e7d9714ba4571defb8761effa8f9"
+            "url": "https://linuxbrew.bintray.com/bottles-bio/snippy-4.6.0.x86_64_linux.bottle.tar.gz",
+            "sha256": "c7a253e55f63fa2969d95ff81908f7fc61a6b1b09cc46b9d796511071396251b"
           }
         }
       }
