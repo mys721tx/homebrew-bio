@@ -2,14 +2,14 @@ class Bifrost < Formula
   # cite Holley_2019: "https://doi.org/10.1101/695338"
   desc "Highly parallel build/index of coloured/compacted de Bruijn graphs"
   homepage "https://github.com/pmelsted/bifrost"
-  url "https://github.com/pmelsted/bifrost/archive/v1.0.tar.gz"
-  sha256 "6c97da071946e980605e29f3b333ad14eeea7c6a79558d70309f7813aaf7eb56"
+  url "https://github.com/pmelsted/bifrost/archive/v1.0.3.tar.gz"
+  sha256 "22f3637e524ba707b33d9351f544731d46fa30795e41c223ef0592f90b3be422"
 
   bottle do
     root_url "https://linuxbrew.bintray.com/bottles-bio"
-    cellar :any
-    sha256 "7d38aca8cd115acc3c11250c0a14da474df8d1e94804ae54179d91c36b350783" => :catalina
-    sha256 "826e134126f4cb1e4d227ab4e6f1d1a91759d1eb404abd01f201da15de9677f7" => :x86_64_linux
+    cellar :any_skip_relocation
+    sha256 "7b1dd408c758d9b1d32eb90084b59c9bc63973c16ec1768c9f20782ffdf3c264" => :catalina
+    sha256 "a688f96b6a5d61e900001e2332267c8e563e6b82652348649032b2dd23d3ede2" => :x86_64_linux
   end
 
   depends_on "cmake" => :build
