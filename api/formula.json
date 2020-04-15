@@ -6202,6 +6202,68 @@
     "outdated": false
   },
   {
+    "name": "hh-suite",
+    "full_name": "mys721tx/bio/hh-suite",
+    "oldname": null,
+    "aliases": [],
+    "versioned_formulae": [],
+    "desc": "Remote protein homology detection suite",
+    "homepage": "https://github.com/soedinglab/hh-suite",
+    "versions": {
+      "stable": "3.2.0",
+      "devel": null,
+      "head": null,
+      "bottle": true
+    },
+    "urls": {
+      "stable": {
+        "url": "https://github.com/soedinglab/hh-suite/archive/v3.2.0.tar.gz",
+        "tag": null,
+        "revision": null
+      }
+    },
+    "revision": 1,
+    "version_scheme": 0,
+    "bottle": {
+      "stable": {
+        "rebuild": 0,
+        "cellar": ":any",
+        "prefix": "/home/linuxbrew/.linuxbrew",
+        "root_url": "https://linuxbrew.bintray.com/bottles-bio",
+        "files": {
+          "catalina": {
+            "url": "https://linuxbrew.bintray.com/bottles-bio/hh-suite-3.2.0_1.catalina.bottle.tar.gz",
+            "sha256": "145cff156ee16d6ab8cf0b335cc93b53fc4d4c028a9b6733b02585f8f0565791"
+          },
+          "x86_64_linux": {
+            "url": "https://linuxbrew.bintray.com/bottles-bio/hh-suite-3.2.0_1.x86_64_linux.bottle.tar.gz",
+            "sha256": "c14d716a6c586cd1e6fe2cd2745bf3d4606f810a89eff0cc14cdfe70cb624a2a"
+          }
+        }
+      }
+    },
+    "keg_only": false,
+    "bottle_disabled": false,
+    "options": [],
+    "build_dependencies": [
+      "cmake"
+    ],
+    "dependencies": [
+      "python",
+      "perl"
+    ],
+    "recommended_dependencies": [],
+    "optional_dependencies": [],
+    "uses_from_macos": [],
+    "requirements": [],
+    "conflicts_with": [],
+    "caveats": null,
+    "installed": [],
+    "linked_keg": null,
+    "pinned": false,
+    "outdated": false
+  },
+  {
     "name": "hisat2",
     "full_name": "mys721tx/bio/hisat2",
     "oldname": null,
@@ -7663,14 +7725,14 @@
     "desc": "Taxonomic sequence classification system",
     "homepage": "https://github.com/DerrickWood/kraken2",
     "versions": {
-      "stable": "2.0.8",
+      "stable": "2.0.9",
       "devel": null,
       "head": null,
       "bottle": true
     },
     "urls": {
       "stable": {
-        "url": "https://github.com/DerrickWood/kraken2/archive/v2.0.8-b%65ta.tar.gz",
+        "url": "https://github.com/DerrickWood/kraken2/archive/v2.0.9-b%65ta.tar.gz",
         "tag": null,
         "revision": null
       }
@@ -7680,17 +7742,17 @@
     "bottle": {
       "stable": {
         "rebuild": 0,
-        "cellar": ":any_skip_relocation",
+        "cellar": ":any",
         "prefix": "/home/linuxbrew/.linuxbrew",
         "root_url": "https://linuxbrew.bintray.com/bottles-bio",
         "files": {
-          "sierra": {
-            "url": "https://linuxbrew.bintray.com/bottles-bio/kraken2-2.0.8.sierra.bottle.tar.gz",
-            "sha256": "43156e8e27f5e6bb459d6c8ba42cfc6eca0d18dcf8a03162413e98288b2f716d"
+          "catalina": {
+            "url": "https://linuxbrew.bintray.com/bottles-bio/kraken2-2.0.9.catalina.bottle.tar.gz",
+            "sha256": "b89edf3c230158ea9ac3df0f5ce37b4b44a615577940f375926839f8bd267dad"
           },
           "x86_64_linux": {
-            "url": "https://linuxbrew.bintray.com/bottles-bio/kraken2-2.0.8.x86_64_linux.bottle.tar.gz",
-            "sha256": "f0aecc6bc527bb7718874b2852e7829fb7a53401df2555f6009c8d6b915e864f"
+            "url": "https://linuxbrew.bintray.com/bottles-bio/kraken2-2.0.9.x86_64_linux.bottle.tar.gz",
+            "sha256": "0145a2ff1d8ba837b22167cf8c1dcdc04ae13c1114ad7f7df2dfb256dd2c2857"
           }
         }
       }
@@ -11118,14 +11180,14 @@
     "desc": "Scalable genome assembly polishing",
     "homepage": "https://github.com/bcgsc/ntEdit",
     "versions": {
-      "stable": "1.3.1",
+      "stable": "1.3.2",
       "devel": null,
       "head": "HEAD",
       "bottle": true
     },
     "urls": {
       "stable": {
-        "url": "https://github.com/bcgsc/ntEdit/archive/v1.3.1.tar.gz",
+        "url": "https://github.com/bcgsc/ntEdit/archive/v1.3.2.tar.gz",
         "tag": null,
         "revision": null
       }
@@ -11139,13 +11201,13 @@
         "prefix": "/home/linuxbrew/.linuxbrew",
         "root_url": "https://linuxbrew.bintray.com/bottles-bio",
         "files": {
-          "mojave": {
-            "url": "https://linuxbrew.bintray.com/bottles-bio/ntedit-1.3.1.mojave.bottle.tar.gz",
-            "sha256": "e22a1f097b540564b408dcf2189f30cdc63a5db15f92b82605dfb13ab14446c9"
+          "catalina": {
+            "url": "https://linuxbrew.bintray.com/bottles-bio/ntedit-1.3.2.catalina.bottle.tar.gz",
+            "sha256": "ca1bc15d3add4caff031d05c1aaac1f72140b779ac2358cde0d6b6eef86ac4f9"
           },
           "x86_64_linux": {
-            "url": "https://linuxbrew.bintray.com/bottles-bio/ntedit-1.3.1.x86_64_linux.bottle.tar.gz",
-            "sha256": "a446acbbf4de038f96329f328276f4c154f0ebdfc59a1fd6ce8b4ed23525be86"
+            "url": "https://linuxbrew.bintray.com/bottles-bio/ntedit-1.3.2.x86_64_linux.bottle.tar.gz",
+            "sha256": "d030be57e3e285fd2921bdf235eff946a6b4a87fd424da0c4a38cc11da719e45"
           }
         }
       }
