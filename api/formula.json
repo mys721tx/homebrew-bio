@@ -1351,7 +1351,7 @@
     "desc": "De Bruijn graph compaction in low memory",
     "homepage": "https://github.com/GATB/bcalm",
     "versions": {
-      "stable": "2.2.0",
+      "stable": "2.2.2",
       "devel": null,
       "head": null,
       "bottle": true
@@ -1359,8 +1359,8 @@
     "urls": {
       "stable": {
         "url": "https://github.com/GATB/bcalm.git",
-        "tag": "v2.2.0",
-        "revision": "c8ac60252fa0b2abf511f7363cff7c4342dac2ee"
+        "tag": "v2.2.2",
+        "revision": "febf79a3b9e334962902b5f920114b7cc7e91881"
       }
     },
     "revision": 0,
@@ -1368,17 +1368,17 @@
     "bottle": {
       "stable": {
         "rebuild": 0,
-        "cellar": "/home/linuxbrew/.linuxbrew/Cellar",
+        "cellar": ":any_skip_relocation",
         "prefix": "/home/linuxbrew/.linuxbrew",
         "root_url": "https://linuxbrew.bintray.com/bottles-bio",
         "files": {
-          "sierra": {
-            "url": "https://linuxbrew.bintray.com/bottles-bio/bcalm-2.2.0.sierra.bottle.tar.gz",
-            "sha256": "6943db20f24e6ae8e904d5cc0c023c9f03fac05ba8e6ff6c45951fd75144c024"
+          "catalina": {
+            "url": "https://linuxbrew.bintray.com/bottles-bio/bcalm-2.2.2.catalina.bottle.tar.gz",
+            "sha256": "dcc1e682e002280de1aab1401b61c6c74921ea92e9e855325546c06e5da4c7b4"
           },
           "x86_64_linux": {
-            "url": "https://linuxbrew.bintray.com/bottles-bio/bcalm-2.2.0.x86_64_linux.bottle.tar.gz",
-            "sha256": "c13588ca561bc31e073857f2d27c0afc66e465c03358c52c9711f2af64e54f7c"
+            "url": "https://linuxbrew.bintray.com/bottles-bio/bcalm-2.2.2.x86_64_linux.bottle.tar.gz",
+            "sha256": "d9e93a21a9cddaf7647a8947539d6ebbfa93c904bba36498bb9f0bf1ccdcbd28"
           }
         }
       }
@@ -3747,16 +3747,16 @@
     "aliases": [],
     "versioned_formulae": [],
     "desc": "Multiple sequence alignment toolset",
-    "homepage": "http://eddylab.org/infernal/",
+    "homepage": "https://github.com/EddyRivasLab/easel",
     "versions": {
-      "stable": "0.43",
+      "stable": "0.46",
       "devel": null,
       "head": null,
       "bottle": true
     },
     "urls": {
       "stable": {
-        "url": "http://eddylab.org/infernal/infernal-1.1.2.tar.gz",
+        "url": "https://github.com/EddyRivasLab/easel/archive/easel-0.46.tar.gz",
         "tag": null,
         "revision": null
       }
@@ -3770,13 +3770,13 @@
         "prefix": "/home/linuxbrew/.linuxbrew",
         "root_url": "https://linuxbrew.bintray.com/bottles-bio",
         "files": {
-          "sierra": {
-            "url": "https://linuxbrew.bintray.com/bottles-bio/easel-0.43.sierra.bottle.tar.gz",
-            "sha256": "88436bd5340a4202a0a2a769226a97456d695883d2e97a8e4aa64e0e2560891b"
+          "catalina": {
+            "url": "https://linuxbrew.bintray.com/bottles-bio/easel-0.46.catalina.bottle.tar.gz",
+            "sha256": "c0ad8899059f44836c4358008f6ab0f8c0ab450dedb6dcd032c01dbf23c01e12"
           },
           "x86_64_linux": {
-            "url": "https://linuxbrew.bintray.com/bottles-bio/easel-0.43.x86_64_linux.bottle.tar.gz",
-            "sha256": "d7f95fcf20e465bb25b27bd1bd19631fe3bd636d5e415d8665e660c0a2fd8ad6"
+            "url": "https://linuxbrew.bintray.com/bottles-bio/easel-0.46.x86_64_linux.bottle.tar.gz",
+            "sha256": "b3721d487dd864d06b3816fb8dc73c62747f881e64b441b844c6e6e29d894cc4"
           }
         }
       }
@@ -3784,7 +3784,11 @@
     "keg_only": false,
     "bottle_disabled": false,
     "options": [],
-    "build_dependencies": [],
+    "build_dependencies": [
+      "autoconf",
+      "automake",
+      "libtool"
+    ],
     "dependencies": [],
     "recommended_dependencies": [],
     "optional_dependencies": [],
@@ -11311,7 +11315,7 @@
         "revision": null
       }
     },
-    "revision": 0,
+    "revision": 1,
     "version_scheme": 0,
     "bottle": {
       "stable": {
@@ -11321,12 +11325,12 @@
         "root_url": "https://linuxbrew.bintray.com/bottles-bio",
         "files": {
           "catalina": {
-            "url": "https://linuxbrew.bintray.com/bottles-bio/ntjoin-1.0.2.catalina.bottle.tar.gz",
-            "sha256": "194371069e006c56cd74a9f1cddf3fab56f01d270e8caef7ff71398e2f637664"
+            "url": "https://linuxbrew.bintray.com/bottles-bio/ntjoin-1.0.2_1.catalina.bottle.tar.gz",
+            "sha256": "d0f178a6a5280bd8eb2a536b29a30379acfa03821a380b4c36cf9ac01ea8d444"
           },
           "x86_64_linux": {
-            "url": "https://linuxbrew.bintray.com/bottles-bio/ntjoin-1.0.2.x86_64_linux.bottle.tar.gz",
-            "sha256": "7ef839cea24141303ad2a90c73875d6c641eef2dec86a4b718c2789ea287e651"
+            "url": "https://linuxbrew.bintray.com/bottles-bio/ntjoin-1.0.2_1.x86_64_linux.bottle.tar.gz",
+            "sha256": "c70609243c842d96bfd274466c5289074fa93f3afd356abdff375b3ea8b9dc6c"
           }
         }
       }
@@ -11338,7 +11342,7 @@
     "dependencies": [
       "bedtools",
       "numpy",
-      "python",
+      "python@3.8",
       "samtools",
       "scipy",
       "libxml2",
@@ -16831,19 +16835,19 @@
     "desc": "RNA-Seq de novo assembler",
     "homepage": "https://trinityrnaseq.github.io",
     "versions": {
-      "stable": "2.8.3",
+      "stable": "2.8.6",
       "devel": null,
       "head": null,
       "bottle": true
     },
     "urls": {
       "stable": {
-        "url": "https://github.com/trinityrnaseq/trinityrnaseq/archive/Trinity-v2.8.3.tar.gz",
+        "url": "https://github.com/trinityrnaseq/trinityrnaseq/archive/v2.8.6.tar.gz",
         "tag": null,
         "revision": null
       }
     },
-    "revision": 1,
+    "revision": 0,
     "version_scheme": 0,
     "bottle": {
       "stable": {
@@ -16852,13 +16856,13 @@
         "prefix": "/home/linuxbrew/.linuxbrew",
         "root_url": "https://linuxbrew.bintray.com/bottles-bio",
         "files": {
-          "sierra": {
-            "url": "https://linuxbrew.bintray.com/bottles-bio/trinity-2.8.3_1.sierra.bottle.tar.gz",
-            "sha256": "5e23769342aadb13867b85f482c8fd7e1cd55cac5a31d21a190217030ac8a756"
+          "catalina": {
+            "url": "https://linuxbrew.bintray.com/bottles-bio/trinity-2.8.6.catalina.bottle.tar.gz",
+            "sha256": "ecfa16c3838733387305b4a3ca1c34cf8359e94cf2882afdc3f93f408a61e639"
           },
           "x86_64_linux": {
-            "url": "https://linuxbrew.bintray.com/bottles-bio/trinity-2.8.3_1.x86_64_linux.bottle.tar.gz",
-            "sha256": "ff67590d079efb957c3b2619afb2fa10f71cf1ebc9b54399f63a793aebf85fd8"
+            "url": "https://linuxbrew.bintray.com/bottles-bio/trinity-2.8.6.x86_64_linux.bottle.tar.gz",
+            "sha256": "8987dbbccf081049203aa253c36d61e4ba1b26fb80e7ca7a5677153604278994"
           }
         }
       }
@@ -16877,7 +16881,8 @@
       "jellyfish",
       "salmon",
       "samtools",
-      "trimmomatic"
+      "trimmomatic",
+      "zlib"
     ],
     "recommended_dependencies": [],
     "optional_dependencies": [],
