@@ -1900,7 +1900,13 @@
       "head": null,
       "bottle": false
     },
-    "urls": {},
+    "urls": {
+      "stable": {
+        "url": "ftp://ftp.ncbi.nlm.nih.gov/blast/executables/blast+/2.2.31/ncbi-blast-2.2.31+-x64-linux.tar.gz",
+        "tag": null,
+        "revision": null
+      }
+    },
     "revision": 0,
     "version_scheme": 0,
     "bottle": {},
@@ -1978,6 +1984,66 @@
       "mysql@5.7",
       "openssl@1.1"
     ],
+    "recommended_dependencies": [],
+    "optional_dependencies": [],
+    "uses_from_macos": [],
+    "requirements": [],
+    "conflicts_with": [],
+    "caveats": null,
+    "installed": [],
+    "linked_keg": null,
+    "pinned": false,
+    "outdated": false
+  },
+  {
+    "name": "bodr",
+    "full_name": "mys721tx/bio/bodr",
+    "oldname": null,
+    "aliases": [],
+    "versioned_formulae": [],
+    "desc": "Database of chemoinformatics",
+    "homepage": "https://www.sourceforge.net/projects/bodr",
+    "versions": {
+      "stable": "10",
+      "devel": null,
+      "head": null,
+      "bottle": true
+    },
+    "urls": {
+      "stable": {
+        "url": "https://downloads.sourceforge.net/project/bodr/bodr/10/bodr-10.tar.bz2",
+        "tag": null,
+        "revision": null
+      }
+    },
+    "revision": 0,
+    "version_scheme": 0,
+    "bottle": {
+      "stable": {
+        "rebuild": 0,
+        "cellar": ":any_skip_relocation",
+        "prefix": "/home/linuxbrew/.linuxbrew",
+        "root_url": "https://linuxbrew.bintray.com/bottles-bio",
+        "files": {
+          "catalina": {
+            "url": "https://linuxbrew.bintray.com/bottles-bio/bodr-10.catalina.bottle.tar.gz",
+            "sha256": "87f1a1334eeccaba523dd941872090b5d2ed138f2f3759d7c27d1e39a2195abc"
+          },
+          "x86_64_linux": {
+            "url": "https://linuxbrew.bintray.com/bottles-bio/bodr-10.x86_64_linux.bottle.tar.gz",
+            "sha256": "902e4559129e1c0bc5e72e172b263ce6686423c82cb6dfdc15d1ed25c6eef01c"
+          }
+        }
+      }
+    },
+    "keg_only": false,
+    "bottle_disabled": false,
+    "options": [],
+    "build_dependencies": [
+      "libxml2",
+      "libxslt"
+    ],
+    "dependencies": [],
     "recommended_dependencies": [],
     "optional_dependencies": [],
     "uses_from_macos": [],
@@ -6881,14 +6947,14 @@
     "desc": "Viral amplicon-based sequencing pipeline",
     "homepage": "https://github.com/andersen-lab/ivar",
     "versions": {
-      "stable": "1.2",
+      "stable": "1.2.2",
       "devel": null,
       "head": null,
       "bottle": true
     },
     "urls": {
       "stable": {
-        "url": "https://github.com/andersen-lab/ivar/archive/v1.2.tar.gz",
+        "url": "https://github.com/andersen-lab/ivar/archive/v1.2.2.tar.gz",
         "tag": null,
         "revision": null
       }
@@ -6903,12 +6969,12 @@
         "root_url": "https://linuxbrew.bintray.com/bottles-bio",
         "files": {
           "catalina": {
-            "url": "https://linuxbrew.bintray.com/bottles-bio/ivar-1.2.catalina.bottle.tar.gz",
-            "sha256": "ea335601604594fb31f3978c0f59ce17cea90d703daee780ca579118dc81150a"
+            "url": "https://linuxbrew.bintray.com/bottles-bio/ivar-1.2.2.catalina.bottle.tar.gz",
+            "sha256": "5f58bf0568e9a1fea3ef86f367aa834c2df723dd0ac86a516c4a0d0c568955c2"
           },
           "x86_64_linux": {
-            "url": "https://linuxbrew.bintray.com/bottles-bio/ivar-1.2.x86_64_linux.bottle.tar.gz",
-            "sha256": "39829dc666c8d087a6b6c269690cef5822253b41949058766d11d34b081339e4"
+            "url": "https://linuxbrew.bintray.com/bottles-bio/ivar-1.2.2.x86_64_linux.bottle.tar.gz",
+            "sha256": "6457f2f6687d1b86b1ffd7448841d416561378302bfe288cf4504bf02dfda516"
           }
         }
       }
@@ -7852,14 +7918,14 @@
     "desc": "Find similar regions between sequences",
     "homepage": "http://last.cbrc.jp/",
     "versions": {
-      "stable": "1047",
+      "stable": "1061",
       "devel": null,
       "head": "HEAD",
       "bottle": true
     },
     "urls": {
       "stable": {
-        "url": "http://last.cbrc.jp/last-1047.zip",
+        "url": "http://last.cbrc.jp/last-1061.zip",
         "tag": null,
         "revision": null
       }
@@ -7874,12 +7940,12 @@
         "root_url": "https://linuxbrew.bintray.com/bottles-bio",
         "files": {
           "catalina": {
-            "url": "https://linuxbrew.bintray.com/bottles-bio/last-1047.catalina.bottle.tar.gz",
-            "sha256": "432cce5f2329980be09b68fe283370ae6324f62ace0c5e13c132e61560c5a2ea"
+            "url": "https://linuxbrew.bintray.com/bottles-bio/last-1061.catalina.bottle.tar.gz",
+            "sha256": "26a9965e1ac0c66c7ca8e77947356b13304b61080e1b1d7f81d783e092977398"
           },
           "x86_64_linux": {
-            "url": "https://linuxbrew.bintray.com/bottles-bio/last-1047.x86_64_linux.bottle.tar.gz",
-            "sha256": "cec8788c7927bb1b2fe9f3465b71a787c1cd0be25f9f9d894d890f8f3849e818"
+            "url": "https://linuxbrew.bintray.com/bottles-bio/last-1061.x86_64_linux.bottle.tar.gz",
+            "sha256": "37812f372df4253a73c1d24a4df7a14582d3a85963e2273655a611a23ac57e2f"
           }
         }
       }
@@ -8811,19 +8877,19 @@
     "desc": "Genome annotation pipeline",
     "homepage": "https://www.yandell-lab.org/software/maker.html",
     "versions": {
-      "stable": "2.31.10",
-      "devel": "3.01.02-beta",
-      "head": null,
+      "stable": "2.31.11",
+      "devel": null,
+      "head": "HEAD",
       "bottle": true
     },
     "urls": {
       "stable": {
-        "url": "http://yandell.topaz.genetics.utah.edu/maker_downloads/static/maker-2.31.10.tgz",
+        "url": "http://yandell.topaz.genetics.utah.edu/maker_downloads/static/maker-2.31.11.tgz",
         "tag": null,
         "revision": null
       }
     },
-    "revision": 2,
+    "revision": 0,
     "version_scheme": 0,
     "bottle": {
       "stable": {
@@ -8832,13 +8898,13 @@
         "prefix": "/home/linuxbrew/.linuxbrew",
         "root_url": "https://linuxbrew.bintray.com/bottles-bio",
         "files": {
-          "sierra": {
-            "url": "https://linuxbrew.bintray.com/bottles-bio/maker-2.31.10_2.sierra.bottle.tar.gz",
-            "sha256": "9d5e53a07e6e73dc09abdc9939a9f3f731535fdb0cc354935b3ff3a5e79e0c18"
+          "mojave": {
+            "url": "https://linuxbrew.bintray.com/bottles-bio/maker-2.31.11.mojave.bottle.tar.gz",
+            "sha256": "b6d7f905e818e0624a726a4ae270340b4bd950ea5cf92c6172f16f843e509446"
           },
           "x86_64_linux": {
-            "url": "https://linuxbrew.bintray.com/bottles-bio/maker-2.31.10_2.x86_64_linux.bottle.tar.gz",
-            "sha256": "6004e89464cf7b149fb339dd9aec0e614e90e13e0d1755f63f4d70de963f0ab2"
+            "url": "https://linuxbrew.bintray.com/bottles-bio/maker-2.31.11.x86_64_linux.bottle.tar.gz",
+            "sha256": "bb1c95a44a03f74fcf2777058f57bf99aa52099d911a04c1ae355aa0a09fd4c4"
           }
         }
       }
@@ -8847,8 +8913,8 @@
     "bottle_disabled": false,
     "options": [
       {
-        "option": "--with-open-mpi",
-        "description": "Build with open-mpi support"
+        "option": "--without-open-mpi",
+        "description": "Build without open-mpi support"
       }
     ],
     "build_dependencies": [
@@ -8864,10 +8930,10 @@
       "perl",
       "sqlite"
     ],
-    "recommended_dependencies": [],
-    "optional_dependencies": [
+    "recommended_dependencies": [
       "open-mpi"
     ],
+    "optional_dependencies": [],
     "uses_from_macos": [],
     "requirements": [],
     "conflicts_with": [],
@@ -8886,14 +8952,14 @@
     "desc": "Combined short-read alignment and variant detection",
     "homepage": "https://github.com/hsinnan75/MapCaller",
     "versions": {
-      "stable": "0.9.9.37",
+      "stable": "0.9.9.38",
       "devel": null,
       "head": null,
       "bottle": true
     },
     "urls": {
       "stable": {
-        "url": "https://github.com/hsinnan75/MapCaller/archive/v0.9.9.37.tar.gz",
+        "url": "https://github.com/hsinnan75/MapCaller/archive/v0.9.9.38.tar.gz",
         "tag": null,
         "revision": null
       }
@@ -8903,17 +8969,17 @@
     "bottle": {
       "stable": {
         "rebuild": 0,
-        "cellar": ":any_skip_relocation",
+        "cellar": ":any",
         "prefix": "/home/linuxbrew/.linuxbrew",
         "root_url": "https://linuxbrew.bintray.com/bottles-bio",
         "files": {
           "catalina": {
-            "url": "https://linuxbrew.bintray.com/bottles-bio/mapcaller-0.9.9.37.catalina.bottle.tar.gz",
-            "sha256": "4a368a1df0ac98307b96956d17ad7229b455a5f116820c1e81b24710b8a8e11e"
+            "url": "https://linuxbrew.bintray.com/bottles-bio/mapcaller-0.9.9.38.catalina.bottle.tar.gz",
+            "sha256": "e3ea40daeea663d7f9e08c1a44f79b6ce161d94238774508e8856d5805c1c01f"
           },
           "x86_64_linux": {
-            "url": "https://linuxbrew.bintray.com/bottles-bio/mapcaller-0.9.9.37.x86_64_linux.bottle.tar.gz",
-            "sha256": "c8caeffbbc61a1763be623830632e89eb91b6a0995e4cfdac0b5b25e558f455a"
+            "url": "https://linuxbrew.bintray.com/bottles-bio/mapcaller-0.9.9.38.x86_64_linux.bottle.tar.gz",
+            "sha256": "f0deb980cb0f6a4bc14df5aa013e26824a1e2a66279347d79ac90150fc5b08a7"
           }
         }
       }
@@ -9500,7 +9566,13 @@
       "head": null,
       "bottle": false
     },
-    "urls": {},
+    "urls": {
+      "stable": {
+        "url": "https://bitbucket.org/nsegata/metaphlan/get/default.tar.bz2",
+        "tag": null,
+        "revision": null
+      }
+    },
     "revision": 0,
     "version_scheme": 0,
     "bottle": {},
@@ -11373,7 +11445,13 @@
       "head": null,
       "bottle": false
     },
-    "urls": {},
+    "urls": {
+      "stable": {
+        "url": "https://github.com/tseemann/nullarbor/archive/v2.0.20191013.tar.gz",
+        "tag": null,
+        "revision": null
+      }
+    },
     "revision": 0,
     "version_scheme": 0,
     "bottle": {},
@@ -12002,7 +12080,13 @@
       "head": null,
       "bottle": false
     },
-    "urls": {},
+    "urls": {
+      "stable": {
+        "url": "https://www.pathvisio.org/data/releases/3.3.0/pathvisio_bin-3.3.0.zip",
+        "tag": null,
+        "revision": null
+      }
+    },
     "revision": 0,
     "version_scheme": 0,
     "bottle": {},
@@ -12111,7 +12195,7 @@
         "revision": null
       }
     },
-    "revision": 1,
+    "revision": 2,
     "version_scheme": 0,
     "bottle": {
       "stable": {
@@ -12120,13 +12204,13 @@
         "prefix": "/home/linuxbrew/.linuxbrew",
         "root_url": "https://linuxbrew.bintray.com/bottles-bio",
         "files": {
-          "sierra": {
-            "url": "https://linuxbrew.bintray.com/bottles-bio/phlawd-3.4b_1.sierra.bottle.tar.gz",
-            "sha256": "ad5daf13faa785f34a1ca49dff3807791c28db24de091ae6b56042b7322dc2ad"
+          "catalina": {
+            "url": "https://linuxbrew.bintray.com/bottles-bio/phlawd-3.4b_2.catalina.bottle.tar.gz",
+            "sha256": "ece6f29b1e9ae8f93d7e0cbf041f1bad949c68955f02ca9f0dbb0279d4b3d7b8"
           },
           "x86_64_linux": {
-            "url": "https://linuxbrew.bintray.com/bottles-bio/phlawd-3.4b_1.x86_64_linux.bottle.tar.gz",
-            "sha256": "41fd5fa09423ecabdc64a893e08186eb07714f3f63b5d065175ca5a8a653492b"
+            "url": "https://linuxbrew.bintray.com/bottles-bio/phlawd-3.4b_2.x86_64_linux.bottle.tar.gz",
+            "sha256": "d93ccf2fdc9de7917a96a99c153983c8d8c5798b35a4e63ff247ab54fcdbb061"
           }
         }
       }
@@ -12136,9 +12220,9 @@
     "options": [],
     "build_dependencies": [],
     "dependencies": [
+      "brewsci/bio/muscle",
+      "brewsci/bio/quicktree",
       "mafft",
-      "muscle",
-      "quicktree",
       "wget",
       "sqlite"
     ],
@@ -12457,14 +12541,14 @@
     "desc": "Pangenome analysis and threshold evaluation toolbox",
     "homepage": "https://github.com/SionBayliss/PIRATE",
     "versions": {
-      "stable": "1.0.2",
+      "stable": "1.0.3",
       "devel": null,
       "head": null,
       "bottle": true
     },
     "urls": {
       "stable": {
-        "url": "https://github.com/SionBayliss/PIRATE/archive/v1.0.2.tar.gz",
+        "url": "https://github.com/SionBayliss/PIRATE/archive/v1.0.3.tar.gz",
         "tag": null,
         "revision": null
       }
@@ -12478,13 +12562,13 @@
         "prefix": "/home/linuxbrew/.linuxbrew",
         "root_url": "https://linuxbrew.bintray.com/bottles-bio",
         "files": {
-          "sierra": {
-            "url": "https://linuxbrew.bintray.com/bottles-bio/pirate-1.0.2.sierra.bottle.tar.gz",
-            "sha256": "4e9fe8d9e3cc185c25f3eb012273fddfa1c94b70022260a03c4bd9196ace595d"
+          "catalina": {
+            "url": "https://linuxbrew.bintray.com/bottles-bio/pirate-1.0.3.catalina.bottle.tar.gz",
+            "sha256": "e34974e88ac26d538899b3f86982ee3980cd9ffb40beaf0bb9d7d4d8ad3f67ad"
           },
           "x86_64_linux": {
-            "url": "https://linuxbrew.bintray.com/bottles-bio/pirate-1.0.2.x86_64_linux.bottle.tar.gz",
-            "sha256": "55e990b75e9fde5b11fd07dcd0289d11ea6e152ba77576de3264284873ab5fc9"
+            "url": "https://linuxbrew.bintray.com/bottles-bio/pirate-1.0.3.x86_64_linux.bottle.tar.gz",
+            "sha256": "368b2cbe46f9f9450a775c8c861e3661436e2add1858d625c91110d8ae2295ca"
           }
         }
       }
@@ -13186,6 +13270,65 @@
     "dependencies": [
       "bzip2",
       "zlib"
+    ],
+    "recommended_dependencies": [],
+    "optional_dependencies": [],
+    "uses_from_macos": [],
+    "requirements": [],
+    "conflicts_with": [],
+    "caveats": null,
+    "installed": [],
+    "linked_keg": null,
+    "pinned": false,
+    "outdated": false
+  },
+  {
+    "name": "r2r",
+    "full_name": "mys721tx/bio/r2r",
+    "oldname": null,
+    "aliases": [],
+    "versioned_formulae": [],
+    "desc": "Software to speed depiction of aesthetic consensus RNA secondary structures",
+    "homepage": "https://sourceforge.net/projects/weinberg-r2r",
+    "versions": {
+      "stable": "1.0.6",
+      "devel": null,
+      "head": null,
+      "bottle": true
+    },
+    "urls": {
+      "stable": {
+        "url": "https://downloads.sourceforge.net/project/weinberg-r2r/R2R-1.0.6.tgz",
+        "tag": null,
+        "revision": null
+      }
+    },
+    "revision": 0,
+    "version_scheme": 0,
+    "bottle": {
+      "stable": {
+        "rebuild": 0,
+        "cellar": ":any",
+        "prefix": "/home/linuxbrew/.linuxbrew",
+        "root_url": "https://linuxbrew.bintray.com/bottles-bio",
+        "files": {
+          "catalina": {
+            "url": "https://linuxbrew.bintray.com/bottles-bio/r2r-1.0.6.catalina.bottle.tar.gz",
+            "sha256": "a4ad8532873cf38876d39dc09307d8df5d38c24449a05d66acf5d8e4aa857be8"
+          },
+          "x86_64_linux": {
+            "url": "https://linuxbrew.bintray.com/bottles-bio/r2r-1.0.6.x86_64_linux.bottle.tar.gz",
+            "sha256": "4b2d4f909b7c0041838e6a53e70be2dcfafbbf97bdd4a1460e6c9b987a7fae7a"
+          }
+        }
+      }
+    },
+    "keg_only": false,
+    "bottle_disabled": false,
+    "options": [],
+    "build_dependencies": [],
+    "dependencies": [
+      "nlopt"
     ],
     "recommended_dependencies": [],
     "optional_dependencies": [],
@@ -14572,11 +14715,11 @@
         "root_url": "https://linuxbrew.bintray.com/bottles-bio",
         "files": {
           "catalina": {
-            "url": "https://linuxbrew.bintray.com/bottles-bio/seqan@2-2.4.0.catalina.bottle.tar.gz",
+            "url": "https://linuxbrew.bintray.com/bottles-bio/seqan%402-2.4.0.catalina.bottle.tar.gz",
             "sha256": "1fe83b7b478611b6fc28fe4eb7bc34e8d7846c6bc8dda57ae37d3e4e40d9e821"
           },
           "x86_64_linux": {
-            "url": "https://linuxbrew.bintray.com/bottles-bio/seqan@2-2.4.0.x86_64_linux.bottle.tar.gz",
+            "url": "https://linuxbrew.bintray.com/bottles-bio/seqan%402-2.4.0.x86_64_linux.bottle.tar.gz",
             "sha256": "f4ab354e5fc7f7cf50afd231f1f38a5efcb716bb89347ffa2474aa46e61f3cb6"
           }
         }
@@ -14633,11 +14776,11 @@
         "root_url": "https://linuxbrew.bintray.com/bottles-bio",
         "files": {
           "catalina": {
-            "url": "https://linuxbrew.bintray.com/bottles-bio/seqan@3-3.0.0.catalina.bottle.tar.gz",
+            "url": "https://linuxbrew.bintray.com/bottles-bio/seqan%403-3.0.0.catalina.bottle.tar.gz",
             "sha256": "a1a8dc4e5bb64b19e4267c4ed23be3a6db8ce6e23f7278e0d1e1b9858a14cb56"
           },
           "x86_64_linux": {
-            "url": "https://linuxbrew.bintray.com/bottles-bio/seqan@3-3.0.0.x86_64_linux.bottle.tar.gz",
+            "url": "https://linuxbrew.bintray.com/bottles-bio/seqan%403-3.0.0.x86_64_linux.bottle.tar.gz",
             "sha256": "4085365e99e200e876c473a1530c46d3369ad7c8896f70b22d377360c2310fe6"
           }
         }
@@ -16566,7 +16709,13 @@
       "head": null,
       "bottle": false
     },
-    "urls": {},
+    "urls": {
+      "stable": {
+        "url": "https://tandem.bu.edu/trf/downloads/trf409.linux64",
+        "tag": null,
+        "revision": null
+      }
+    },
     "revision": 0,
     "version_scheme": 0,
     "bottle": {},
@@ -17029,7 +17178,13 @@
       "head": "HEAD",
       "bottle": false
     },
-    "urls": {},
+    "urls": {
+      "stable": {
+        "url": "https://github.com/sjackman/uniqtag/archive/1.0.tar.gz",
+        "tag": null,
+        "revision": null
+      }
+    },
     "revision": 0,
     "version_scheme": 0,
     "bottle": {},
@@ -17065,7 +17220,13 @@
       "head": null,
       "bottle": false
     },
-    "urls": {},
+    "urls": {
+      "stable": {
+        "url": "https://github.com/dkoboldt/varscan/raw/master/VarScan.v2.4.3.jar",
+        "tag": null,
+        "revision": null
+      }
+    },
     "revision": 0,
     "version_scheme": 0,
     "bottle": {},
