@@ -4,6 +4,7 @@ class Ntjoin < Formula
   homepage "https://github.com/bcgsc/ntJoin"
   url "https://github.com/bcgsc/ntJoin/releases/download/v1.0.3/ntJoin-1.0.3.tar.gz"
   sha256 "61b5afce7c38e9763777dc1ca5db3944eb76c64c22d2baf61c5f0383a3a74a9c"
+  license "GPL-3.0"
   head "https://github.com/bcgsc/ntJoin.git"
 
   bottle do
@@ -34,7 +35,7 @@ class Ntjoin < Formula
     libexec_src.install "src/indexlr"
     libexec_bin = Pathname.new("#{libexec}/bin/bin")
     libexec_bin.install Dir["bin/*"]
-    bin.env_script_all_files libexec/"bin", :PYTHONPATH => Dir[libexec/"lib/python*/site-packages"].first
+    bin.env_script_all_files libexec/"bin", PYTHONPATH: Dir[libexec/"lib/python*/site-packages"].first
     doc.install "README.md"
   end
 

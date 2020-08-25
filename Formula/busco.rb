@@ -8,6 +8,7 @@ class Busco < Formula
   homepage "https://busco.ezlab.org"
   url "https://gitlab.com/ezlab/busco/repository/4.1.1/archive.tar.bz2"
   sha256 "8c9bbdb9f04b89910f8eb8b4e48398faf9e9cb9ca9cabf9b5cd6c6f36c597936"
+  license "MIT"
   head "https://gitlab.com/ezlab/busco.git"
 
   bottle do
@@ -72,8 +73,8 @@ class Busco < Formula
     # Remove virtualenv_install_with_resources link and write our own
     rm bin/"busco"
     (bin/"busco").write_env_script libexec/"bin/busco",
-      :BUSCO_CONFIG_FILE    => libexec/"config.ini",
-      :AUGUSTUS_CONFIG_PATH => "#{Formula["augustus"].prefix}/config/"
+      BUSCO_CONFIG_FILE:    libexec/"config.ini",
+      AUGUSTUS_CONFIG_PATH: "#{Formula["augustus"].prefix}/config/"
   end
 
   def caveats
