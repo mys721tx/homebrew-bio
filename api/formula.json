@@ -1733,16 +1733,16 @@
     "versioned_formulae": [],
     "desc": "BioBloom Tools (BBT): Bloom filter for bioinformatics",
     "license": null,
-    "homepage": "http://www.bcgsc.ca/platform/bioinfo/software/biobloomtools/",
+    "homepage": "https://www.bcgsc.ca/platform/bioinfo/software/biobloomtools/",
     "versions": {
-      "stable": "2.3.2",
+      "stable": "2.3.3",
       "devel": null,
       "head": "HEAD",
       "bottle": true
     },
     "urls": {
       "stable": {
-        "url": "https://github.com/bcgsc/biobloom/releases/download/2.3.2/biobloomtools-2.3.2.tar.gz",
+        "url": "https://github.com/bcgsc/biobloom/releases/download/2.3.3/biobloomtools-2.3.3.tar.gz",
         "tag": null,
         "revision": null
       }
@@ -1756,13 +1756,13 @@
         "prefix": "/home/linuxbrew/.linuxbrew",
         "root_url": "https://linuxbrew.bintray.com/bottles-bio",
         "files": {
-          "sierra": {
-            "url": "https://linuxbrew.bintray.com/bottles-bio/biobloomtools-2.3.2.sierra.bottle.tar.gz",
-            "sha256": "4181eb16f11624fc6f5750a9d8dda2f948866ddfdf6551ebe486a6f221e9cde0"
+          "catalina": {
+            "url": "https://linuxbrew.bintray.com/bottles-bio/biobloomtools-2.3.3.catalina.bottle.tar.gz",
+            "sha256": "0ee92de1bc3bc3e22572154e84db05b1120953a1758ec90ae50685dc601c3551"
           },
           "x86_64_linux": {
-            "url": "https://linuxbrew.bintray.com/bottles-bio/biobloomtools-2.3.2.x86_64_linux.bottle.tar.gz",
-            "sha256": "a495e45dd593d6c015da6840579409b91dc1d95c3fba721623af07e04ac0024e"
+            "url": "https://linuxbrew.bintray.com/bottles-bio/biobloomtools-2.3.3.x86_64_linux.bottle.tar.gz",
+            "sha256": "6c1cb00f8060a9c59ab37bf3d58e8c8bbfb522a5c26ad714c2c07623bc672522"
           }
         }
       }
@@ -4068,14 +4068,14 @@
     "license": null,
     "homepage": "https://www.ncbi.nlm.nih.gov/books/NBK179288/",
     "versions": {
-      "stable": "12.4",
+      "stable": "13.8",
       "devel": null,
       "head": null,
       "bottle": true
     },
     "urls": {
       "stable": {
-        "url": "https://ftp.ncbi.nlm.nih.gov/entrez/entrezdirect/versions/12.4.20191101/edirect-12.4.20191101.tar.gz",
+        "url": "https://ftp.ncbi.nlm.nih.gov/entrez/entrezdirect/versions/13.8.20200827/edirect-13.8.20200827.tar.gz",
         "tag": null,
         "revision": null
       }
@@ -4085,17 +4085,17 @@
     "bottle": {
       "stable": {
         "rebuild": 0,
-        "cellar": ":any_skip_relocation",
+        "cellar": ":any",
         "prefix": "/home/linuxbrew/.linuxbrew",
         "root_url": "https://linuxbrew.bintray.com/bottles-bio",
         "files": {
-          "mojave": {
-            "url": "https://linuxbrew.bintray.com/bottles-bio/edirect-12.4.mojave.bottle.tar.gz",
-            "sha256": "37abb2f97bb0260af84499300935e4fec412fcf385d1f2e303eb681876b47877"
+          "catalina": {
+            "url": "https://linuxbrew.bintray.com/bottles-bio/edirect-13.8.catalina.bottle.tar.gz",
+            "sha256": "d24f466c08c865c1866212c03969c0597512ede63f0193e1dd1fef31f8e6de16"
           },
           "x86_64_linux": {
-            "url": "https://linuxbrew.bintray.com/bottles-bio/edirect-12.4.x86_64_linux.bottle.tar.gz",
-            "sha256": "e2fcc5996db0db2bb916e14d4925883d542271c397bf949f6c45d27b9aa4cc4d"
+            "url": "https://linuxbrew.bintray.com/bottles-bio/edirect-13.8.x86_64_linux.bottle.tar.gz",
+            "sha256": "ef5637b3c12ad99ef415c38c441f00537b0bea6bffb615253cc3ca477d0b741d"
           }
         }
       }
